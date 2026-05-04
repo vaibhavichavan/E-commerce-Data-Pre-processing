@@ -108,3 +108,8 @@ Export cleaned dataset to Excel. Generate full numeric and categorical summary r
 6. How does browsing time correlate with purchase quantity and product rating?
 
 
+## 📸 Notebook Screenshot
+
+![pdf Preview](https://github.com/vaibhavichavan/E-commerce-Data-Pre-processing/blob/main/Ecommerce-Pdf.pdf)
+
+
