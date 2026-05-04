@@ -1,0 +1,2011 @@
+﻿OrderID,ProductPrice,Quantity,CustomerAge,ProductReviews,ProductRating,DiscountPercentage,CustomerTenure,ProductCategory,DeliveryType,PaymentMethod,CustomerLocation,ReturnStatus,BrowsingTime
+1,839.68,1,44.18404715,18,2.58,45.44,15.84,Clothing,Express,PayPal,Central,Yes,212.17
+2,47.23,1,11.60846331,11,4.41,47.51,7.92,Sports,Standard,Debit Card,Central,Yes,96.08
+3,62.95,4,18.83418881,26,4.02,13.46,30.24,Home,Express,Debit Card,North,No,115.24
+4,80.46,1,40.14737831,,3.07,37.71,52.1,Clothing,Overnight,UPI,North,Yes,136.18
+5,45.32,3,44.34416046,19,3.29,11.94,0.01,Sports,Express,PayPal,Central,Yes,17.15
+6,45.32,1,44.62312467,19,1.52,36.88,27.94,Electronics,Standard,Credit Card,East,Yes,142.69
+7,81.58,2,23.19445582,22,4.36,39.87,34.96,Clothing,Express,Credit Card,North,Yes,51.85
+8,65.35,5,20.32601526,19,4.15,12.36,5.66,Sports,Standard,Credit Card,Central,No,124.08
+9,40.61,4,27.40047749,20,3.63,35.79,16.14,Sports,Standard,PayPal,South,No,109.82
+10,,3,38.59809128,22,2.86,40.61,2.24,Books,Overnight,Debit Card,West,Yes,270.85
+11,40.73,3,57.28216054,21,4.86,17.93,32.96,Sports,Express,Debit Card,North,No,233.52
+12,40.69,5,4.288442213,,4.52,8.39,45.13,Books,Overnight,UPI,Central,No,75.98
+13,54.84,3,31.68906865,17,3.58,4.6,2.75,Electronics,Overnight,UPI,North,No,68.69
+14,11.73,2,15.00982338,17,2.49,28.77,40.69,Electronics,Express,Debit Card,South,No,297.85
+15,15.5,1,10.21635984,20,3.47,48.9,35.44,Home,Overnight,Debit Card,East,Yes,81.49
+16,38.75,2,49.50434968,26,3.3,41.15,10.23,Books,Overnight,PayPal,Central,No,149.49
+17,29.74,1,43.16936862,19,2.58,21.79,28.13,Sports,Standard,UPI,South,No,132.89
+18,870,2,41.74150274,21,2.23,26.83,0,Home,Overnight,Credit Card,West,Yes,352.41
+19,31.84,1,48.8153876,19,2.63,13.98,64.45,Home,Express,Credit Card,Central,Yes,429.33
+20,21.75,3,27.80421655,25,3.3,8.15,19.18,Electronics,Standard,Credit Card,West,No,78.54
+21,79.31,3,28.51043725,11,2.71,24.1,23.24,Sports,Overnight,Credit Card,East,Yes,210.88
+22,45.48,6,67.78595925,19,2.05,23.18,26.22,Books,Overnight,Debit Card,Central,Yes,352.96
+23,51.35,5,31.30143419,22,4.04,26.1,19.78,Electronics,Express,Debit Card,Central,Yes,102.79
+24,21.51,6,46.0269817,20,3.13,47.64,46.64,Home,Overnight,PayPal,South,Yes,328.73
+25,39.11,1,35.09572311,25,1.27,30.19,22.58,Clothing,Express,Credit Card,North,No,166.8
+26,527.73,2,7.276122049,11,2.47,30.29,57.2,Home,Overnight,Debit Card,Central,Yes,161.06
+27,26.98,4,4.330564943,15,4.54,6.4,20.95,Clothing,Overnight,Debit Card,East,No,309.5
+28,57.51,2,,15,4.02,49.82,4.5,Electronics,Express,Debit Card,Central,Yes,893.88
+29,37.99,1,50.84151878,18,2.29,38.64,58.76,Books,Standard,Credit Card,Central,No,72.83
+30,,4,46.82437485,29,4.75,43.86,27.47,Sports,Express,Debit Card,Central,Yes,308.2
+31,37.97,4,48.71115746,19,1.31,20.72,28.83,Clothing,Standard,UPI,Central,Yes,263.34
+32,87.05,1,20.19430732,27,4.84,25.11,101.58,Sports,Standard,Credit Card,East,Yes,69.19
+33,49.73,4,59.23808735,12,1.98,26.1,1.88,Electronics,Express,Credit Card,South,No,50.27
+34,,3,20.5266005,18,1.04,9.7,13.43,Electronics,Express,UPI,North,No,72.34
+35,66.45,1,38.19236598,35,2.74,34.47,6.56,Electronics,Overnight,PayPal,East,Yes,147.23
+36,25.58,2,,30,2.44,45.15,23.89,Books,Overnight,PayPal,East,Yes,416.44
+37,54.18,1,32.3918927,15,3.16,8.19,39.46,Clothing,Standard,Credit Card,West,Yes,152.59
+38,10.81,2,55.07888207,21,4.19,4.32,81.37,Sports,Overnight,Credit Card,North,No,56.53
+39,23.44,50,24.4233422,23,4.37,36.91,14.55,Home,Express,Credit Card,South,No,142.7
+40,,3,14.75592116,31,2.6,13.66,37.03,Electronics,Standard,UPI,South,No,370.29
+41,,4,35.29993229,25,2.72,31.19,59.75,Sports,Overnight,Debit Card,West,No,248.56
+42,,4,29.00259899,21,1.59,34.79,27.6,Sports,Overnight,UPI,West,Yes,198.52
+43,47.69,0,85.66074379,30,1.19,16.1,6.67,Books,Express,Debit Card,East,No,58.27
+44,43.98,3,45.14761215,21,3.56,40.76,22.47,Clothing,Express,Debit Card,South,No,156.39
+45,20.43,0,28.85989137,9,1.26,27.5,84.12,Books,Overnight,PayPal,South,Yes,307.72
+46,35.6,3,19.15832646,15,3.94,43.45,105.27,Books,Standard,UPI,South,Yes,102.69
+47,40.79,1,6.795673841,17,3.16,38.16,24.68,Sports,Standard,UPI,East,No,57.54
+48,71.14,4,19.62171371,19,1.79,43.43,52.33,Clothing,Express,Credit Card,South,No,364.11
+49,56.87,5,36.72412658,,3.16,1.01,5.37,Clothing,Express,UPI,Central,Yes,627.28
+50,14.74,1,,22,1.73,12.18,6.78,Clothing,Express,Debit Card,West,No,142.37
+51,56.48,3,51.82533714,19,2.75,4.5,73.33,Electronics,Overnight,Debit Card,West,Yes,314.52
+52,42.3,3,38.43642247,19,4.2,22.1,3.49,Clothing,Overnight,UPI,West,No,263.44
+53,36.46,3,30.15248501,15,2.85,44.5,5.09,Sports,Express,PayPal,West,No,220.43
+54,62.23,2,39.03218535,28,1.59,23.38,13.1,Electronics,Standard,PayPal,Central,No,166.38
+55,70.62,3,27.22043004,17,3.9,42.49,21.37,Home,Express,Credit Card,North,Yes,207.4
+56,68.63,3,60.77545994,25,1.75,16.36,22.22,Books,Express,Credit Card,South,No,329.04
+57,33.22,4,,24,3.95,16.98,8.29,Clothing,Standard,Debit Card,West,Yes,205.13
+58,43.82,3,33.70493213,18,2.92,44.78,60.8,Home,Standard,UPI,South,Yes,377.6
+59,,1,1.762663625,21,2.81,21.29,59.19,Clothing,Standard,Debit Card,South,No,152.79
+60,,2,32.0684773,,4.41,39.49,11.94,Books,Standard,Debit Card,Central,No,247.43
+61,40.42,4,47.54726207,19,3.83,11.83,13.67,Sports,Overnight,UPI,South,No,284.89
+62,46.29,1,18.98416134,15,1.13,47.44,29.1,Sports,Overnight,Debit Card,West,Yes,1.24
+63,27.87,4,23.73919498,30,2.18,28.73,26.1,Books,Express,Debit Card,South,No,222.72
+64,26.08,2,46.89066527,25,4.48,37.97,11.56,Home,Overnight,PayPal,Central,Yes,236.56
+65,66.25,1,12.85014165,17,1.07,4.48,12.84,Electronics,Express,Credit Card,West,Yes,169.29
+66,77.12,5,,20,3.18,24.63,10.27,Electronics,Express,PayPal,Central,No,215.72
+67,48.56,6,27.01784165,16,3.91,45.05,6.44,Clothing,Standard,Credit Card,East,No,189.94
+68,70.07,1,29.17147669,23,3.49,43.85,14.71,Books,Standard,Credit Card,North,No,243.91
+69,57.23,7,18.14182392,,4.04,2.34,27.83,Books,Overnight,Credit Card,South,No,276.7
+70,37.1,4,40.67069391,15,3.9,15.18,32.51,Electronics,Overnight,PayPal,South,Yes,481.85
+71,57.23,3,71.89807978,15,3.77,22.17,36.22,Home,Overnight,UPI,South,No,70.79
+72,80.76,3,46.72245859,18,4.29,8.61,11.27,Books,Overnight,Debit Card,East,Yes,82.54
+73,49.28,,22.03572107,16,3.58,36.5,34.72,Sports,Standard,UPI,North,No,497.04
+74,81.29,3,52.03430878,16,2.61,9.23,0.16,Sports,Standard,UPI,Central,Yes,350.16
+75,5,3,30.24980681,23,2.89,17.33,15.56,Books,Overnight,Credit Card,East,Yes,243.72
+76,66.44,1,55.61727472,,3.87,33.16,37.91,Home,Express,Credit Card,East,Yes,36.97
+77,51.74,0,47.10014603,33,4.51,24.1,23.86,Sports,Standard,PayPal,West,Yes,82.44
+78,44.02,2,-9.147123482,16,2.09,36.93,15.42,Home,Standard,PayPal,East,No,140.65
+79,51.84,4,19.93880551,13,2.37,48.06,24.83,Electronics,Standard,Debit Card,East,No,226.66
+80,10.25,6,49.16577834,21,4.72,5.83,56.99,Clothing,Standard,UPI,South,No,48.49
+81,45.61,3,37.27485908,18,3.31,35.48,20.05,Electronics,Overnight,UPI,West,No,302.11
+82,57.14,3,,31,1.72,11.52,38.6,Clothing,Overnight,Debit Card,Central,Yes,240.66
+83,79.56,2,,22,3.65,20.72,94.8,Sports,Express,Credit Card,North,No,173.55
+84,39.63,1,6.406450699,11,4.96,1.64,29.34,Clothing,Standard,PayPal,Central,Yes,83.2
+85,33.83,0,33.67440069,13,4.29,6.8,20.44,Clothing,Overnight,Debit Card,West,Yes,53.16
+86,39.96,2,68.16034589,15,3.98,15.99,0.92,Books,Overnight,UPI,South,Yes,148.95
+87,68.31,6,47.07400086,23,1.83,17.1,11.26,Clothing,Standard,Debit Card,North,Yes,203.16
+88,,6,67.85625502,22,4.5,44.98,20,Books,Overnight,Debit Card,Central,Yes,259.27
+89,39.4,3,48.23595635,21,3.1,37.09,38.29,BOOKS,Overnight,UPI,North,Yes,147.87
+90,60.27,,50.41219015,29,4.56,48.61,13.83,Books,Overnight,UPI,North,Yes,216.2
+91,51.94,2,64.61118032,26,2.32,29.95,77.29,Sports,Express,PayPal,North,Yes,231.72
+92,69.37,5,40.65894889,30,1.25,12.09,7.61,Sports,Overnight,PayPal,East,Yes,81.33
+93,35.96,3,32.19159018,,2.9,16.38,32.76,Clothing,Standard,UPI,West,Yes,274.3
+94,43.45,2,50.48986275,29,2.08,15.99,13.03,Home,Standard,PayPal,West,Yes,258.57
+95,42.16,2,56.80760356,23,3.86,16.32,15.97,Sports,Standard,PayPal,South,No,317.34
+96,20.73,2,27.80053036,17,4.83,33.65,38.93,Electronics,Overnight,PayPal,Central,Yes,141.2
+97,55.92,3,24.17646376,16,3.76,26.54,8.43,Electronics,Express,UPI,South,No,369.21
+98,55.22,1,37.08284049,15,4.55,19.27,2.44,Books,Overnight,Credit Card,Central,Yes,110.44
+99,50.1,6,120,27,2.81,7.45,17.63,Home,Standard,Credit Card,North,Yes,354.91
+100,45.31,4,46.97136573,20,4.09,1.11,18.06,Books,Express,PayPal,Central,Yes,88.29
+101,21.69,6,13.637486,21,4.37,10.94,38.29,Clothing,Express,Credit Card,Central,Yes,361.67
+102,,2,63.67409101,17,3.84,5.37,82.85,Sports,Overnight,PayPal,North,Yes,159.22
+103,43.15,5,25.38252606,19,3.03,39.27,1.37,Home,Standard,Credit Card,South,No,97.74
+104,33.95,2,31.02402505,21,3.5,5.62,21.5,Books,Overnight,Credit Card,Central,No,257.96
+105,46.77,3,21.4601846,20,3.8,36.21,27.44,Books,Standard,Debit Card,South,Yes,395.05
+106,58.08,6,75.47493254,18,2.01,19.28,102.11,Electronics,Express,PayPal,South,Yes,244.23
+107,87.72,6,38.63106005,16,4.24,3.67,68.58,Clothing,Overnight,Credit Card,West,Yes,168.74
+108,53.49,5,22.23537379,24,4.8,40.64,29.91,Books,Express,Credit Card,North,No,128.57
+109,55.15,4,47.95885325,17,2.86,28.98,17.7,Electronics,Standard,Debit Card,North,No,108.59
+110,48.51,3,46.53703669,13,3.8,11.79,4.23,Home,Express,Credit Card,East,Yes,95.26
+111,11.62,1,32.18409465,13,3.95,44.73,11.64,Books,Express,Debit Card,South,Yes,37.46
+112,49.47,4,47.60910069,20,3.65,2.26,21.11,Electronics,Express,Credit Card,East,Yes,109.02
+113,51.2,3,22.62062059,25,3.19,10.09,31,Clothing,Overnight,Debit Card,North,No,114.56
+114,99.26,4,27.60622588,12,4.53,37.6,24.21,Sports,Standard,Debit Card,North,Yes,273.42
+115,46.15,2,4.846750182,21,2.8,35.47,30.05,Home,Express,UPI,East,Yes,107.04
+116,56.03,2,15.14073374,18,1.24,14.46,13.46,Books,Express,PayPal,North,Yes,305.05
+117,49.31,4,62.11446209,21,4.38,3.1,31.21,Electronics,Express,UPI,North,No,289.54
+118,26.63,4,59.62142942,20,3.7,42.9,3.72,Books,Express,PayPal,West,Yes,61.17
+119,72.86,1,35.98682973,22,4.4,15.68,4.26,Sports,Standard,Credit Card,Central,Yes,554.02
+120,65.04,2,59.94397171,22,1.55,9.79,4.27,Books,Standard,PayPal,West,Yes,51.62
+121,65.82,,32.5988827,17,1.12,25.8,53.16,Books,Overnight,UPI,Central,No,677.86
+122,31.81,2,31.34884546,25,4.74,45.51,1.9,Electronics,Standard,PayPal,West,No,203.54
+123,78.06,,35.84765973,19,1.59,2.18,38.81,Sports,Standard,UPI,West,Yes,71.42
+124,21.96,5,33.12617607,19,4.24,38.29,6.38,Home,Express,PayPal,South,No,31.69
+125,61.74,2,31.77205515,13,4.29,28.62,15.17,Electronics,Overnight,Credit Card,East,Yes,262.95
+126,,2,52.15097161,10,3.83,21.27,59.43,Sports,Overnight,Credit Card,West,No,67.57
+127,30.19,2,37.25203481,25,1.53,37.2,21.16,Sports,Express,PayPal,South,Yes,542.92
+128,38.67,2,45.68722647,16,3.67,48.29,5.66,Books,Overnight,PayPal,West,Yes,177.46
+129,51.99,,50.47070788,16,4.56,11.46,8.02,Clothing,Standard,Credit Card,East,Yes,180.28
+130,39.93,2,40.82278693,14,2.7,7.18,60.75,Clothing,Overnight,PayPal,South,No,398.41
+131,18.99,2,20.44593011,23,2.65,45.64,13.37,Home,Express,Debit Card,Central,No,107.19
+132,51.37,3,14.70701167,18,2.77,33.45,21.22,Books,Overnight,Credit Card,East,No,336.55
+133,28.75,2,37.23170952,21,1.33,21.9,14.79,Clothing,Overnight,Credit Card,North,Yes,428.88
+134,59.47,2,32.43115543,23,4.57,28.66,11.41,Electronics,Overnight,UPI,South,No,89.04
+135,31.61,2,36.31087143,18,4.48,37.28,6.06,Home,Express,UPI,North,Yes,239.36
+136,81,5,34.75918941,16,4.99,38.65,27.82,Books,Standard,Debit Card,South,No,226.57
+137,,,73.7536049,13,3.34,45.99,30.4,Electronics,Overnight,PayPal,Central,Yes,376.1
+138,43.56,4,15.04660617,8,4,21.34,7.71,Clothing,Standard,Debit Card,South,Yes,89.72
+139,66.27,4,5.150805953,23,1.81,14.67,37.34,Clothing,Standard,PayPal,West,Yes,54.35
+140,25.38,4,39.9856525,22,3.67,31.98,46.27,Clothing,Standard,UPI,North,Yes,141.58
+141,54.55,4,29.35366168,15,3.6,20.79,60.82,Clothing,Overnight,PayPal,North,No,427.75
+142,76.14,0,39.74101805,15,4.6,29.73,4.22,Sports,Standard,UPI,South,Yes,42.17
+143,17.85,1,43.75824533,23,4.32,21,8.7,Home,Overnight,Credit Card,West,No,223.31
+144,53.69,4,54.26157043,20,4.75,7.65,47.25,Home,Overnight,Credit Card,West,Yes,263.14
+145,55.2,1,12.39161269,19,4.48,23.47,5.31,Clothing,Overnight,PayPal,South,Yes,192.46
+146,65.64,4,26.64923153,24,4.47,34.55,0.08,Home,Standard,UPI,East,Yes,382.86
+147,25.26,1,41.43141888,22,1.25,39.96,49.12,Electronics,Overnight,Debit Card,Central,No,128.22
+148,23.59,2,46.55695394,26,4.38,24.67,9.48,Electronics,Express,UPI,South,Yes,125.26
+149,60.44,2,67.90174325,17,3.43,8.26,12.85,Home,Express,UPI,West,Yes,247
+150,55.94,,49.33555957,20,2.52,20.73,14.19,Clothing,Express,UPI,Central,Yes,106.09
+151,55.01,4,34.14817106,21,1.23,39.31,45.26,Books,Overnight,Credit Card,South,Yes,280.02
+152,56.93,7,21.64346371,18,3.71,20.64,9.9,Clothing,Express,UPI,Central,No,101.26
+153,36.4,3,26.53565221,18,2.31,34.83,53.48,Sports,Overnight,PayPal,East,Yes,62.36
+154,54.65,4,26.10945766,20,2.87,25.36,23.03,Books,Overnight,Credit Card,West,Yes,304.5
+155,55.86,5,44.82850443,20,3.73,12.06,17.98,Sports,Overnight,Credit Card,East,Yes,95.99
+156,35.71,3,38.85496168,21,4.65,39.81,9.45,Home,Standard,Credit Card,East,No,462.25
+157,87.32,2,15.14525644,,4.3,4.21,6.7,Sports,Express,UPI,West,No,189.81
+158,,3,28.46147796,28,2.8,26.24,23.48,Home,Overnight,Debit Card,East,Yes,74.67
+159,26.17,2,48.1632133,17,2.55,10.44,14.21,Sports,Express,UPI,South,No,226.82
+160,,2,40.27493532,15,1.96,3.35,57.93,Books,Express,UPI,South,Yes,71.38
+161,30.51,4,43.52966924,20,2.49,25.15,16.24,Sports,Standard,Debit Card,Central,No,34.24
+162,65.74,1,40.74382565,15,1.44,24.98,17.21,Clothing,Express,UPI,South,Yes,168.08
+163,73.17,5,59.39646102,26,4.88,35.35,12.94,Home,Overnight,PayPal,South,Yes,102.56
+164,,2,38.54064596,22,3.3,37.24,37.37,Electronics,Overnight,Debit Card,Central,No,159.76
+165,69.27,3,29.20965803,21,1.51,36.39,13.27,Sports,Express,PayPal,North,Yes,95.64
+166,58.26,6,21.26367438,22,2.41,20.48,7.53,Home,Express,PayPal,West,Yes,139.05
+167,66.44,3,38.74414187,20,3.19,31.58,47.54,Electronics,Standard,Credit Card,South,No,193.1
+168,87.94,3,-1.610560222,18,3.13,28.85,21.8,Home,Overnight,Credit Card,Central,Yes,44.88
+169,45.09,7,32.23566497,15,1.14,21.08,21.49,Home,Express,Debit Card,East,Yes,59.25
+170,34.93,3,31.9124021,20,4.8,29.86,22.65,Electronics,Express,UPI,East,Yes,66.06
+171,32.21,1,14.5329372,19,2.1,47.36,30.45,Electronics,Overnight,PayPal,South,No,96.77
+172,33.68,0,21.07601242,26,1.06,9.64,9.01,Books,Express,UPI,West,No,57.53
+173,48.46,3,47.14486295,18,1.31,45.29,0.83,Sports,Standard,PayPal,Central,Yes,264.72
+174,56.82,1,38.46067624,25,3.32,2.67,39.93,Sports,Express,Credit Card,Central,No,109.25
+175,55.53,2,36.52682501,17,1.55,15.42,3.31,Home,Express,Credit Card,Central,Yes,66.93
+176,66.54,1,39.59521301,21,1.17,14.41,30.71,Clothing,Standard,Credit Card,Central,No,169.47
+177,50.26,3,36.38941382,20,2.52,31.32,2.06,Clothing,Standard,Debit Card,Central,No,105.72
+178,79.07,1,53.64293844,19,3.49,6.56,11.29,Home,Standard,PayPal,West,No,355.26
+179,44.71,2,36.85143773,27,1.45,44.12,1.56,electronics,Overnight,UPI,Central,Yes,94.04
+180,104.4,,13.12680329,26,2.25,41.43,17.73,Electronics,Express,PayPal,West,No,470.42
+181,62.51,3,59.45194947,26,2.67,32.6,25.41,Home,Express,UPI,West,Yes,157.03
+182,32.86,4,,16,1.64,22.92,4.51,Sports,Standard,UPI,West,Yes,149.53
+183,28.58,2,26.16119404,18,3.02,46.65,11.15,Clothing,Overnight,UPI,East,No,68.04
+184,59.65,2,16.19897423,17,1.34,41.54,63.9,Clothing,Standard,PayPal,North,Yes,192.04
+185,45.53,3,40.93871331,15,1.19,24.97,14.02,Clothing,Express,Credit Card,South,No,382.79
+186,64.28,1,33.24241993,25,3.08,35.09,38.93,Books,Overnight,Debit Card,East,Yes,239.51
+187,59.46,2,,25,1.99,28.35,62.88,Sports,Overnight,Debit Card,North,Yes,322.26
+188,48.54,4,29.81139079,19,1.38,29.4,87.91,Books,Express,Credit Card,East,Yes,9.27
+189,33.06,6,22.43928815,22,2.7,16.55,54.86,Electronics,Overnight,Debit Card,West,No,82.13
+190,19.7,4,48.43694327,12,4.66,23.1,9.16,Home,Overnight,UPI,West,Yes,263.37
+191,41.07,1,48.87922839,23,3.9,3.91,78.85,Home,Standard,Debit Card,Central,No,199.43
+192,67.13,4,,19,4.26,17.87,40.16,Clothing,Overnight,PayPal,West,Yes,138.59
+193,54.28,4,45.14535572,21,4.49,34.79,43.56,Clothing,Standard,Credit Card,East,Yes,1104.94
+194,25.09,1,34.43469319,22,4.89,47.66,0.37,Electronics,Overnight,Credit Card,South,Yes,61.79
+195,53.46,5,38.50797652,11,4.05,48.15,74.02,Books,Standard,Credit Card,West,Yes,139.47
+196,557.6,2,52.47486324,11,3.43,27.79,36.13,Sports,Standard,Credit Card,North,No,128.87
+197,32.32,1,44.37977501,21,2.46,30.33,35.06,Electronics,Overnight,PayPal,East,Yes,183.64
+198,53.07,4,32.46088343,10,1.73,9.29,2.04,Home,Standard,UPI,North,Yes,79.05
+199,51.16,3,55.28543819,18,3.75,34.77,6.35,Home,Express,UPI,Central,Yes,44.26
+200,27.14,3,-0.472830592,17,4.98,3.53,78.65,Books,Express,UPI,Central,Yes,99
+201,57.16,6,65.78109967,14,2.87,14.23,16.67,Electronics,Overnight,Debit Card,South,No,163.22
+202,61.22,4,9.410613577,8,3.89,33.42,12.17,Sports,Overnight,UPI,East,Yes,188.47
+203,,9,25.59360763,28,2.98,15.52,43.97,Electronics,Overnight,Debit Card,South,No,190.72
+204,,3,34.38623697,26,2.73,2.49,2.19,Electronics,Express,PayPal,North,Yes,259.37
+205,22.45,2,32.80278994,,2.64,41.59,12.95,Books,Overnight,Debit Card,South,No,196.46
+206,31.24,,50.0961656,,3.02,15.52,11.31,Sports,Overnight,UPI,North,No,187.73
+207,60.3,2,19.13245072,18,2.47,3.16,10.33,Home,Standard,Credit Card,South,Yes,154.25
+208,60.28,5,38.91150226,,4,3.74,8.83,Clothing,Overnight,PayPal,Central,No,125.06
+209,60.3,4,26.32681853,17,4.5,12.59,5.66,Sports,Express,UPI,East,Yes,547.81
+210,127.05,3,39.42711469,18,4.53,8.9,4.56,Home,Express,UPI,South,Yes,219.59
+211,61.42,5,34.0284161,25,1.91,38.72,24.55,Books,Overnight,UPI,North,No,191.43
+212,72.71,3,36.39403479,18,4.58,16.08,60.44,Sports,Express,PayPal,East,Yes,133.53
+213,69.08,1,26.75112751,,2.37,40.23,17.06,Sports,Standard,Credit Card,Central,Yes,202.29
+214,63.03,3,27.34904075,18,2.24,8.69,8.49,Home,Standard,Credit Card,Central,No,224.84
+215,43.69,7,39.30908771,25,3.91,24.64,4.16,Home,Overnight,Credit Card,West,Yes,88.28
+216,65.18,3,49.15573259,24,2.22,34.4,42.55,Electronics,Overnight,UPI,East,Yes,157.43
+217,34.54,,26.02580999,27,1.21,32.6,85.38,Electronics,Standard,Debit Card,South,No,181.05
+218,45.26,5,21.96848683,19,2.49,30.06,10.31,Sports,Standard,UPI,Central,No,335.93
+219,,2,44.20190249,35,3.89,46.24,8.25,Clothing,Overnight,Credit Card,South,Yes,80.38
+220,51.64,4,34.5124416,18,2.31,11.43,22.08,Books,Express,PayPal,South,Yes,28.87
+221,96.29,1,47.45747201,22,3.52,24.69,35.83,Home,Overnight,Debit Card,North,No,257.64
+222,,3,21.4130418,20,3.64,44.2,14.59,Electronics,Overnight,Debit Card,South,Yes,41.66
+223,63.73,8,8.308416119,16,3.93,3.89,23.87,Books,Overnight,UPI,West,No,109.22
+224,17.75,3,27.00493877,15,4.59,2.79,30.26,Sports,Overnight,PayPal,East,Yes,148.86
+225,40.56,5,23.50471086,,2.73,11.67,77.61,Home,Overnight,Debit Card,East,No,46.09
+226,71.78,6,33.818174,20,1.67,31.65,4.33,Home,Overnight,Credit Card,North,Yes,59.5
+227,51.29,5,25.44732179,13,2.28,12.99,142.69,Electronics,Overnight,UPI,West,Yes,31.8
+228,28.45,4,46.11525427,19,2.73,9.51,11.95,Clothing,Express,UPI,West,No,67.43
+229,35.69,3,30.67774606,23,3.86,22.94,30.83,Home,Overnight,Credit Card,East,Yes,372.9
+230,63.59,4,37.25711748,22,1.05,30.68,20.39,Clothing,Standard,Credit Card,West,No,479.1
+231,35.39,0,37.36451838,20,2.26,12.43,16,Books,Overnight,Credit Card,Central,No,186.58
+232,54.33,8,37.92432639,16,4.12,15.03,28.74,Home,Express,Debit Card,South,No,89.41
+233,50.91,2,34.63806334,26,3.68,30.68,12.09,Home,Standard,PayPal,South,Yes,169.44
+234,36.97,4,42.65901036,17,3.93,47.29,3.24,Clothing,Overnight,Debit Card,East,Yes,212.76
+235,92.88,0,23.06517299,23,4.25,33.74,16.11,Electronics,Overnight,PayPal,East,No,63.85
+236,62.68,1,55.9912689,28,4.13,39.15,17.71,Sports,Standard,UPI,West,No,71.71
+237,9.5,7,31.45193925,18,3.73,18.34,5.41,Books,Overnight,PayPal,North,No,417.94
+238,53.73,4,15.32676293,16,2.76,13.61,65.83,Home,Express,Credit Card,East,Yes,338.27
+239,36.76,5,37.82110035,15,4.93,22.71,6.19,Electronics,Overnight,Debit Card,East,No,154.98
+240,67.05,1,22.23229276,21,3.28,40.36,12.63,Home,Express,Credit Card,East,No,66.67
+241,34.15,,44.98001802,18,1.81,22.81,4.04,Books,Overnight,UPI,West,Yes,63.69
+242,47.71,1,68.14408364,23,2.17,42.34,18.42,Sports,Standard,Debit Card,Central,No,72.81
+243,60.1,2,23.20141863,10,3.77,49.44,8.82,Home,Express,Debit Card,East,Yes,163.88
+244,67.32,1,39.985585,19,4.7,3.6,16.13,Clothing,Overnight,Credit Card,Central,No,175.39
+245,25.99,4,8.667416169,16,1.71,2.27,6.11,Electronics,Overnight,Debit Card,West,No,47.06
+246,43.31,3,41.80857844,19,1.33,7.48,1.33,Sports,Standard,Credit Card,North,No,88.89
+247,40.5,1,21.714293,21,4.53,19.22,36.25,Home,Standard,PayPal,South,Yes,68.32
+248,36.93,3,25.62748072,25,4.66,6.55,24.59,Sports,Express,UPI,South,Yes,173.78
+249,85.31,2,18.48070265,21,2.11,43.53,10,Clothing,Express,Credit Card,South,Yes,320.97
+250,58.1,2,45.98226839,27,2.51,1.16,1.17,Home,Express,UPI,South,No,52.44
+251,24.78,1,50.10956536,18,3.64,15.79,48.16,Sports,Overnight,Debit Card,West,No,5.82
+252,68.36,3,35.35077822,19,2.32,9.23,4.47,Home,Overnight,UPI,South,No,46.69
+253,92.44,2,22.03359942,18,4.51,46.58,64.08,Home,Express,UPI,West,No,90.55
+254,70.65,200,58.84284554,25,1.43,33.47,15.63,Sports,Overnight,UPI,North,Yes,232.41
+255,19.61,3,23.74384808,20,1.15,45.6,9.99,Home,Standard,Debit Card,East,No,248.91
+256,40.32,5,2.569515501,16,1.83,48.62,32.49,Clothing,Overnight,PayPal,East,No,59.48
+257,75.34,6,41.87583515,21,2.14,24.85,50.26,Sports,Express,PayPal,East,Yes,97.29
+258,35.85,3,18.4283799,26,1.45,11.72,11.12,Sports,Overnight,PayPal,West,No,165.96
+259,58.88,5,,18,1.26,9.69,12.56,Clothing,Standard,Credit Card,West,Yes,97.59
+260,65.49,2,29.28293455,25,4.02,11.15,13.62,Clothing,Express,Credit Card,West,No,220.76
+261,31.46,2,,24,1.66,35.43,61.32,Clothing,Express,Debit Card,North,Yes,228.13
+262,48.81,,56.0225052,15,4.66,2.02,28.31,Home,Express,PayPal,Central,No,394.67
+263,5,,16.86711703,13,2.47,2.57,6.83,Home,Express,UPI,West,Yes,200.87
+264,29.51,2,26.51094304,11,3.68,30.41,4.91,Books,Overnight,PayPal,West,Yes,398.31
+265,44.95,1,33.86493391,21,1.9,32.1,6.28,Home,Standard,Credit Card,East,No,330.39
+266,25.04,5,58.06326979,19,1.96,33.26,7.34,Clothing,Overnight,Debit Card,South,No,445.1
+267,82.65,3,25.12425923,16,3.3,18.59,6.28,Books,Overnight,PayPal,South,Yes,187.26
+268,,4,26.08244456,14,3.24,40.3,25.79,Clothing,Express,Credit Card,North,Yes,60.19
+269,41.2,1,42.17210863,28,4.07,26.68,2.96,Electronics,Standard,Credit Card,South,No,293.25
+270,52.61,3,26.34156911,20,4.03,5.27,11.76,Sports,Overnight,UPI,Central,Yes,4.35
+271,78.83,,37.28788824,17,3.68,39.85,23.54,Electronics,Standard,PayPal,East,No,143.6
+272,21.28,2,11.72693869,15,2.8,47.65,8.25,Clothing,Standard,UPI,North,No,180.35
+273,73.26,2,68.21494914,16,4.56,3,1.62,Home,Standard,PayPal,South,No,215.17
+274,822.64,2,14.78436155,17,3.49,19.57,2.05,Sports,Standard,Debit Card,South,No,44.07
+275,30.37,4,30.17370944,29,4.96,24.38,3.23,Home,Overnight,PayPal,East,No,54.05
+276,59.24,5,34.51278446,16,4.28,7.32,43.37,Home,Standard,UPI,North,No,94.07
+277,53.98,2,63.69032202,19,1.18,43.39,25.74,Sports,Overnight,UPI,East,Yes,260.91
+278,38,2,15.12731329,21,2.28,14.21,1.6,Sports,Standard,Credit Card,North,No,338.39
+279,51.4,4,64.75556203,15,3.29,39.15,11.91,Electronics,Standard,PayPal,South,Yes,163.54
+280,42.29,0,46.35765232,20,3.89,33.55,7.84,Clothing,Overnight,PayPal,East,No,389.15
+281,52.27,3,41.25642987,18,3.2,29.9,20.71,Home,Express,Debit Card,East,No,253.05
+282,,0,20.23049469,16,4.14,9.61,17.76,Clothing,Overnight,Credit Card,Central,No,209.67
+283,,2,43.56711863,21,2.13,11.04,15.75,Clothing,Standard,UPI,East,Yes,104.88
+284,25.24,2,24.14770066,18,1.74,2.37,9.06,Books,Overnight,PayPal,North,No,364.72
+285,92.66,1,53.9999188,20,1.22,12.04,3.56,Electronics,Standard,Credit Card,Central,No,245.63
+286,10.96,4,20.43406956,13,3.29,17.27,32.55,Home,Overnight,Debit Card,East,No,345.35
+287,46.96,5,33.30262258,20,3.75,41.66,50.86,Sports,Overnight,Credit Card,East,No,170.94
+288,61.77,1,26.67090368,25,2.3,18.32,69.24,Sports,Overnight,PayPal,Central,Yes,162.29
+289,55.62,4,20.18715556,19,3.45,37.73,1.45,Clothing,Express,PayPal,South,Yes,508.85
+290,37.55,0,46.11979725,20,1.21,21.97,32.32,Electronics,Overnight,Debit Card,East,No,265.62
+291,45.84,6,43.03188121,15,1.4,39.24,31.12,Electronics,Overnight,Debit Card,West,No,59.42
+292,40.14,5,53.13515298,14,3.81,48.81,70.55,Home,Express,Debit Card,South,Yes,72.72
+293,38.21,1,8.301873377,22,2.47,11.99,7,Home,Express,UPI,East,No,119.59
+294,66.99,5,50.96256054,24,3.69,43.12,32.53,Clothing,Standard,Credit Card,South,Yes,190.93
+295,,1,72.58173358,21,4.33,31.09,1.35,Clothing,Standard,Credit Card,North,Yes,53.58
+296,36.14,4,,20,4.41,40.86,23.94,Clothing,Overnight,Credit Card,South,Yes,200.74
+297,67.99,,63.42722918,22,1.69,32.58,10.37,Books,Standard,UPI,Central,Yes,199.46
+298,56.15,1,31.05258092,22,2.95,21.2,35.16,Electronics,Overnight,Credit Card,East,Yes,31.01
+299,66.26,3,14.41385394,23,3.94,11.4,47.76,Clothing,Express,Debit Card,South,Yes,37.79
+300,62.59,3,30.41551336,20,4.1,3.5,10.89,Electronics,Express,Credit Card,West,Yes,284.13
+301,33.42,6,50.72305952,19,4.14,26.78,17.9,Sports,Overnight,UPI,North,No,155.67
+302,,0,22.42735277,18,1.91,49.52,3,Sports,Standard,UPI,North,Yes,76.93
+303,64.95,3,,16,1.77,36.9,12.95,Electronics,Standard,Credit Card,South,No,193.13
+304,62.21,5,43.90309148,24,3.36,16.37,10.74,Sports,Standard,UPI,Central,No,278.49
+305,49.58,1,35.04590175,21,3.96,41.36,4.85,Sports,Overnight,UPI,North,No,213.13
+306,,3,43.76934429,20,2.28,38.45,53.97,Sports,Standard,Credit Card,South,Yes,202.9
+307,75.55,4,38.56744311,19,1.42,14.08,3.85,Home,Express,UPI,South,Yes,248.21
+308,38.17,2,42.19437979,15,3.87,0.72,24.24,Home,Express,UPI,North,Yes,330.4
+309,60.94,3,28.51548221,13,2.2,5.91,53.01,Electronics,Express,Credit Card,South,No,336.44
+310,45.96,7,38.47596413,18,1.67,43.87,58.32,Electronics,Express,Debit Card,South,No,123.44
+311,45.65,1,21.08940491,19,1.59,41.83,37.83,Books,Express,Debit Card,West,No,245.01
+312,71.98,,54.32650434,25,2.26,14.76,4.65,Home,Express,UPI,South,No,300.4
+313,66.51,3,25.48587925,24,3.37,14.26,40.82,Electronics,Express,PayPal,South,Yes,244.21
+314,66.27,1,51.93271231,17,2.43,39.64,7.77,Home,Express,PayPal,Central,No,62.51
+315,76.11,1,31.49589559,20,1.08,46.89,61.35,Books,Express,Credit Card,North,Yes,270.8
+316,50.42,2,38.02998516,24,1.39,38.96,29.63,Electronics,Overnight,Credit Card,Central,No,56.65
+317,63.64,2,27.57553174,22,2.16,30.28,36.92,Electronics,Overnight,Debit Card,East,Yes,215.04
+318,43.79,6,19.76006853,30,3.64,12.13,2.13,Electronics,Express,PayPal,Central,No,74.8
+319,56.48,1,8.828594186,16,1.39,26.29,20.98,Electronics,Express,Credit Card,East,Yes,160.78
+320,,3,19.17013762,29,3.24,11.68,41.31,Clothing,Express,PayPal,East,No,169.14
+321,51.94,3,30.1413672,23,1.48,40.4,47.46,Home,Standard,PayPal,Central,Yes,265.45
+322,61.9,4,38.17818768,20,1.85,19.35,0.7,Home,Overnight,UPI,West,Yes,104.9
+323,33.64,2,50.1556897,21,1.69,41.68,67.19,Home,Express,UPI,Central,Yes,232.7
+324,91.85,3,28.3136381,19,1.27,19.08,1.06,Books,Overnight,PayPal,North,No,368.85
+325,29.88,4,21.77058854,24,3.69,41.21,22.88,Clothing,Express,Debit Card,Central,Yes,316.42
+326,25.72,,13.35927821,15,2.85,16.67,28.37,Home,Standard,Credit Card,West,Yes,335.92
+327,73.16,3,42.20095427,21,4.32,22.01,2.73,Home,Express,Credit Card,Central,Yes,14.79
+328,65.83,2,55.74791773,17,1.4,30.77,1.18,Electronics,Overnight,Debit Card,West,Yes,56.82
+329,62.48,,53.99495402,19,1.58,3.51,36.88,Electronics,Overnight,UPI,North,Yes,48.09
+330,62.57,1,45.64899122,16,2.23,47.41,11.65,Electronics,Overnight,UPI,South,No,61.97
+331,49.76,3,44.57814976,15,4.06,28.68,2.72,Home,Overnight,Debit Card,West,Yes,34.68
+332,32.05,5,60.4643567,18,2.22,25.39,34.52,Electronics,Express,Debit Card,West,No,30.62
+333,51.52,2,39.98122192,23,2.63,41.97,45.4,Home,Standard,UPI,West,Yes,102.05
+334,36.46,4,44.69194514,27,2.21,43.29,21.25,Books,Standard,PayPal,North,No,250.19
+335,69.5,2,30.18824207,15,1.32,26.11,4.22,Books,Express,UPI,East,No,293.91
+336,47.06,1,14.56934944,17,4.76,46.36,0.37,Sports,Express,PayPal,West,No,61.95
+337,33.49,3,24.74226649,22,3.19,3.24,28.96,Clothing,Overnight,Credit Card,North,No,154.77
+338,43.57,4,34.86261442,13,4.15,5.66,19.17,Electronics,Express,Credit Card,South,No,256.19
+339,58.26,,35.91178059,23,3.63,29.84,25.25,Electronics,Standard,PayPal,West,No,322.43
+340,38.73,4,,12,3.06,17.7,40.26,Clothing,Express,PayPal,East,Yes,379.9
+341,33.56,6,36.21915751,16,1.36,23.21,13.67,Clothing,Express,UPI,North,Yes,278.9
+342,54.87,4,52.68265166,15,3.57,16.4,3.19,Sports,Standard,Debit Card,South,Yes,378.16
+343,441.74,1,28.47384138,18,1.62,20.24,67.52,Clothing,Standard,PayPal,East,Yes,51.36
+344,39.86,1,30.32486171,15,2.66,41.13,18.91,Home,Express,Credit Card,South,No,75.33
+345,40.58,,15.06488544,24,3.52,29.67,22.93,Electronics,Overnight,UPI,East,No,93.34
+346,54.64,4,23.86507981,13,4.13,49.87,65.02,Clothing,Overnight,Credit Card,Central,No,6.18
+347,21.04,3,42.90472087,24,3.74,39.34,64.37,Home,Overnight,UPI,Central,Yes,197.18
+348,21.85,3,35.11340271,21,3.69,13.68,20.37,Clothing,Standard,Debit Card,Central,Yes,22.77
+349,35.63,3,49.1440793,19,1.6,13.22,8.48,Home,Standard,Debit Card,South,No,76.44
+350,45.73,3,37.71880923,24,2.38,16.79,140.35,Books,Overnight,Credit Card,Central,Yes,226.95
+351,,1,29.71319403,18,1.17,42.16,27.41,Home,Express,PayPal,North,No,61.78
+352,79.51,1,67.22445296,17,3.88,1.36,12.6,Sports,Express,PayPal,North,No,138.96
+353,67.15,3,33.59144647,23,4.81,11.51,19.69,Home,Express,Credit Card,Central,Yes,198.41
+354,46.8,0,,,2.06,45.25,12.9,Clothing,Standard,PayPal,East,No,82.16
+355,49.62,3,28.9818619,16,1.35,31.99,52.61,Books,Standard,PayPal,East,Yes,315.47
+356,29.95,3,45.64399219,22,2.9,11.34,15.81,Books,Overnight,Credit Card,South,Yes,273.03
+357,49.63,0,48.92023489,27,4.43,10.96,41.63,Home,Express,Credit Card,East,Yes,375.54
+358,44.23,2,38.12737956,27,3.21,43.13,44.01,Clothing,Standard,Debit Card,West,Yes,128.16
+359,56.45,1,-0.31724384,32,1.19,44.69,41.74,Books,Standard,Credit Card,East,No,156.98
+360,33.46,2,35.27378691,24,4.9,12.81,30.74,Home,Overnight,Debit Card,North,No,276.94
+361,60.39,4,53.45690072,19,4.31,21.03,46.32,Home,Express,Debit Card,East,No,637.33
+362,80.65,4,42.9122125,17,1.53,41.73,11.75,Home,Standard,UPI,South,No,101.79
+363,47.82,1,41.68758313,24,4.69,38.55,2.92,Books,Standard,PayPal,East,Yes,159.29
+364,58.03,3,,17,2.8,40.7,44.35,Electronics,Standard,Credit Card,South,Yes,100.63
+365,63.8,3,24.19317394,21,2.49,25.92,16.55,Clothing,Standard,PayPal,West,No,399.44
+366,41.98,2,41.17036447,17,2.84,45.58,3.27,Sports,Express,UPI,Central,Yes,205.52
+367,54.48,2,41.15574915,22,4.34,16.3,2.94,Sports,Overnight,Credit Card,West,Yes,96.88
+368,50.25,3,53.2200017,15,3.64,7.83,4.16,Clothing,Express,Credit Card,North,No,82.55
+369,51.95,2,,21,1.24,35.44,33.36,Electronics,Overnight,UPI,West,No,215.61
+370,34.54,3,41.0873613,20,4.83,26.97,29.78,Clothing,Standard,PayPal,West,Yes,120.48
+371,50.49,2,,19,1.59,42.73,5.47,Home,Express,Debit Card,North,No,342.33
+372,59.96,1,20.19585895,19,3.98,4.06,45.04,Clothing,Overnight,UPI,North,Yes,123.09
+373,79.02,0,1.163130034,19,3.54,42.18,7.93,Clothing,Overnight,UPI,Central,Yes,180.85
+374,69.19,3,41.46514538,14,1.75,14.66,37.8,Books,Standard,Credit Card,Central,No,28.09
+375,93.06,4,37.60920813,17,1.68,32.74,16.1,Sports,Overnight,Debit Card,East,No,31.9
+376,34.65,4,25.72737437,19,4.48,2.01,31.56,Sports,Overnight,UPI,South,No,262.19
+377,67.45,3,10.71240415,23,2.68,30.48,11.53,Home,Overnight,PayPal,North,Yes,164.81
+378,53.67,3,44.44609272,20,3.62,35.86,10.23,Home,Standard,UPI,West,No,265.3
+379,93.8,6,31.01119889,14,3.02,18.44,44.19,Books,Express,PayPal,West,No,193.58
+380,,4,43.35312084,17,3.91,10.77,0.86,Home,Standard,Credit Card,Central,No,303.09
+381,33.21,4,62.96072796,20,2.92,26.88,88.28,Electronics,Overnight,UPI,South,No,375.43
+382,38.01,5,2.878536795,17,2.15,41.66,25.07,Books,Overnight,PayPal,North,Yes,251.98
+383,7.52,1,,17,2.45,16.18,13.6,Books,Express,Credit Card,Central,No,91.87
+384,39.48,4,31.8593658,23,4.44,12.62,23.74,Clothing,Overnight,Credit Card,South,Yes,166.89
+385,34.82,2,56.82239261,24,2.87,13.95,3.14,Clothing,Express,Credit Card,North,No,77.47
+386,53.01,4,10.45395471,22,1.85,47.46,17.32,Electronics,Overnight,UPI,West,No,81.71
+387,56.84,5,64.03791539,24,4.74,17.96,100.95,Books,Overnight,Credit Card,West,No,49.79
+388,87.52,2,37.03783852,19,4.19,0.18,6.44,Books,Standard,Credit Card,Central,Yes,180.22
+389,424.69,4,33.55999007,,1.22,39.08,30.75,Clothing,Standard,PayPal,South,No,668.69
+390,38.46,1,32.02910355,20,5,34.96,13.7,Sports,Express,Credit Card,West,No,223.92
+391,32.03,2,28.45605452,22,3.78,6.43,25.36,Sports,Standard,UPI,South,No,31.54
+392,59.84,4,50.72175139,22,1.64,49.25,5.5,Clothing,Express,Debit Card,Central,Yes,81.28
+393,23.6,1,18.97218869,16,1.95,30.4,15.26,Home,Standard,Credit Card,East,No,139.1
+394,86.63,1,,21,3.77,25.04,94,Books,Express,UPI,South,No,303.93
+395,73.59,0,29.23727501,21,4.12,19.11,5.21,Electronics,Overnight,Credit Card,South,Yes,191.46
+396,40.62,3,23.56799827,32,1.96,44.93,24.28,Sports,Express,UPI,Central,Yes,393.9
+397,15.74,3,73.78962764,16,2.03,12.2,20.57,Home,Standard,Credit Card,East,Yes,91.57
+398,77.08,4,41.28576102,22,2.23,14.29,19.98,Books,Express,PayPal,West,Yes,240.3
+399,47.71,2,44.19898317,20,3.39,6.12,22.92,Home,Standard,Debit Card,North,No,263.2
+400,74.76,3,52.06665171,28,1.69,37.96,16.74,Books,Overnight,Debit Card,Central,No,69.44
+401,18.11,6,13.67975082,26,1.42,29.78,0.41,Books,Standard,UPI,North,Yes,276.68
+402,38.01,2,61.28437864,25,3.72,30.45,55.29,Clothing,Overnight,UPI,East,Yes,217.24
+403,,2,-2.634357677,21,4.12,10.92,42.1,Clothing,Overnight,Debit Card,East,Yes,168.92
+404,50.94,2,23.46850385,20,3,32.56,4.59,Electronics,Standard,PayPal,South,Yes,201.84
+405,41,4,28.1145249,24,2.46,38.27,12.8,Electronics,Overnight,PayPal,North,No,710.22
+406,62.46,1,43.72585047,28,2.73,17.89,35.33,Home,Standard,Credit Card,North,Yes,130.28
+407,28.65,100,38.28077399,15,2.55,40.07,93.96,Clothing,Express,PayPal,East,Yes,376.36
+408,47.15,3,,16,4.84,17.44,72.45,Books,Overnight,Debit Card,North,No,286.29
+409,52.41,3,34.82003983,21,4.07,37.91,55.11,Clothing,Express,Debit Card,West,No,45.74
+410,60.29,5,150,8,1.83,1.69,4.14,Books,Express,PayPal,East,Yes,125.61
+411,64.23,3,12.54151408,25,2.54,27.56,59.01,Clothing,Standard,PayPal,South,Yes,303.24
+412,27.51,1,45.89767434,18,3.18,48.48,50.58,Books,Standard,Debit Card,South,Yes,23.18
+413,19.32,1,45.40559169,22,3.45,49.06,11.36,Home,Overnight,Debit Card,South,No,589.95
+414,75.55,3,,,2.87,14.09,12.04,Clothing,Standard,Debit Card,North,No,325.56
+415,56.65,5,23.14974355,19,4.24,22.07,14.78,Sports,Express,Debit Card,East,No,69.54
+416,35.03,,45.39222815,15,4.07,3.15,25.62,Sports,Express,Debit Card,South,Yes,67.49
+417,81.02,2,30.74439907,13,3.02,43.67,7.25,Books,Express,PayPal,East,Yes,42.6
+418,52.31,7,52.85712478,12,4.42,28.43,0.56,Home,Overnight,PayPal,North,No,192.58
+419,73.59,0,50.32944165,20,4,19.26,3.65,Books,Standard,Credit Card,West,No,188.37
+420,51.35,4,38.16814099,12,4.11,5.64,13.92,Home,Express,Credit Card,West,No,184.07
+421,91.21,2,29.90704765,22,4.83,47.34,7.95,Electronics,Overnight,UPI,West,Yes,173.55
+422,85.11,3,49.41398268,17,2.07,26.51,34.71,Clothing,Standard,Credit Card,North,No,348.49
+423,,1,44.70356785,28,2.07,14.15,2.71,Home,Standard,PayPal,South,No,288.9
+424,69.43,3,24.73339397,24,4.56,17.51,59.87,Books,Express,Credit Card,North,No,302.43
+425,62.91,1,15.0830199,24,4.09,13.53,54.17,Electronics,Overnight,Credit Card,East,Yes,124.25
+426,77.37,3,30.67200649,16,4.71,30.09,57.46,Books,Express,PayPal,West,No,152.03
+427,30.7,6,57.73120723,24,1.25,46.5,32.29,Sports,Express,Debit Card,East,Yes,459.37
+428,63.72,3,52.19730738,21,3.51,42.83,2.72,Sports,Overnight,PayPal,North,Yes,125.41
+429,71.17,2,18.31508795,14,1.58,23.02,13.84,Clothing,standard ,PayPal,Central,Yes,124.58
+430,865.72,1,17.48363876,17,3.02,41.32,3.38,Clothing,Overnight,UPI,Central,No,46.17
+431,26.33,4,54.12025775,31,1.62,21.16,105.55,Electronics,Overnight,UPI,North,Yes,544.5
+432,9.22,4,17.96546143,14,1.51,12.62,9.72,Sports,Express,UPI,South,No,325.57
+433,44.61,3,42.63942985,12,1.05,49.17,21.13,Home,Express,Debit Card,East,Yes,332.09
+434,64.35,1,25.75893177,,3.52,15.19,36.27,Sports,Standard,Credit Card,North,Yes,377.32
+435,80.05,4,59.25567387,26,2.44,16.19,60.8,Clothing,Standard,UPI,North,Yes,150.78
+436,51.48,2,23.44362801,27,1.42,49.48,33.81,Books,Overnight,PayPal,Central,No,206.98
+437,82.57,4,52.15042295,19,2.29,6.7,26.94,Electronics,Overnight,UPI,West,No,278.99
+438,22.4,1,37.77287981,12,1.68,38.03,15.06,Sports,Overnight,PayPal,West,No,288.52
+439,15.93,5,38.78292281,22,4.77,46.79,22.32,Home,Standard,Debit Card,South,No,16.32
+440,48.89,3,5.44537128,18,2.28,25.59,2.37,Home,Express,UPI,South,Yes,163.65
+441,57.68,1,1.956299702,16,2.34,0.13,51.68,Home,Express,PayPal,South,Yes,353.69
+442,49.35,2,31.6915109,17,4.36,18.75,18.83,Electronics,Standard,Credit Card,Central,Yes,222.26
+443,8.65,1,38.70359095,,3.59,5.58,0.98,Home,Express,Debit Card,North,Yes,421.52
+444,48.22,5,18.12203258,32,3.84,20.81,60.59,Home,Express,PayPal,South,Yes,98.04
+445,23.91,1,18.66959884,25,3.54,39.5,16.13,Sports,Express,Credit Card,Central,No,125.6
+446,63.39,,43.42208945,18,4.78,21.94,48.71,Electronics,Standard,Credit Card,East,Yes,623.18
+447,57.33,2,43.44281721,,1.83,21.6,46.66,Books,Overnight,PayPal,North,No,181
+448,31.2,3,,22,4.96,27.84,40.6,Books,Express,UPI,East,No,100.31
+449,39.72,2,46.70302582,11,4.32,29.08,1.52,Home,Express,Credit Card,West,No,199.87
+450,28.82,5,17.38696556,19,3.36,42.81,6.81,Clothing,Overnight,Debit Card,West,Yes,357.59
+451,48.75,4,29.66097624,26,3.65,15.42,50.01,Electronics,Express,Credit Card,North,No,72.51
+452,69.1,5,59.71816409,21,3.6,41.08,55.02,BOOKS,Express,UPI,South,No,21.31
+453,30.29,2,36.02483195,17,1.23,28.3,14.7,Electronics,Overnight,Debit Card,North,No,444.19
+454,60.08,3,36.89468772,20,1.87,15.03,13.92,Electronics,Standard,Debit Card,South,No,333.16
+455,39.39,2,200,22,4.85,14.76,4.62,Sports,Standard,Debit Card,West,Yes,43.37
+456,34.14,1,14.00986751,15,3.14,18.06,82.92,Home,Express,PayPal,North,Yes,119.76
+457,47.86,3,46.9464555,12,2.51,31.13,5.75,Sports,Express,Credit Card,North,Yes,230.29
+458,29.3,1,59.9597942,27,4.05,11.54,5.09,Clothing,Overnight,UPI,South,No,288.69
+459,38.93,7,30.1271311,,3.1,46.02,25.94,Clothing,Overnight,PayPal,West,No,235.83
+460,26.04,6,47.8944618,22,1.05,28.75,6.68,Books,Express,PayPal,West,Yes,170.37
+461,89.29,3,20.26970754,16,3.94,46,67.04,Sports,Express,Debit Card,South,Yes,16.77
+462,50.71,4,24.69901407,20,3.93,2.32,0.26,Sports,Standard,PayPal,South,No,195.77
+463,36.01,1,40.77449624,20,1.66,17.13,0.14,Sports,Standard,Credit Card,South,No,12.18
+464,54.28,1,46.9785001,32,4.83,1.14,16.87,Books,Standard,PayPal,West,Yes,172.16
+465,47.75,2,51.81404769,24,1.9,13.61,16.07,Sports,Standard,PayPal,West,Yes,236.4
+466,45.58,3,58.5444288,21,2.83,43.1,4.28,Sports,Overnight,Debit Card,North,No,449.86
+467,62.28,3,33.98830162,18,1.46,1.83,16.37,Sports,Standard,Debit Card,West,Yes,293.87
+468,65.15,1,52.90417633,14,3.41,21.81,12.73,Sports,Standard,PayPal,East,Yes,163.24
+469,39.39,4,29.86542735,21,2.5,5.88,53.05,Clothing,Express,Debit Card,East,No,209.41
+470,38.48,1,48.53136967,18,2.41,20.84,0.22,Home,Standard,UPI,South,Yes,66.33
+471,,3,38.11233197,34,4.31,41.94,89.78,Clothing,Express,UPI,South,Yes,123.04
+472,5,3,41.68516861,15,1.04,31.15,23.5,Sports,Express,UPI,South,No,254.95
+473,19.7,1,41.35261811,23,4.19,36.84,3.95,Electronics,Standard,PayPal,North,Yes,68.14
+474,77.34,2,10.92942485,31,3.29,17.46,1.15,Electronics,Standard,Credit Card,East,No,145.34
+475,82.9,4,18.13817212,23,4.94,47.22,18.54,Books,Express,Credit Card,East,Yes,134.36
+476,45.02,2,36.5381216,23,3.36,35.46,6.43,Clothing,Overnight,Debit Card,West,Yes,569.21
+477,61.53,,9.690813805,17,1.22,21.09,8.6,Books,Express,Credit Card,East,No,201.03
+478,56.23,4,47.46816655,24,1.2,21.32,6.75,Books,Overnight,Credit Card,West,Yes,302.98
+479,111.58,0,48.07333949,21,4.53,45.93,25.21,Electronics,Overnight,PayPal,North,Yes,17.83
+480,72.39,2,39.90755829,,4.36,28.82,19.35,Clothing,Standard,Debit Card,South,No,184.04
+481,47.44,5,18.18298981,25,2.38,35.32,1.95,Home,Standard,Credit Card,South,No,30.76
+482,30.89,1,55.70208408,15,3.47,20.85,17.94,Clothing,Standard,UPI,West,Yes,212.73
+483,17.87,5,65.5581596,17,2.96,11.18,37.59,Books,Standard,Debit Card,Central,Yes,198.76
+484,54.07,4,37.20615241,18,4.87,36.18,2.03,Sports,Express,Debit Card,West,Yes,194.35
+485,34.87,4,42.65803068,22,4.8,30.39,52.92,Books,Overnight,Debit Card,North,No,46.79
+486,21.55,3,38.02607982,22,4.94,25.07,20.72,Clothing,Express,UPI,East,Yes,214.85
+487,37.07,6,42.95553783,22,4.47,31.2,72.2,Electronics,Overnight,Credit Card,West,Yes,104.33
+488,28.37,2,33.20661865,23,4.64,10.41,3.85,Clothing,Express,UPI,North,No,239.55
+489,83.74,4,34.4815364,22,1.87,39.7,121.1,Home,Overnight,Debit Card,South,No,298.72
+490,67.63,2,48.58576401,19,4.32,47.41,24.81,Sports,Standard,Debit Card,Central,No,212.86
+491,49.84,5,70.18436243,23,3.84,44.56,20.12,Sports,Overnight,PayPal,Central,No,100.75
+492,79.6,3,13.99893148,17,4.85,16.07,17.38,Books,Standard,PayPal,West,Yes,99.72
+493,51.55,3,33.44281273,23,3.29,20.3,0.57,Clothing,Overnight,PayPal,East,Yes,156.49
+494,32.77,3,17.29309272,18,1.34,40.42,67.38,Electronics,Express,PayPal,West,Yes,83.55
+495,80.46,1,58.88037348,20,3.39,29.76,24.79,Home,Overnight,Debit Card,Central,No,190.85
+496,60.78,3,26.18393046,20,3.75,27.4,2.31,Books,Express,UPI,Central,Yes,225.41
+497,29.26,6,13.35198809,22,1.88,46.33,0.51,Clothing,Express,PayPal,South,Yes,16.95
+498,46.19,3,,14,2.58,26.8,1.25,Electronics,Standard,UPI,East,Yes,269.05
+499,32.49,1,61.16466672,19,3.39,25.75,22.56,Clothing,Overnight,PayPal,East,No,215.1
+500,22.34,3,44.95396803,26,2.5,2.1,22.85,Electronics,Express,Credit Card,Central,Yes,99.11
+501,68.52,3,38.07196816,,2.5,3.47,16.62,Clothing,Overnight,PayPal,Central,Yes,338.08
+502,88.19,2,41.13711384,13,1.53,0.37,8.79,Clothing,Standard,UPI,West,No,68.88
+503,22.03,3,56.22260994,23,4.76,45.66,18.21,Books,Standard,PayPal,West,Yes,133.29
+504,61.26,0,21.88701095,20,4,20.42,17.43,Clothing,Overnight,Credit Card,South,No,171.09
+505,,8,33.32229344,17,1,23.43,0.47,Clothing,Express,UPI,Central,No,134.82
+506,40.26,1,28.20964777,15,4.06,42.27,7.97,Books,Express,UPI,West,Yes,121.47
+507,38.15,1,17.48202039,24,3.96,30.46,1.31,Books,Express,UPI,South,No,117.99
+508,32.72,3,30.07437111,22,1.04,30.48,55.3,Sports,Overnight,Debit Card,East,No,169.23
+509,50.97,2,51.61581644,28,2.48,14.83,31,Sports,Express,UPI,Central,No,256.45
+510,33.38,2,43.49903223,17,3.43,41.7,133.22,Books,Express,Debit Card,North,Yes,361.58
+511,55.41,3,44.6646575,12,2.81,8.29,8.63,Home,Express,Credit Card,Central,No,219.71
+512,49,4,37.19713417,13,4.11,2.66,50.59,BOOKS,Standard,UPI,West,Yes,218.04
+513,45.22,3,42.84985674,26,2.7,9.58,22.17,Books,Express,UPI,Central,Yes,200.28
+514,31.85,7,22.99114486,21,1.62,13.39,14.48,Sports,Overnight,UPI,North,No,97.69
+515,38.46,3,,17,4.91,14.12,6.04,Clothing,Overnight,Credit Card,Central,No,86.65
+516,912.1,,37.88006355,19,1.97,33.53,32.18,Books,Express,Debit Card,West,Yes,111.02
+517,60.02,3,39.16273788,20,3.87,10.89,56.28,Books,Overnight,PayPal,East,No,55.6
+518,30.45,5,39.80281782,13,1.57,33.83,6.44,Sports,Overnight,Credit Card,West,Yes,206.07
+519,51.99,5,32.92497077,15,2.32,4.56,4.63,Sports,Express,Credit Card,South,Yes,179.74
+520,65.03,4,29.33864898,23,2.77,7.36,28.59,Home,Standard,Credit Card,West,No,281.82
+521,16.61,4,82.36656925,20,1.77,25.44,90.51,Sports,Express,Debit Card,South,No,82.56
+522,60.87,2,48.60180909,25,2.8,46.09,33.27,Sports,Overnight,Debit Card,Central,No,287.91
+523,,6,41.19721214,19,1.63,42.98,8.04,Sports,Overnight,Debit Card,South,No,137.87
+524,61.41,,31.50187253,28,3.24,48.44,13.07,Clothing,Express,Debit Card,Central,No,120.27
+525,34.73,2,28.2317176,17,3.65,32.52,11.64,Books,Overnight,Debit Card,South,No,292.18
+526,13.9,6,33.03799109,18,1.25,33.79,45.87,Books,Standard,UPI,West,No,18.42
+527,17.45,4,39.39243265,12,4.48,31.25,35.42,Sports,Express,PayPal,North,No,444.06
+528,50.96,3,,16,1.74,31.14,21.34,Home,Overnight,PayPal,Central,No,650.12
+529,55.19,3,11.45915607,19,1.9,7.36,7.72,Sports,Standard,Debit Card,South,No,372.57
+530,31.91,6,25.44676417,20,3.65,27.19,66.73,Home,Overnight,Debit Card,North,Yes,91.19
+531,62.77,,38.10709155,20,2.88,19.3,25.42,Books,Standard,UPI,South,No,251.69
+532,16.77,,31.41090279,13,3,22.13,84.54,Home,Overnight,Debit Card,South,No,348.82
+533,48.68,1,57.17181839,16,1.51,26.18,20.83,Home,Express,UPI,South,No,100.55
+534,25.78,3,12.7640482,29,4.22,6.42,41.31,Electronics,Overnight,UPI,West,Yes,193.5
+535,36.96,4,23.72981796,20,3.47,17.97,40.25,Home,Express,Credit Card,South,No,300.21
+536,50.95,5,57.80137611,25,1.54,3.17,9.88,Home,Standard,Credit Card,North,No,291.06
+537,32.79,6,36.96678987,24,2.5,48.98,79.8,Clothing,Standard,Debit Card,South,No,221.89
+538,42.31,2,48.27263874,20,4.24,5.93,0.53,Books,Overnight,UPI,East,No,195.14
+539,70.13,50,65.76870415,15,3.27,12.93,35.14,Sports,Express,Debit Card,Central,No,238.13
+540,38.46,4,24.59293373,19,1.43,44.56,80.84,Electronics,Express,Credit Card,West,Yes,361.29
+541,66.71,200,33.51028493,20,2.49,24.14,9.93,Home,Standard,Credit Card,East,No,107.44
+542,27.41,4,30.91359649,23,1.97,6.78,25.07,Clothing,Standard,Credit Card,East,No,222.91
+543,60.6,5,5.681104933,,3.07,19.21,19.83,Clothing,Overnight,Credit Card,North,Yes,242.39
+544,78.83,2,30.34404794,27,4.37,5.79,34.4,Sports,Standard,Credit Card,North,Yes,161.43
+545,5,5,48.21593281,20,2.75,10.01,48.27,Sports,Standard,Debit Card,West,Yes,68.48
+546,34.06,4,43.10884313,15,2.73,2.6,22.17,Books,Express,Debit Card,West,No,102.45
+547,61.54,5,44.28624754,15,4.62,21.91,40.62,Home,Express,Credit Card,Central,No,100.63
+548,45.94,2,29.36736529,15,3.3,40.33,8.99,Clothing,Express,Debit Card,South,Yes,180.78
+549,57.42,2,,24,3.26,29.3,6.23,Electronics,Standard,Credit Card,West,No,188.81
+550,37.92,0,54.03883508,27,2.05,30.32,13.52,Books,Overnight,Credit Card,West,No,162.43
+551,51.73,4,27.5402428,23,3.43,10.03,27.18,Home,Overnight,Credit Card,South,No,156.08
+552,46.89,1,39.41123058,19,3.3,17.19,4.98,Sports,Standard,Debit Card,Central,No,389.46
+553,73.36,2,37.45002021,12,2.59,42.26,27.37,Home,Overnight,Debit Card,North,No,4.68
+554,55.09,3,56.92575524,24,4.96,4.39,12.02,Sports,Standard,UPI,Central,Yes,376.04
+555,56.75,2,49.57118537,24,4.53,42.9,38.1,Home,Overnight,Debit Card,South,Yes,187.96
+556,,2,15.57112069,16,4,24.18,0.9,Electronics,Standard,Debit Card,North,Yes,775.01
+557,40.25,100,17.1867025,24,3.15,41.86,26.46,Books,Express,PayPal,North,No,275.93
+558,41.35,3,43.68364727,25,2.85,15.9,25.18,Sports,Overnight,Credit Card,North,Yes,100.72
+559,57.89,4,,20,1.74,16.94,67.9,Electronics,Express,Credit Card,Central,No,50.6
+560,41.58,6,28.17242324,15,2.22,37.58,29.99,Clothing,Express,Debit Card,South,Yes,457.11
+561,55.8,3,50.23441826,12,4.1,39.25,38.19,Electronics,Overnight,Debit Card,Central,Yes,406.67
+562,91.51,2,37.81189073,20,2.81,11.48,56.39,Electronics,Standard,UPI,Central,Yes,269.57
+563,67.42,3,35.7868608,14,4.53,48.64,26.98,Electronics,Express,PayPal,East,Yes,335.61
+564,43.48,1,46.69742961,16,1.59,4.22,8.22,Sports,Express,Credit Card,West,No,212.99
+565,74.02,2,29.37336508,16,3.03,3.43,48.92,Clothing,Standard,Credit Card,Central,Yes,65.99
+566,41.84,1,58.52778478,22,3.59,29.78,33.04,Books,Standard,Debit Card,East,Yes,290.04
+567,9.24,3,23.17928565,24,3.07,36.14,13.26,Electronics,Overnight,Debit Card,South,Yes,283.77
+568,29.84,4,44.853936,14,4.56,48.04,29.75,Sports,Overnight,PayPal,East,No,376.11
+569,,2,56.50749258,26,4.96,20.25,48.54,Sports,Standard,Credit Card,Central,Yes,182.62
+570,42.97,2,14.34056766,14,1.46,1.26,89.17,Books,Express,PayPal,South,Yes,197.72
+571,50.37,3,29.84997236,22,1.52,30.14,73.05,Home,Standard,Credit Card,East,Yes,145.51
+572,83.53,2,52.13311089,19,1.52,14.48,9.44,Clothing,Overnight,Debit Card,Central,Yes,272.52
+573,56.54,2,52.35866822,17,3.72,21.65,13.14,Clothing,Express,PayPal,South,Yes,33.94
+574,45.62,3,,14,2.49,24.42,2.78,Electronics,Express,UPI,South,No,101
+575,66.59,1,23.97993359,14,3.93,3.23,6.83,Home,Overnight,Debit Card,West,Yes,196.11
+576,5.78,6,49.33903733,18,2.62,24.3,51.38,Clothing,Express,UPI,Central,No,273.71
+577,54.71,,,18,3.51,21.32,10.74,Electronics,Standard,UPI,West,No,598.38
+578,,2,17.53004977,15,4.08,35.63,23.26,Home,Overnight,UPI,South,Yes,156.72
+579,20.43,2,16.94129527,15,3.19,32.28,26.32,Sports,Express,Credit Card,South,Yes,282.52
+580,72.88,4,38.37885023,14,3.16,9.26,36.54,Electronics,Overnight,UPI,East,No,197.87
+581,56.77,1,44.4404095,17,1.35,10.31,4.84,Home,Express,Credit Card,West,Yes,83.09
+582,41.69,2,30.51396372,13,2.64,12.55,8.73,Books,Standard,PayPal,North,Yes,246.86
+583,62.66,4,45.1894073,30,3.18,8.95,14.28,Clothing,Overnight,Debit Card,Central,No,207.66
+584,95.41,,24.3479509,22,2.85,32.86,10.89,Electronics,Express,Credit Card,West,Yes,121.52
+585,53.64,3,3.279596014,12,4.6,49.72,97.66,Sports,Standard,Credit Card,South,No,157.56
+586,54.96,3,28.64148392,26,4.63,32.61,43.23,Electronics,Standard,PayPal,East,No,161.38
+587,40.81,6,,24,4.29,30.33,15.68,Clothing,Standard,PayPal,Central,Yes,154.36
+588,33,3,30.8624006,25,2.5,20.5,50.74,Clothing,Express,Debit Card,Central,Yes,434.18
+589,66.61,3,120,17,3.87,15.63,10.25,Home,Express,PayPal,East,No,172.5
+590,32.88,1,7.765265362,29,2.58,45.55,36.98,Sports,Standard,Credit Card,South,No,72.43
+591,51.43,2,27.28866793,17,1.93,48.45,6.08,Home,Standard,Debit Card,North,Yes,61.39
+592,40.45,4,48.46483657,25,2.37,24.84,35.52,Sports,Standard,Debit Card,East,No,164.64
+593,59.58,3,53.84296159,18,1.28,14.51,14.63,Electronics,Standard,Debit Card,North,No,204.7
+594,56.67,3,52.81570076,13,2.33,38.51,2.73,Electronics,Standard,UPI,West,Yes,145.24
+595,70.75,2,22.76135697,20,2.84,6.62,7.66,Home,Express,UPI,Central,Yes,160.18
+596,39.8,3,17.69440515,28,4.82,38.28,12.35,Books,Overnight,Credit Card,South,No,166.32
+597,44.6,1,42.44951922,24,2.25,40.95,33.2,Clothing,Overnight,UPI,North,Yes,40.43
+598,30.42,2,44.52650017,,4.61,6.25,1.82,Home,Overnight,PayPal,South,No,94.17
+599,41.11,2,41.00254408,24,1.92,48.84,25.86,Home,Express,Debit Card,West,No,90.73
+600,57.55,3,4.789050886,,1.76,49.28,30.21,Electronics,Overnight,Credit Card,North,Yes,144.04
+601,65.14,5,21.99673123,21,3.08,46.84,25.47,Clothing,Overnight,PayPal,South,No,101.38
+602,31.56,3,34.55466815,21,3.69,24.8,34.32,Home,Overnight,Debit Card,South,No,54.17
+603,67.39,6,42.30827292,,1.18,12.3,4.71,Electronics,Overnight,PayPal,West,No,243.15
+604,77.11,2,46.50961044,33,1.88,29.1,21.23,Electronics,Standard,UPI,East,Yes,156.41
+605,,5,37.16380283,30,2.82,21,67.98,Home,Express,PayPal,West,Yes,83.98
+606,87.54,6,39.9617571,22,2.32,10.3,22.65,Home,Overnight,UPI,North,No,74.46
+607,34.52,6,36.27298188,,3.85,21.18,22.68,Electronics,Standard,PayPal,North,No,88.45
+608,25.11,3,45.28429061,23,3.04,33.19,32,Home,Overnight,Credit Card,Central,No,32.28
+609,14.43,4,39.69298477,21,1.64,3.55,9.73,Clothing,Overnight,UPI,South,Yes,274.85
+610,79.92,3,35.9860649,28,4.58,16.67,28.93,Electronics,Overnight,UPI,North,No,303.37
+611,63.09,2,30.97446801,23,2.17,0.89,59.51,Electronics,Overnight,Debit Card,East,Yes,174.48
+612,48.89,5,,22,3.92,37.47,0.26,Home,Overnight,UPI,East,No,218.37
+613,55.6,4,200,17,4.12,32.03,48.99,Home,Standard,Debit Card,West,No,81.59
+614,27.49,2,39.01213083,18,4.85,3.13,5.92,Home,Overnight,UPI,North,Yes,290.38
+615,98.92,0,40.71239628,27,2.99,48.24,14.61,Clothing,Standard,UPI,North,Yes,47.22
+616,52.58,0,55.14082792,26,3.46,1.13,45.91,Electronics,Overnight,UPI,Central,Yes,97.12
+617,52.19,5,38.97745884,18,2.34,29.5,41.68,Books,Express,UPI,Central,No,201.43
+618,64.52,6,25.26502219,15,3.71,38.82,53.4,Clothing,Standard,Debit Card,Central,No,252.32
+619,59.62,1,48.25410179,23,2.85,39.39,67.69,Clothing,Overnight,Credit Card,North,Yes,107.94
+620,54.48,2,14.50702493,16,2.75,1.71,14.22,Electronics,Standard,PayPal,West,Yes,190.28
+621,34.19,5,18.77879929,21,4.42,45.32,25.64,Books,Overnight,UPI,West,No,90.27
+622,59.43,4,40.03770897,13,1.2,45.92,11.88,clothing,Overnight,UPI,West,No,140.65
+623,87.64,3,,18,4.53,28.07,10.37,Clothing,Standard,Credit Card,West,Yes,165.43
+624,76.91,2,16.32423165,17,4.41,24.1,13.56,Home,Overnight,Debit Card,East,No,113.89
+625,81.86,0,29.25773779,12,3.03,2.24,32.62,Electronics,Overnight,PayPal,North,Yes,240.53
+626,39.78,,25.90874252,12,2.96,28.1,16.7,Electronics,Overnight,Credit Card,South,No,110.45
+627,30.21,5,27.69985516,16,2.45,20.47,40.38,Home,Overnight,Credit Card,North,Yes,192.02
+628,47.48,2,49.15396664,16,4.98,38.64,32.82,Books,Overnight,Credit Card,West,No,125.58
+629,51.11,3,45.59758195,23,1.44,20.19,0.5,Books,Overnight,Credit Card,East,No,297.07
+630,71.88,7,34.7131673,24,3.36,34.18,23.88,Electronics,Standard,UPI,East,No,153.1
+631,808.91,5,26.81057109,18,3.73,5.07,13.77,Home,Express,PayPal,North,Yes,109.18
+632,80.59,3,14.75525495,,4.74,6.65,14.64,Electronics,Overnight,UPI,South,Yes,226.79
+633,46.84,1,56.30277408,28,4.12,6.99,40.94,Home,Standard,Credit Card,West,Yes,58.92
+634,41.46,3,43.8817085,28,3.58,2.28,19.04,Clothing,Express,PayPal,East,No,116.08
+635,29.76,4,24.39996344,13,1.47,27.07,52.04,Home,Standard,Credit Card,West,No,229.9
+636,16.9,1,45.79399246,19,2.49,39.7,29.94,Electronics,Express,Debit Card,West,Yes,150.08
+637,66.46,3,33.94664569,20,1.56,30.52,19.32,Sports,Express,Credit Card,West,No,157.13
+638,724.8,3,30.69335743,31,4.52,28.75,33.71,Books,Express,Credit Card,Central,Yes,102.17
+639,24.2,4,41.52817292,26,4,34.03,0.94,Electronics,Standard,Debit Card,West,No,177.8
+640,24.1,1,23.87752625,20,4.03,16.98,0.66,Home,Express,UPI,West,No,57.9
+641,43.28,2,29.84365221,19,3.61,18.1,2.09,Home,Overnight,PayPal,South,No,91.73
+642,83.38,3,36.82191596,25,3.03,15.71,13.81,Books,Overnight,Credit Card,South,Yes,75.27
+643,44.81,2,27.50823211,11,1.6,35.61,6.44,Electronics,Express,Credit Card,Central,Yes,297.23
+644,19.94,1,45.03627815,24,2.32,8.08,99.64,Sports,Express,Debit Card,Central,Yes,183.47
+645,871.21,1,63.03599756,,1.55,0.65,18.76,Clothing,Overnight,PayPal,West,No,206.01
+646,44.55,3,23.68552801,26,3.9,29.81,26.06,Sports,Standard,Debit Card,East,No,142.86
+647,5,0,10.02312056,18,1.64,47.12,7.84,Clothing,Standard,Credit Card,East,No,376.6
+648,48.91,3,4.973897488,15,3.81,30.47,9.32,Clothing,Overnight,UPI,North,No,390.14
+649,45.38,,32.74297788,19,3.77,39.15,9.81,Electronics,Standard,UPI,East,Yes,39.52
+650,63.92,1,25.05253115,20,2.84,33.64,28.79,Clothing,Standard,PayPal,East,Yes,119.38
+651,86.98,7,38.11790752,21,1.54,24.87,15.41,Home,Express,Credit Card,South,No,225.63
+652,72.53,3,36.98896508,17,2.26,35.92,17.5,Clothing,Standard,Debit Card,North,Yes,136.25
+653,44.62,2,10.9517473,16,2.28,41.21,21.52,Clothing,Overnight,Credit Card,North,No,45.83
+654,27.87,4,7.776742558,20,3.8,11.24,35.15,Books,Standard,Debit Card,South,No,74.18
+655,101.47,4,39.43899861,22,1.45,16.81,2.27,Books,Express,Debit Card,East,Yes,46.6
+656,51.18,0,37.03143252,23,4.32,11.19,36,Electronics,Overnight,PayPal,East,Yes,27.76
+657,50.28,3,28.61273002,20,4.04,22.61,19.88,Electronics,Overnight,Debit Card,North,Yes,207.84
+658,49.52,3,10.14284622,19,1.75,44.25,26.54,Home,Overnight,PayPal,East,No,79.73
+659,53.96,7,42.07086894,24,3.88,17.26,9.52,Books,Express,UPI,North,No,190.39
+660,47.11,3,54.07849318,20,3.67,18.72,12.64,Sports,Overnight,PayPal,East,No,199.71
+661,38.53,2,39.1697366,18,3.99,43.02,6.31,Electronics,Express,PayPal,West,Yes,110.25
+662,39.06,4,,14,1.76,25.77,93.06,Electronics,Express,PayPal,South,Yes,131.18
+663,49.34,2,,20,1.63,26.77,16.49,Books,Standard,UPI,Central,Yes,178.67
+664,39.13,2,14.50828879,19,1.95,43.04,132.98,Books,Overnight,PayPal,West,Yes,119.75
+665,35.74,3,50.86941071,24,2.46,24.53,16.15,Home,Standard,Debit Card,East,Yes,123.27
+666,52.13,0,36.22766502,21,4.17,34.08,5.96,Books,Standard,Debit Card,Central,Yes,351.12
+667,44.9,0,8.477646324,25,3.95,4.28,17,Clothing,Express,PayPal,West,Yes,126.4
+668,80.08,3,30.48988459,20,4.7,8.93,0.97,Sports,Standard,Debit Card,South,No,99.05
+669,5,4,41.94952265,15,1.23,20.22,56.43,Clothing,Standard,PayPal,Central,Yes,209.87
+670,71.83,6,30.00428569,13,1.05,24.74,40.96,Clothing,Standard,UPI,Central,Yes,312.24
+671,74.92,4,30.86156418,24,3.8,48.29,31.06,Clothing,Overnight,Debit Card,South,No,167.83
+672,8.53,2,16.63396689,20,2.12,48.53,22.59,Electronics,Standard,PayPal,West,No,68.27
+673,43.15,2,43.49811481,18,2.34,42.56,20.81,Clothing,Express,Credit Card,Central,Yes,23.3
+674,42.57,8,25.272962,22,3.19,15.78,137.34,Electronics,Overnight,UPI,South,No,857.75
+675,21.85,100,2.653319345,20,1.41,48.2,7.82,Books,Express,Credit Card,West,Yes,434.48
+676,34.44,3,29.43113944,16,3.57,34.47,36.3,Sports,Overnight,PayPal,East,Yes,427.64
+677,27.79,,49.71724573,24,2.3,19.65,20.9,Sports,Overnight,Debit Card,North,Yes,256.15
+678,,2,29.1960583,26,3.53,35.08,89.39,Clothing,Overnight,PayPal,East,No,125.98
+679,68.71,1,61.06977478,18,4.34,0.83,42.22,Sports,Express,Debit Card,East,No,347.35
+680,,3,41.43451923,19,1.68,7.31,156.46,Electronics,Standard,PayPal,North,Yes,126.81
+681,451.56,4,40.08137243,18,4.72,41.48,21.3,Books,Overnight,PayPal,East,No,220.53
+682,27.42,0,33.07402601,22,3.12,32.28,5.49,Clothing,Express,Debit Card,East,Yes,204.51
+683,39.51,2,33.97570688,26,4.69,18.21,16.81,Home,Overnight,Debit Card,South,Yes,122.19
+684,59.79,5,31.04864547,15,1.83,25.03,29.8,Sports,Standard,PayPal,South,No,451.38
+685,25.56,5,30.46595912,21,3.42,45.26,35.73,Sports,Overnight,Credit Card,West,No,239.82
+686,64.26,3,42.96300743,17,2.62,31.58,0.01,Clothing,Express,UPI,Central,No,77.53
+687,45.19,1,20.96253155,23,4.1,19.91,16.88,Sports,Overnight,Credit Card,West,Yes,122.57
+688,42.5,3,18.86159257,20,3.42,6.02,6.44,Sports,Express,Credit Card,South,No,361.39
+689,530.01,2,18.15207424,24,2.98,14.69,49.89,Home,Standard,Credit Card,South,No,156.35
+690,58.89,5,65.68481822,24,4.65,48.92,3.98,Electronics,Standard,Credit Card,North,No,289.75
+691,,1,42.95514353,,2.51,21.87,26.35,Clothing,Overnight,Debit Card,North,Yes,41.62
+692,73.19,3,,,1.88,23.59,7.42,Clothing,Standard,Credit Card,South,Yes,127.53
+693,28.38,3,19.13727995,16,3.43,24.93,10.58,Home,Express,UPI,East,Yes,253.04
+694,62.32,4,,18,3.5,44.21,67.75,Home,Overnight,Debit Card,West,Yes,95.49
+695,61.86,2,33.2514298,20,2.76,30.2,6.6,Electronics,Express,Credit Card,South,Yes,375.98
+696,,2,38.21253412,22,2.95,34.68,2.4,Books,Overnight,Debit Card,South,No,172.05
+697,56.52,1,20.35069526,18,4.84,19.47,1.72,Clothing,Express,Credit Card,North,No,329.13
+698,24.98,0,37.40403286,14,3.93,1.45,16.86,Sports,Overnight,Credit Card,West,Yes,252.73
+699,,,28.64249693,14,1.44,46.55,24.63,Electronics,Express,UPI,West,No,99.85
+700,46.3,2,,22,1.85,47.46,9.51,Clothing,Express,Debit Card,Central,Yes,79.58
+701,39.55,1,,20,4.9,47.46,28.13,Electronics,Overnight,Debit Card,South,Yes,89.72
+702,70.98,5,11.93438287,15,3.91,47.18,1.51,Books,Express,PayPal,Central,Yes,143.25
+703,35.91,7,43.47164396,15,4.66,40.76,46.73,Clothing,Standard,Credit Card,North,Yes,88.6
+704,21.83,2,45.267292,19,2.22,34.23,40.7,Sports,Express,Credit Card,Central,Yes,729.36
+705,18.87,2,21.80534487,20,3.97,42.23,101.6,Clothing,Overnight,UPI,East,Yes,85.97
+706,62.12,2,22.69507308,23,3.86,30.03,66.16,Electronics,Standard,UPI,South,No,8.48
+707,24.39,1,31.65461478,24,2.18,6.72,10.57,Books,Standard,Debit Card,South,No,40.07
+708,85.1,2,39.23054316,18,3.2,19.56,12.23,Electronics,Express,UPI,West,No,31.09
+709,8.36,2,32.70717512,30,3.51,48.56,32.89,Electronics,Express,Debit Card,Central,No,143.57
+710,83.93,5,41.5034369,25,2.92,17.56,3.46,Home,Express,Credit Card,West,No,75.92
+711,54.22,0,61.44469479,24,4.31,43.39,9.05,Electronics,Standard,Credit Card,Central,No,160.18
+712,48.07,,27.38424846,15,4.33,4.66,3.03,Books,Standard,Debit Card,Central,Yes,41.67
+713,39.1,2,9.272300439,14,4.4,16.71,14.56,Sports,Standard,UPI,North,Yes,230.84
+714,57.98,5,47.38885375,16,4.21,17.55,19.27,Home,Overnight,UPI,Central,Yes,286.03
+715,49.25,3,60.24971864,20,2.95,2.58,5.69,Electronics,Overnight,Debit Card,West,Yes,37.5
+716,72.07,5,40.89152545,27,2.53,5.95,0.65,Clothing,Express,Credit Card,Central,No,171.86
+717,,6,18.68376987,21,4.33,9.66,30.5,Home,Overnight,Debit Card,Central,Yes,42.62
+718,53.01,3,33.14161455,17,2.96,41.89,0.48,Books,Overnight,UPI,South,No,735.06
+719,42.73,5,18.22214774,19,1.99,3.17,87.05,Clothing,Express,Debit Card,South,No,216.48
+720,606.45,2,44.64283241,21,3.03,14.94,6.01,Books,Express,Credit Card,South,No,81.01
+721,56.16,0,14.73064396,20,1.57,0.51,26.17,Clothing,Standard,PayPal,East,No,243.99
+722,15.8,6,30.4980682,28,3.77,34.78,13.69,Sports,Standard,Debit Card,South,No,152.55
+723,23.04,5,19.93493261,15,2.34,31.02,1.48,Books,Express,PayPal,East,No,164.6
+724,64.87,3,36.90237028,21,2.04,32.25,15.34,Clothing,Express,Debit Card,East,Yes,152.04
+725,53.42,6,29.50487484,18,4.83,18.72,17.45,Books,Overnight,UPI,West,Yes,50.65
+726,46.32,3,,27,4.11,10.41,46.29,Home,Overnight,UPI,South,Yes,121.77
+727,50.37,1,35.33525832,21,4.15,36.02,31.63,Books,Overnight,PayPal,Central,Yes,150.62
+728,56.95,0,20.20011458,33,3.49,40.56,1.98,Books,Express,Debit Card,North,Yes,63.86
+729,39.2,2,44.40315595,15,4.36,6.93,5.63,Clothing,Express,UPI,Central,Yes,432.82
+730,34.43,2,34.26851522,20,4.04,24.34,8.97,Books,Standard,PayPal,South,Yes,137.94
+731,53.92,4,20.17206488,26,3.4,12.44,2.97,Sports,Overnight,PayPal,Central,No,261.2
+732,30.43,5,68.61389834,26,4.84,8.41,14.65,Electronics,Standard,Debit Card,South,No,98.4
+733,58.17,1,42.1464525,24,1.77,36.72,99.71,Home,Express,UPI,South,Yes,243.02
+734,15.95,4,32.7010917,,4.77,26.9,17.35,Clothing,Overnight,PayPal,Central,Yes,193.97
+735,70.58,3,56.2280679,19,2.61,10.81,32.5,Books,Standard,Credit Card,East,No,169.31
+736,59.45,2,62.62723414,16,3.11,15.5,27.57,Books,Express,Credit Card,West,Yes,612.56
+737,487.63,3,32.81975867,20,1.49,48.33,45.52,Books,Standard,UPI,West,No,394.52
+738,69.65,2,40.2109623,19,3.16,42.43,5.83,Home,Overnight,UPI,West,Yes,61.03
+739,83.31,3,20.17995773,20,3.44,44,33.64,Electronics,Standard,Credit Card,West,No,94.31
+740,70.29,,32.79210874,23,4.99,23,51.16,Sports,Standard,PayPal,North,No,65.57
+741,13.18,2,,21,4.9,31.19,4.52,Sports,Express,Debit Card,South,Yes,308.34
+742,24.41,5,37.7724055,28,4.87,18.84,10.22,Clothing,Overnight,PayPal,North,Yes,128.48
+743,37.5,1,,16,2.39,3.89,84.24,Electronics,Standard,UPI,West,No,408.08
+744,50.52,0,43.39742673,20,4.97,20.05,36.43,Electronics,Express,UPI,West,Yes,70.61
+745,60.35,4,38.56463984,25,2.82,29.7,7.97,Home,Overnight,Debit Card,Central,Yes,288.66
+746,35.49,6,16.8388606,17,4.41,14.36,19.92,Books,Express,PayPal,West,No,351.66
+747,53.74,4,20.92299341,20,1.87,42.4,12.43,Electronics,Overnight,Debit Card,South,No,151.42
+748,34.89,3,26.80388571,,3.02,7.56,16.16,Books,Express,PayPal,West,Yes,77.6
+749,,5,30.76639112,19,4.86,18.36,10.53,Home,Express,PayPal,West,Yes,33.87
+750,21.87,2,50.76161436,23,4.79,6.25,7.86,Clothing,Express,Credit Card,North,No,177.11
+751,31.54,2,17.5559152,13,3.73,20.24,26.96,Clothing,Standard,PayPal,South,No,178.53
+752,22.97,2,,19,4.19,1.98,36.18,Books,Standard,UPI,East,No,17.29
+753,30.48,4,49.29514247,22,1.71,13.63,49.71,Books,Express,UPI,Central,Yes,193.38
+754,71.07,3,30.50183788,16,3.89,20.04,4.05,Electronics,Overnight,UPI,East,No,52.66
+755,31.01,,41.90623475,,3.47,23.91,41.54,Home,Express,Credit Card,North,Yes,267.92
+756,102.65,2,32.90686936,19,1.37,27.18,7.06,Clothing,Standard,Debit Card,West,No,186.39
+757,59.87,2,38.85174886,29,1.45,13.75,13.38,clothing,Overnight,UPI,Central,Yes,108.72
+758,53.7,3,31.57291184,12,1.43,26.15,55.61,Sports,Standard,UPI,South,Yes,93.46
+759,32.83,3,45.00598209,17,3.9,25.45,14.55,Electronics,Express,Debit Card,Central,No,29.73
+760,64.01,4,11.82415389,16,1.57,15.81,5.27,Books,Standard,Credit Card,North,Yes,48
+761,,1,29.55031987,20,2.87,41.51,4.18,Sports,Standard,PayPal,West,No,16.01
+762,52.44,0,39.44859015,21,2.43,27.28,15.37,Electronics,Standard,Debit Card,North,Yes,213.39
+763,101.2,1,43.00542872,19,3.2,16.61,34.52,Home,Express,PayPal,South,Yes,97.36
+764,48.08,4,57.39428934,18,3.83,47.37,141.12,Clothing,Standard,PayPal,East,Yes,22.88
+765,72.99,3,29.13463,17,3.74,42.26,37.16,Sports,Express,PayPal,West,No,136.45
+766,35.94,4,57.19222643,18,3.06,49.13,50.3,Home,Express,Debit Card,West,No,48.67
+767,49.3,1,25.1146426,20,2.86,34.61,33.06,Electronics,Standard,Debit Card,North,Yes,401.14
+768,85.42,5,54.92969617,22,2.59,18.91,54.19,Books,Overnight,PayPal,North,No,77.95
+769,37.46,3,47.2620069,19,4.45,14.04,1.9,Books,Standard,Credit Card,North,Yes,139.24
+770,86.25,4,21.29812131,25,2.32,33.17,63.8,Home,Standard,Credit Card,West,No,97.11
+771,64.16,4,39.60558856,23,2.04,49.04,12.12,Books,Standard,Credit Card,North,No,140.68
+772,38.75,4,34.23146247,19,3.97,31.34,61.11,Clothing,Overnight,UPI,Central,Yes,153.85
+773,62.65,1,,15,2.44,44.08,1.89,Home,Overnight,PayPal,Central,Yes,508.15
+774,69.45,4,120,16,4.39,16.46,30.15,Home,Express,UPI,Central,Yes,159.94
+775,62.44,3,30.39130662,16,2.31,20.35,31.94,Books,Overnight,Credit Card,West,No,662.24
+776,18.6,2,55.53641874,24,3.81,45.31,138.72,Home,Overnight,Debit Card,North,Yes,168.97
+777,35.46,5,33.51918658,21,1.18,37.84,35.15,Electronics,Standard,Credit Card,South,Yes,93.76
+778,45.05,4,47.39633486,25,2.54,49.07,11.57,Sports,Express,UPI,North,No,321.12
+779,48.51,3,31.61972772,,2.37,38.74,19.55,Sports,Express,UPI,West,No,304.43
+780,62.41,4,59.99994889,20,4.27,22.43,10.96,Books,Overnight,Credit Card,Central,Yes,25.37
+781,53.55,4,24.82498056,20,4.87,26.55,5.24,Clothing,Overnight,PayPal,West,Yes,138.37
+782,23.29,3,25.78784703,21,2.84,45.03,6.86,Clothing,Standard,Debit Card,North,No,199.62
+783,57.6,1,57.86775772,,4.3,27.58,6.03,Books,Overnight,Debit Card,West,No,295.4
+784,62.21,2,28.32580414,14,3.8,12.77,19.1,Books,Overnight,Credit Card,South,No,436.87
+785,61.2,0,59.01611459,23,4.87,21.78,56.79,Home,Express,PayPal,West,No,444.4
+786,71.62,4,48.37760869,22,4.24,25.82,58.53,Clothing,Overnight,PayPal,East,Yes,105.08
+787,66.68,1,32.6802544,14,1.31,4.84,1.35,Sports,Standard,Credit Card,West,Yes,71.71
+788,59.18,5,7.80059792,15,3.85,37.19,2,Books,Express,Debit Card,North,No,79.69
+789,48.6,1,34.71022544,18,3.14,5.47,6.75,Sports,Express,Debit Card,East,Yes,557.82
+790,765.83,4,36.5244508,24,1.07,20.25,7.07,Sports,Overnight,Debit Card,Central,Yes,59.24
+791,58.59,1,52.508266,23,2.01,40.23,2.39,Clothing,Standard,PayPal,North,Yes,228.69
+792,54.15,6,58.82670764,25,4.69,23.38,11.8,Sports,Express,Credit Card,South,No,98.06
+793,55.43,4,24.72519231,21,4.7,42.1,21.27,Home,Standard,PayPal,West,Yes,117.37
+794,24.47,1,47.01772646,19,4.2,17.09,20.72,Home,Standard,Debit Card,West,No,161.22
+795,28.38,3,46.48103234,19,4.93,47.88,18.82,Clothing,Overnight,PayPal,North,Yes,38.5
+796,71.06,3,51.10119054,22,4.23,10.47,9.92,Home,Standard,Debit Card,West,No,220.63
+797,49.21,4,42.48034868,13,1.04,1.91,29.42,Books,Express,Credit Card,West,No,198.79
+798,63.63,2,5.862534636,12,2.15,43.62,42.04,Clothing,Overnight,Debit Card,Central,No,125.26
+799,50.57,4,32.66866351,20,1.12,37.61,10.2,Sports,Express,UPI,West,Yes,112.25
+800,50.6,3,17.66438638,14,1.38,11.6,2.15,Books,Standard,UPI,West,Yes,290
+801,68.77,3,31.96091341,12,1.88,49.24,8.43,Clothing,Standard,Credit Card,Central,Yes,318.24
+802,39.68,,49.70006354,23,3.01,25.11,3.55,Sports,Overnight,PayPal,West,Yes,113
+803,51.92,4,39.57726254,19,4.39,47.55,15.12,Sports,Overnight,PayPal,Central,Yes,108.58
+804,40.75,3,52.221363,7,4.45,25.25,4.07,Sports,Express,PayPal,South,No,208.05
+805,41.31,,40.12630881,16,3.46,23.59,14.92,Sports,Express,Debit Card,West,Yes,301.03
+806,43.82,1,15.5251109,23,4.71,22.46,5.99,Sports,Standard,UPI,North,Yes,196.23
+807,54.44,2,-2.812705099,,3,16.74,32.21,Clothing,Overnight,Credit Card,East,Yes,285.67
+808,40.43,2,37.23213143,24,4.56,26.69,0.67,Home,Standard,PayPal,South,Yes,155.6
+809,75.12,1,31.791103,23,2.82,22.63,19.42,Sports,Standard,PayPal,West,No,264.87
+810,32.11,6,20.34581391,28,2.11,1.84,4.46,Books,Express,Credit Card,North,No,484.61
+811,46.26,2,9.490591255,20,4.67,13.02,0.02,Clothing,Express,Debit Card,East,No,132.5
+812,41.21,5,23.9788518,29,2.55,10.66,48.82,Electronics,Express,PayPal,Central,No,334.33
+813,78.94,7,32.08262773,14,3.01,43.37,26.72,Home,Overnight,Debit Card,West,Yes,212.62
+814,53.93,200,44.98816736,14,2.32,29.94,2.5,Books,Express,Debit Card,Central,No,298.03
+815,70.64,4,37.82946622,21,3.65,38.18,26.18,Sports,Overnight,Debit Card,South,Yes,131.92
+816,20.29,3,59.12100871,18,4.98,47.84,22.7,Clothing,Standard,PayPal,East,No,148.46
+817,55.34,4,19.46593916,20,1.1,32.2,15.39,Clothing,Overnight,PayPal,East,No,635.84
+818,67.79,1,48.21588338,14,4.6,49.13,13.04,Sports,Express,Credit Card,Central,Yes,80.9
+819,51.65,2,35.70948115,10,1.02,15.59,52.34,Books,Overnight,Credit Card,Central,Yes,220.32
+820,71.31,4,45.42003686,19,2.46,9.31,6.75,Clothing,Overnight,Debit Card,South,No,312.86
+821,39.65,1,28.45227705,21,1.67,20.17,12.19,Home,Express,PayPal,North,Yes,240.45
+822,78.19,4,51.07520561,24,4.03,23.54,9.58,Books,Express,Debit Card,West,Yes,73.33
+823,95.98,6,39.42837138,,1.2,44.77,35.4,Sports,Standard,Credit Card,North,Yes,81.16
+824,42.74,3,24.80832523,26,3.21,28,59.58,Books,Overnight,Debit Card,East,No,263.42
+825,41.09,1,34.81963957,21,2.18,14.61,45.5,Books,Standard,UPI,West,No,220.3
+826,79.07,2,31.40666212,20,1.53,37.13,38.35,Electronics,Standard,Debit Card,South,No,298.48
+827,81.59,4,42.33767526,26,4.09,25.29,103.84,Sports,Overnight,PayPal,North,No,431.37
+828,39.54,3,17.30334876,18,1.87,8.11,28.67,Home,Standard,Debit Card,North,Yes,359.62
+829,41.6,1,,19,1.89,28.84,33.37,Sports,Overnight,Debit Card,West,Yes,327.84
+830,44.36,7,40.92960879,19,2.1,45.57,97.51,Electronics,Standard,PayPal,South,Yes,228.18
+831,23.11,2,35.49534961,16,3.35,42.13,0.17,Sports,Standard,UPI,South,Yes,53.87
+832,31.63,5,55.20411867,21,3.64,29.34,24.13,Sports,Overnight,PayPal,North,No,55.21
+833,29.92,6,46.61034161,23,1.07,18.85,32.24,Home,Express,Credit Card,North,Yes,177.5
+834,34.64,1,34.88778805,17,1.97,4.35,59.97,Electronics,Overnight,UPI,Central,No,308.59
+835,49.31,0,38.25033646,24,2.72,23.48,51.67,Sports,Express,UPI,West,No,59.86
+836,54.68,2,39.43498327,24,2.33,37.6,44.28,Sports,Overnight,PayPal,South,No,36.34
+837,,3,41.04949406,22,4.54,18.01,69.96,Clothing,Overnight,Debit Card,East,Yes,283.1
+838,,5,7.615130065,29,4.15,11.77,18.5,Sports,Express,Credit Card,West,Yes,139.03
+839,69.69,0,30.47710556,16,3.5,46.57,0.17,Home,Express,Credit Card,Central,No,89.44
+840,45.72,0,12.73341398,24,2.35,41.08,0.27,Clothing,Overnight,UPI,West,No,223.45
+841,49.01,3,,15,3.8,31.91,18.88,Electronics,Overnight,Credit Card,North,Yes,68.14
+842,63.5,4,34.0872572,22,4.37,6.84,13.71,Books,Overnight,UPI,West,No,59.64
+843,27.55,3,,20,3.38,7.25,14.4,Home,Express,UPI,West,Yes,583.46
+844,57.65,4,48.45195998,21,4.14,5.16,12.28,Electronics,Overnight,Credit Card,West,No,185.63
+845,53.33,3,41.33487196,15,4,30.81,59.94,Clothing,Express,UPI,East,No,78.3
+846,59.85,5,18.07048228,17,3.29,5.78,10.68,Books,Standard,Debit Card,Central,Yes,58.62
+847,829.91,6,33.93641956,20,2.25,42.13,46.55,Electronics,Express,UPI,West,Yes,276.63
+848,,3,29.9724954,11,3.98,49.65,55.96,Home,Standard,Debit Card,West,No,196.51
+849,37.25,4,8.832006671,20,1.83,18.32,16.61,Clothing,Overnight,Debit Card,East,No,266.48
+850,39.38,1,24.6458565,15,4.12,22.68,14.21,Home,Overnight,Debit Card,South,Yes,105.2
+851,37.54,3,32.24689517,17,4.22,35.58,34.35,Home,Express,Credit Card,West,No,35.77
+852,38.89,3,33.27573603,17,4.29,46.86,29.54,Clothing,Standard,Debit Card,West,No,481.99
+853,37.25,2,12.76652864,20,2.89,44.7,9.56,Sports,Overnight,Credit Card,South,No,95.28
+854,73.78,4,52.27498375,21,1.77,2.88,2.6,Home,Overnight,PayPal,West,No,19.95
+855,78.41,3,33.46845412,18,1.4,8.45,7.38,Clothing,Standard,Debit Card,West,No,22.96
+856,38.59,50,35.56329615,26,3.97,37.73,3.37,Home,Overnight,UPI,West,No,361.59
+857,33.35,3,41.00962458,20,4.55,34.44,8.38,Sports,Overnight,PayPal,Central,Yes,203.69
+858,59.43,3,23.17885619,15,3.6,6.66,7.29,Clothing,Express,PayPal,North,No,48.67
+859,38.96,2,41.8453396,23,1.58,25.1,24.37,Electronics,Overnight,Debit Card,Central,Yes,96.04
+860,62.66,0,29.49388031,14,4.74,39.04,74.16,Electronics,Standard,Credit Card,South,No,479.75
+861,54.06,4,21.55121689,18,4.96,10.94,27.78,Electronics,Overnight,PayPal,Central,No,68.65
+862,19.69,100,43.6017124,20,2.73,43.56,62.7,Books,Express,Debit Card,Central,Yes,113.74
+863,80.95,2,57.37510788,14,3.38,2.65,36.79,Home,Overnight,PayPal,East,Yes,494.51
+864,85.92,4,45.8724406,16,4.11,39.11,31.24,Home,Standard,PayPal,South,Yes,146.44
+865,37.74,6,48.84466348,13,3.95,30.79,12.83,Clothing,Overnight,Debit Card,South,Yes,252.55
+866,42.25,4,27.1905409,13,4.87,15.76,9.43,Books,Standard,UPI,South,Yes,562.2
+867,55.72,4,11.03570406,28,1.46,36.05,44.94,Home,Express,UPI,Central,No,117.35
+868,56.69,2,57.35206283,21,3.32,39.12,56.59,Clothing,Overnight,UPI,South,Yes,293.32
+869,63.17,1,65.81772334,28,3.77,46.69,14.43,Sports,Overnight,PayPal,East,Yes,131.42
+870,90.2,1,58.14210161,12,4.56,18.39,0.22,Home,Express,Credit Card,West,Yes,216.38
+871,46.46,1,29.96321092,22,4.5,34.3,37.75,Home,Standard,Credit Card,Central,No,108.76
+872,34.03,4,17.68048492,18,4.91,30.13,8.05,Sports,Standard,PayPal,West,No,279.94
+873,22.41,3,19.01475953,16,3.05,26.26,0.24,Sports,Overnight,PayPal,West,No,12.76
+874,35.38,,9.744011486,24,4.32,44.52,39.23,Home,Standard,Debit Card,Central,Yes,186.33
+875,49.34,4,33.38932072,,2.71,0.16,17.49,Sports,Standard,Credit Card,Central,No,51.15
+876,85.89,2,59.08516937,16,2.69,14.11,27.74,Clothing,Overnight,PayPal,South,No,245.47
+877,39.65,6,32.87506052,19,2.01,26.91,59.08,Home,Standard,UPI,East,No,462.23
+878,54.48,3,39.53484351,21,4.27,8.91,18.7,Home,Standard,Credit Card,Central,No,137.63
+879,49.67,1,55.63395446,17,4.94,45.39,16.79,Electronics,Overnight,PayPal,West,Yes,18.97
+880,73.77,3,28.93857032,22,2.03,32.38,8.24,Home,Overnight,Debit Card,Central,Yes,159.58
+881,100.54,,65.53297185,19,1.22,23.89,8.74,Electronics,Standard,Debit Card,East,Yes,90.57
+882,39.38,2,64.88141611,15,4.26,40.74,38.22,Sports,Overnight,Credit Card,North,Yes,71.83
+883,40.21,3,33.03332992,12,3.48,22.54,14.31,Sports,Standard,UPI,West,Yes,102.73
+884,70.88,3,26.33698604,21,4.84,27.93,4.29,Clothing,Standard,Credit Card,North,Yes,273.89
+885,63.64,3,45.4585707,27,2.01,0.14,2.38,clothing,Standard,PayPal,North,Yes,351.09
+886,737.39,3,29.78712586,16,1.28,18.29,15.37,Home,Standard,UPI,East,Yes,133.11
+887,61.68,6,17.65167174,11,2.97,6.94,15.01,Electronics,Overnight,PayPal,Central,No,249.85
+888,42.81,6,54.2185798,21,1.34,34.48,25.43,Sports,Overnight,UPI,North,No,134.69
+889,,,53.24671081,20,2.05,23.95,15.29,Sports,Express,UPI,South,Yes,189.76
+890,72.17,3,37.33267406,15,1.5,15.09,3.72,Clothing,Overnight,PayPal,Central,Yes,202.12
+891,66.41,3,16.05702869,22,1.9,23.39,17.01,Sports,Express,Credit Card,West,No,79.7
+892,60.15,50,16.55710623,26,1.42,10.48,56.95,Electronics,Standard,Debit Card,Central,No,529.38
+893,71.33,3,36.60843933,27,4.82,46.25,4.17,Home,Overnight,UPI,East,No,170.07
+894,73.39,3,27.50193448,24,2.11,2.7,28.09,Home,Standard,UPI,East,Yes,314.99
+895,909.89,3,29.88360602,17,2.78,43.27,21.63,Electronics,Express,Debit Card,West,No,286.28
+896,62.97,1,50.32944733,23,4.59,25.57,33.14,Clothing,Overnight,Credit Card,West,Yes,198.73
+897,46.66,,45.99768976,23,3.71,30.95,3.92,Home,Overnight,Debit Card,West,No,12.12
+898,52.93,1,55.67214021,29,3.47,15.13,68.17,Electronics,Overnight,Credit Card,East,No,89.74
+899,74.13,4,20.14065165,30,3.82,48.33,23.28,Electronics,Overnight,UPI,Central,Yes,54.58
+900,33.66,2,29.85212647,20,4.32,14.09,45.07,Sports,Standard,UPI,North,No,248.93
+901,446.5,2,46.38472543,16,4.51,29.44,6.8,Sports,Overnight,PayPal,North,Yes,132
+902,42.13,5,41.72117512,17,3.57,49.67,32.28,Clothing,Express,Credit Card,South,No,349.21
+903,50.57,4,57.98570574,19,4.56,44.05,36.45,Clothing,Overnight,Debit Card,East,Yes,85.35
+904,75.57,1,41.30805059,19,3.14,26.82,12.16,Clothing,Express,Credit Card,West,Yes,115.9
+905,53.82,1,62.72163656,17,2.11,49.52,11.63,Electronics,Express,Credit Card,Central,Yes,400.34
+906,50.93,5,43.10026703,10,4.52,35.07,25.74,Electronics,Standard,Credit Card,East,No,175.6
+907,22.8,3,50.93251171,21,3.17,10.44,2.35,Sports,Overnight,Credit Card,South,Yes,229.58
+908,64.93,1,30.1472758,15,4.62,20.28,31.93,Home,Express,Debit Card,North,No,329.3
+909,62.91,1,35.21430818,23,1.16,16.72,1.05,Clothing,Overnight,PayPal,Central,No,137.74
+910,93.27,5,48.66416606,30,2.59,17.2,5.07,Books,Standard,UPI,North,Yes,287.88
+911,43.84,4,200,18,4.79,38.02,26.19,Clothing,Standard,Debit Card,Central,Yes,164.81
+912,54.38,4,45.93855424,20,2,29.21,2.48,Sports,Overnight,Debit Card,West,No,126.5
+913,54.99,1,33.75242342,,4.77,1.9,85.68,Electronics,Express,UPI,Central,No,354.53
+914,81.55,0,,24,4.82,43.87,48.67,Sports,Standard,PayPal,West,Yes,159.26
+915,,4,2.120320156,19,4.53,14.84,23.62,Sports,Express,Debit Card,East,No,72.42
+916,55.58,2,13.66648248,16,3.25,49.85,41.03,Sports,Express,UPI,North,Yes,121.26
+917,62.16,4,45.22451336,37,3.59,47.71,52.45,Books,Overnight,PayPal,Central,Yes,53.96
+918,53.73,1,35.21162534,,4.48,47.03,7.21,Books,Standard,PayPal,Central,Yes,114.91
+919,41.07,1,44.08270477,16,4.1,40.56,45.44,Clothing,Overnight,Credit Card,South,No,47.68
+920,53.88,4,35.96611284,16,3.52,11.03,5.2,Electronics,Overnight,Debit Card,North,No,81.35
+921,71.47,2,43.56418542,22,4.93,26.63,12.8,Sports,Overnight,PayPal,East,No,221.81
+922,29.47,1,22.78395769,19,3.74,11.22,19.61,Home,Express,Debit Card,West,No,99.85
+923,52.66,1,43.55729129,20,4.9,12.98,30.03,Clothing,Overnight,UPI,East,Yes,320.99
+924,36,3,,24,1.23,30.55,0.73,Clothing,Standard,Debit Card,South,No,156.22
+925,73.9,4,,14,1.56,2.04,8.24,Sports,Express,PayPal,East,Yes,13.72
+926,19.54,2,65.20331442,27,2.81,48.47,22.51,Clothing,Overnight,UPI,West,Yes,30.23
+927,38.82,2,38.66147665,26,2.54,45.93,10.61,Sports,Standard,UPI,North,No,314.52
+928,,4,39.1086663,20,4.13,19.04,35.8,Clothing,Overnight,Credit Card,South,No,412.04
+929,81.31,,12.15241304,26,1.64,25.77,25.31,Electronics,Overnight,UPI,Central,No,125.59
+930,48.68,1,27.02882898,16,4.9,23.31,6.41,Clothing,Overnight,PayPal,Central,Yes,232.58
+931,38.9,1,32.10376889,14,2.26,44.11,3.79,Clothing,Express,Credit Card,North,No,238.94
+932,87.62,3,50.75479328,15,2.72,34.43,23.8,Home,Overnight,PayPal,East,Yes,97.51
+933,21.04,2,25.83498314,28,2.1,13.91,14.37,Electronics,Standard,PayPal,Central,Yes,246.86
+934,6.02,3,46.9451003,13,3.32,22.34,4.44,Electronics,Overnight,Credit Card,South,No,366.17
+935,58.8,2,34.97567425,18,1.23,21.45,9.48,Electronics,Overnight,Credit Card,West,No,277.84
+936,39.96,6,32.34247827,19,1.6,47.97,8.66,Clothing,Express,Debit Card,East,No,137.31
+937,29.58,7,38.73340954,15,3.98,8.77,2.75,Books,Overnight,PayPal,West,Yes,159.52
+938,64.17,4,29.13265442,24,1.75,4.48,19,Clothing,Standard,Debit Card,East,Yes,279.96
+939,54.88,2,28.56444128,24,1.94,44.03,34.62,Sports,Standard,UPI,South,No,136.75
+940,38.72,2,9.428211413,15,4.17,44.83,20.56,Home,Overnight,UPI,West,No,274.12
+941,24.39,,31.28068689,24,1.37,43.59,42.01,Electronics,Standard,Debit Card,South,Yes,23.4
+942,67.45,5,27.80047781,24,2.75,25.55,3.28,Sports,Standard,Credit Card,West,No,186.47
+943,63,,27.26028516,22,1.09,32.99,13.73,Sports,Overnight,UPI,East,No,85.24
+944,48.02,4,41.25309594,21,2.39,28.17,22.56,Books,Standard,Credit Card,South,Yes,40.37
+945,86.93,4,44.87947929,22,3.8,3.47,27.05,Electronics,Standard,Debit Card,East,Yes,405.3
+946,28.6,4,38.48291757,15,1.36,29.79,28.56,Clothing,Overnight,Credit Card,East,No,399.98
+947,19.49,5,49.93122786,16,4.55,0.68,31.33,Electronics,Express,PayPal,West,Yes,231.75
+948,36.16,3,43.63342889,18,4.64,16.25,25.29,Home,Express,UPI,West,No,54.78
+949,49.09,3,30.57415715,18,1.42,46.61,2.38,Electronics,Overnight,Credit Card,South,Yes,187.21
+950,54.87,5,28.05715571,19,4.96,15.2,28.52,Sports,Express,Credit Card,Central,Yes,329.21
+951,45.18,4,39.69233355,28,2.19,46.99,30.96,Sports,Express,PayPal,North,Yes,82.8
+952,57.04,3,,20,1.34,12.51,120.79,Clothing,Express,Credit Card,West,Yes,14.78
+953,24.97,4,55.96766461,18,1.02,15.73,28.37,Clothing,Express,Debit Card,East,No,143.61
+954,78.88,3,52.86759567,23,2.63,31.42,27.86,Clothing,Overnight,Debit Card,North,Yes,57.56
+955,48.36,3,26.8779049,18,3.52,38.08,17.36,Home,Express,Debit Card,South,No,305.6
+956,72.35,,33.4699058,27,2.33,25.07,48.58,Electronics,Express,UPI,North,Yes,428.27
+957,56.85,3,45.06526707,22,4.35,44.11,138.13,Books,Overnight,Credit Card,North,No,100.21
+958,59.14,1,51.01996667,16,3.87,2.01,36.24,Electronics,Overnight,UPI,Central,Yes,135.23
+959,61.4,3,49.08454203,22,2.4,46.11,22.75,Clothing,Express,UPI,Central,Yes,271.56
+960,58.95,2,34.04183251,21,3.94,9.82,1.97,Home,Standard,Credit Card,North,No,578.59
+961,62.85,2,16.18966021,25,4.76,44.21,31.14,Electronics,Overnight,Credit Card,Central,Yes,137.63
+962,76.58,4,20.01595436,15,1.37,20.04,29.59,Sports,Overnight,Debit Card,Central,No,703.77
+963,53.93,4,39.08950271,15,2.22,41.64,35.86,Electronics,Express,UPI,North,No,162.07
+964,64.18,1,40.13338369,24,2.85,33.58,3.19,Sports,Standard,UPI,West,Yes,189.63
+965,48.21,7,18.5198094,24,2.99,8.8,25.45,Electronics,Overnight,Credit Card,Central,Yes,328.41
+966,78.8,3,35.66854416,16,3.17,45.9,8.41,Electronics,Overnight,UPI,North,No,133.42
+967,36.47,2,44.46836535,22,2.2,12.28,34.28,Electronics,Overnight,PayPal,West,Yes,63.28
+968,86.02,6,17.73160014,21,3.67,12.21,6.6,Clothing,Standard,Credit Card,Central,Yes,335.39
+969,49.2,0,,20,3.58,40.71,27.65,Sports,Overnight,Debit Card,North,No,364.18
+970,21.38,6,29.33703277,20,3.31,5.29,8.39,Home,Overnight,PayPal,Central,Yes,227.44
+971,52.56,3,53.86419669,23,1.46,11.1,0.22,Books,Standard,PayPal,West,Yes,29.73
+972,36.38,3,26.99821331,17,2.91,25.18,24.08,Sports,Overnight,Debit Card,North,Yes,51.23
+973,66.81,5,120,19,2.42,41.52,2.89,Clothing,Standard,PayPal,West,Yes,169.85
+974,36.95,5,28.12794515,16,2.96,7.37,25.84,Sports,Standard,PayPal,East,Yes,166.88
+975,41.08,2,33.57277815,18,4.69,27.38,62.36,Home,Standard,PayPal,South,No,228.71
+976,12.21,4,29.1728014,21,2.92,35.56,83.56,Sports,Express,UPI,East,Yes,164.38
+977,40.95,3,31.75997868,19,1.06,43.03,6.46,Clothing,Overnight,PayPal,Central,Yes,77.22
+978,5,6,40.00947725,26,2.76,46.78,39.76,Clothing,Overnight,PayPal,West,No,147.03
+979,18.32,1,32.43230945,14,4.28,39.23,10.47,Books,Overnight,Credit Card,North,Yes,30.9
+980,65.21,3,34.00831409,25,4.12,32.64,55.37,Home,Standard,Debit Card,West,No,47.36
+981,65.72,5,,26,3.05,21.68,37.17,Books,Express,UPI,Central,No,307.11
+982,58.51,3,40.87547024,15,2,5.61,1.84,Electronics,Standard,UPI,North,Yes,148.72
+983,30.66,2,33.66195053,22,2.86,35.49,12.55,Clothing,Overnight,Debit Card,East,Yes,95.63
+984,49.05,0,59.15439471,25,3.25,49.64,9.88,Books,Standard,UPI,West,No,24.01
+985,49.93,1,20.90652249,25,5,36.84,36.91,Clothing,Express,UPI,South,Yes,160.66
+986,474.02,4,7.875570073,26,3.58,0.84,12.67,Clothing,Overnight,UPI,Central,No,129.03
+987,80.07,6,44.27102741,,3.78,24.81,27.69,Electronics,Standard,Credit Card,Central,Yes,111.13
+988,67.55,2,40.19790527,16,2.97,30.73,22.14,Clothing,Express,Credit Card,West,Yes,126.98
+989,45.58,4,19.87350469,19,2.42,34.48,89.15,Books,Standard,UPI,East,No,424.03
+990,50.54,1,12.05376567,17,4.25,35.99,66.65,Home,Standard,Debit Card,East,No,99.94
+991,54.17,1,58.06095096,28,2.98,27.91,13.39,Sports,Overnight,Debit Card,South,No,313.75
+992,9.17,9,56.21165586,18,4.98,11.17,30.86,Books,Express,Credit Card,South,No,134.35
+993,45.06,2,-2.311851381,20,2.83,47.11,42.45,Electronics,Standard,Credit Card,West,No,42.3
+994,36.36,2,28.12665456,22,1.27,34.83,55,Sports,Express,PayPal,North,No,80.44
+995,29.97,,59.96288082,25,3.73,11.84,1.69,Clothing,Overnight,Credit Card,East,No,114.23
+996,44.38,4,27.85906163,28,1.19,16.12,8.63,Books,Overnight,UPI,North,No,56
+997,85.95,2,27.64081649,23,2,46.1,9.26,Sports,Overnight,Credit Card,North,No,797.58
+998,62.82,1,30.75861009,17,2.41,44.37,13.68,Books,Express,PayPal,West,No,87.44
+999,,2,18.18654539,23,3.96,20.26,4.45,Clothing,Express,PayPal,South,Yes,380.7
+1000,,1,9.428363837,26,2.98,1.92,16.45,Books,Standard,Debit Card,North,Yes,78.67
+1001,77.99,0,50.78820966,23,1.11,2.42,26.12,Electronics,Express,Debit Card,West,No,60.16
+1002,68.49,3,7.355946406,15,3.47,14.2,16.51,Sports,Overnight,UPI,South,Yes,383.26
+1003,51.19,2,38.70907178,20,2.65,31.46,26.3,Sports,Standard,Credit Card,North,No,38.96
+1004,37.06,6,48.29869239,17,4.69,29.21,1.65,Sports,Express,PayPal,North,Yes,16.18
+1005,63.96,2,,,3,31.69,50.1,Books,Overnight,PayPal,South,Yes,127.16
+1006,57.87,2,21.13597396,29,3.84,35.86,67.15,Clothing,Overnight,Debit Card,South,Yes,50.21
+1007,67.9,2,53.19768783,21,1.88,0.95,23.09,Books,Standard,Debit Card,Central,Yes,272.87
+1008,62.7,6,42.9933758,26,4.04,5.25,51.17,Books,Overnight,Credit Card,Central,Yes,170.63
+1009,70.99,1,25.7407144,21,3.88,17.97,3.38,Sports,Express,PayPal,West,No,202.99
+1010,39.3,4,53.03373505,19,4.62,7.74,38.32,Clothing,Overnight,Debit Card,West,Yes,139.4
+1011,76.35,4,53.09803585,24,1.14,3.77,3.04,Home,Standard,Credit Card,East,Yes,204.08
+1012,53.95,2,39.0357904,23,2.79,32.05,12.58,Clothing,Overnight,Credit Card,Central,No,196.54
+1013,91.51,3,21.49759658,26,3.72,40.77,9.39,Books,Overnight,Credit Card,South,Yes,84.75
+1014,36.22,0,28.79826945,20,1.38,37.63,21.14,Electronics,Express,Debit Card,Central,Yes,209.98
+1015,84.72,3,39.29580116,19,2.64,40.85,8.61,Clothing,Express,Debit Card,West,Yes,47.26
+1016,53.96,4,32.17107756,20,4.77,33.29,24.34,Sports,Express,Debit Card,West,Yes,172.88
+1017,36.97,2,49.08435767,19,2.74,36.77,10.99,Electronics,Express,UPI,West,Yes,42.22
+1018,40.32,4,12.0533888,21,4.94,13.59,47.32,Home,Overnight,UPI,South,Yes,87.84
+1019,43.59,0,12.58604706,,1.23,49.65,24.12,Home,Express,UPI,North,Yes,81.69
+1020,58.48,,37.71306667,26,3.87,9.16,5.82,Electronics,Overnight,Debit Card,West,No,386.69
+1021,60.46,4,27.62683379,22,3.32,10.72,9.83,Home,Express,Debit Card,Central,No,109.8
+1022,38.53,4,25.59427078,,3,14.45,45.12,Electronics,Express,UPI,North,No,126.04
+1023,49.51,,8.479149212,18,4.88,48.77,11.73,Books,Express,PayPal,Central,Yes,182.98
+1024,92.85,3,35.29318767,,1.52,49.41,18.42,Electronics,Overnight,PayPal,West,Yes,148.52
+1025,910.74,4,34.20867338,27,4.58,39.74,25.12,Books,Express,PayPal,South,No,131.56
+1026,58.73,4,44.80218473,23,3.76,31.45,10.26,Sports,Overnight,PayPal,North,No,133.31
+1027,50.76,3,36.033592,21,2.04,26,8.35,Sports,Express,UPI,North,No,204.03
+1028,52.4,3,33.01093883,20,4.61,48.53,15.48,Home,Express,Credit Card,West,Yes,188.09
+1029,,3,52.65500955,23,2.72,34.78,5.81,Electronics,Standard,Credit Card,West,No,27.96
+1030,29.54,2,15.31299045,30,4.26,47.24,8.02,Books,Express,PayPal,West,Yes,138.76
+1031,44.85,3,43.04583828,21,2.56,15.83,1.54,Sports,Overnight,Debit Card,East,No,305.33
+1032,16.63,4,9.932792528,21,4.4,16.69,8.7,Sports,Standard,PayPal,South,No,123.67
+1033,57.98,5,22.4245718,23,3.55,42.74,9.28,Sports,Overnight,PayPal,South,Yes,73.38
+1034,62.94,5,16.81014301,25,1.56,7.49,78.38,Home,Overnight,Credit Card,West,Yes,185.5
+1035,40.34,1,46.72913803,18,3.6,47.3,21.38,Sports,Standard,Debit Card,East,Yes,160.85
+1036,81.48,5,34.0188465,20,1.77,25.37,37.16,Clothing,Express,Credit Card,West,Yes,136.64
+1037,,4,34.79745133,21,2.65,46.32,1.11,Home,Standard,Debit Card,West,Yes,546.13
+1038,20.71,2,18.39900518,18,1.68,16.84,2.7,Electronics,Overnight,UPI,South,Yes,88.41
+1039,54.49,2,30.50459756,19,1.09,35.8,40.44,Clothing,Express,Credit Card,East,No,164.8
+1040,70.94,1,23.54802045,31,1.85,24.14,23.45,Home,Standard,UPI,South,Yes,129.23
+1041,83.68,3,40.75182522,18,3.15,31.34,5.09,Home,Overnight,UPI,West,Yes,54.2
+1042,40.82,5,20.13363297,22,2.93,25.22,12.45,Books,Express,PayPal,Central,Yes,140.7
+1043,71.57,1,54.94691548,24,3.01,48.36,18.57,Clothing,Overnight,Debit Card,North,No,133.4
+1044,49.23,2,9.866293256,20,1.99,34.61,44.53,Clothing,Express,Credit Card,West,No,188.02
+1045,46.55,3,22.90220251,17,3.74,12.57,1.5,Clothing,Express,PayPal,East,Yes,258.33
+1046,67.67,3,60.15800765,19,3.82,45.48,21.8,Sports,Standard,Credit Card,Central,Yes,489.17
+1047,63.05,3,28.47291878,11,2.43,14.7,30.3,Sports,Express,UPI,East,Yes,185.2
+1048,18.47,3,15.27682003,19,4.52,18.58,91.48,Electronics,Overnight,Credit Card,West,Yes,49.08
+1049,79.53,5,38.28607344,18,3.58,5.11,39.5,Electronics,Express,Credit Card,West,Yes,253.18
+1050,77.6,4,27.86911637,20,3.85,45,7.76,Electronics,Overnight,PayPal,North,Yes,357.68
+1051,37.49,3,22.46194617,24,2.11,14.31,29.67,Sports,Express,Debit Card,East,No,27.57
+1052,57.92,5,18.56193784,20,1,12.95,34.58,Books,Express,Credit Card,Central,Yes,342.71
+1053,59.88,4,76.52560408,13,4.46,46.01,31.4,Electronics,Standard,UPI,North,Yes,79.85
+1054,55.21,1,31.2267215,27,4.29,40.28,41.17,Home,Express,UPI,East,Yes,120.41
+1055,38.99,3,6.116489595,17,1.49,7.05,56.17,Sports,Express,PayPal,West,Yes,187.04
+1056,36.57,3,57.40564639,17,2.5,38.47,2.49,Books,Overnight,UPI,North,No,187.06
+1057,49.49,1,,20,3.65,45.65,2.66,Home,Overnight,Credit Card,West,Yes,149.76
+1058,,5,23.50300353,19,3.61,3.93,38.2,Home,Overnight,Debit Card,South,No,368.89
+1059,,3,21.00321367,23,4.44,41.26,6.98,Sports,Express,Credit Card,South,Yes,165.74
+1060,42.59,2,45.10209194,22,1.56,27.37,1.45,Clothing,Overnight,PayPal,North,Yes,264.87
+1061,65.43,3,31.29622509,20,2.72,33.46,12.31,Books,Overnight,UPI,North,Yes,210.74
+1062,5,3,6.110332723,13,1.39,24.64,41.14,Sports,Express,Credit Card,East,No,63.27
+1063,72.98,3,61.80859947,18,2.56,34.89,3.25,Clothing,Overnight,Credit Card,Central,No,45.32
+1064,15.21,1,120,20,1.06,1.7,26.74,Sports,Standard,UPI,Central,Yes,496.18
+1065,42.75,5,57.43357605,24,4.59,38.14,0.09,Sports,Standard,Debit Card,South,Yes,136.48
+1066,27.61,1,54.17652437,17,3.11,1.67,2.79,Home,Overnight,Debit Card,South,Yes,303.21
+1067,24.11,4,19.98485683,20,4.4,22.76,10.37,Sports,Overnight,Debit Card,South,Yes,630.13
+1068,73.22,2,50.49784797,15,1.24,7.55,2.1,Clothing,Overnight,UPI,West,Yes,102.54
+1069,40.65,3,25.22836175,26,1.91,41.18,44.88,Home,Express,Credit Card,Central,Yes,323.64
+1070,,4,6.999491198,26,2.04,15.68,47.89,Clothing,Standard,PayPal,North,Yes,44.69
+1071,49.06,3,28.63102751,15,2.55,22.7,33.81,Clothing,Standard,Credit Card,South,No,75.16
+1072,59.54,8,40.96456253,19,4.21,21.44,6.66,Home,Overnight,UPI,East,No,282.7
+1073,,2,28.05895028,24,2.55,38.63,17.78,Clothing,Overnight,UPI,North,Yes,321.23
+1074,24.34,2,30.39427489,29,1.82,24.06,4.89,Electronics,Express,Credit Card,North,Yes,40.65
+1075,69.93,1,52.15349067,16,1.26,39.45,7.93,Sports,Express,UPI,North,Yes,75.32
+1076,40.12,,36.5974097,13,1.32,3.68,17.42,Home,Standard,Credit Card,Central,Yes,260.49
+1077,559.32,5,22.35052533,16,4.04,9.58,31.87,Home,Express,Credit Card,South,Yes,86.62
+1078,41.44,2,45.53045486,13,2.78,27.58,2.39,Electronics,Standard,Debit Card,East,Yes,52.54
+1079,80.02,0,37.9651335,22,3.9,47.35,8.45,Electronics,Overnight,UPI,West,No,151.69
+1080,881.33,2,,23,3.73,3.74,62.69,Electronics,Overnight,UPI,East,No,112.54
+1081,43.03,5,41.42529371,14,1.54,2.15,13.45,Electronics,Standard,Debit Card,East,No,170.33
+1082,43.01,4,40.87743062,23,1.57,7.83,67.07,Books,Overnight,Debit Card,East,Yes,210.13
+1083,43.57,,35.30181694,18,4.02,32.06,114.15,Home,Express,Debit Card,West,No,658.5
+1084,91.53,4,48.37550872,21,3.89,19.95,17.95,Clothing,Overnight,PayPal,East,Yes,301.17
+1085,57.64,4,24.91409624,17,2.51,41.28,8.15,Home,Overnight,UPI,East,No,190.35
+1086,58.6,1,40.04749683,24,1.31,3.6,37.54,Home,Standard,Credit Card,South,Yes,111.53
+1087,70.61,3,11.49560943,22,1.05,9.82,4.16,Home,Express,Credit Card,South,No,244.53
+1088,54.78,1,41.10635575,21,2.15,15,6.97,Electronics,Express,Credit Card,South,Yes,47.21
+1089,44.82,4,64.29589543,17,1.04,31.34,36.88,Electronics,Overnight,UPI,North,No,246.74
+1090,46.07,4,20.07715471,26,1.92,34.26,13.64,Books,Overnight,PayPal,East,No,244.71
+1091,48.57,3,23.60296802,21,2.68,6.21,5.4,Home,Express,UPI,Central,No,163.11
+1092,639.97,3,24.34976836,19,1.49,47.19,25.27,Sports,Express,UPI,Central,Yes,261.61
+1093,64.55,3,36.94997339,24,1.42,17.05,31.67,Books,Standard,UPI,Central,Yes,102.24
+1094,51.04,4,19.05445591,19,4.59,35.66,3.21,Electronics,Overnight,UPI,West,Yes,103.97
+1095,64.65,2,41.31871068,21,3.34,26.21,7.78,Home,Overnight,UPI,South,Yes,259.18
+1096,48.39,3,47.70259918,26,4.74,11.14,6,Electronics,Express,PayPal,South,Yes,167.21
+1097,51.57,4,43.0152082,19,2.38,42.31,11.47,Clothing,Standard,Debit Card,South,No,248.5
+1098,10.04,5,8.473768615,19,3.71,40.91,34.6,Electronics,Express,Credit Card,West,Yes,168.91
+1099,68.33,2,49.92751498,21,1.82,19.8,30.02,Electronics,Overnight,UPI,East,Yes,226.83
+1100,56.93,2,49.06051121,25,3.47,29.43,26.07,Books,Overnight,UPI,North,Yes,463.14
+1101,69.96,1,47.45242059,19,1.52,12.89,0.15,Clothing,Overnight,UPI,South,No,427
+1102,5,2,40.59263373,27,1.01,34.49,3.68,Sports,Overnight,Credit Card,East,No,35.54
+1103,91.77,4,38.30283971,15,4.73,15.45,6.06,Sports,Standard,PayPal,Central,No,79.7
+1104,47.21,2,50.48584097,24,3.22,42.2,7.62,Sports,Overnight,Credit Card,North,Yes,244.61
+1105,72.16,2,,,4.71,10.87,3.8,Home,Express,PayPal,Central,Yes,103.37
+1106,29.2,,20.70439305,16,2.34,0.74,12.68,Sports,Standard,Debit Card,East,No,180.64
+1107,62.26,3,51.17188094,17,2.31,13.43,1.88,Home,Standard,UPI,East,Yes,605.13
+1108,28.93,4,33.70674353,20,2.6,9.55,33.27,Electronics,Overnight,PayPal,Central,Yes,159.99
+1109,37.52,1,33.05490422,21,3.82,25.41,37.2,Sports,Standard,Credit Card,North,Yes,300.8
+1110,88.28,3,11.95203964,22,3.26,10.19,20.49,Books,Overnight,PayPal,Central,Yes,155.77
+1111,46.19,6,30.72815886,22,4.7,38.16,2.26,Clothing,Standard,PayPal,Central,Yes,222.71
+1112,54.35,3,,27,1.1,12.07,52.99,Clothing,Standard,Debit Card,Central,No,321.69
+1113,67.4,1,28.04218356,17,3.83,35.35,80.9,Electronics,Express,UPI,North,No,349.92
+1114,59.91,,18.52720424,27,2.32,28.92,5.43,Clothing,Express,UPI,West,No,214.5
+1115,53.01,6,28.26637419,25,1.72,49.31,29.27,Clothing,Express,Credit Card,North,Yes,193.76
+1116,57.3,4,28.90834464,28,3.04,50,44.27,Electronics,Standard,Credit Card,Central,No,170.29
+1117,98.07,4,36.45132378,15,3.02,43.48,18.63,Electronics,Express,Debit Card,South,Yes,41.82
+1118,48.85,100,10.77875207,20,1.55,38,9.37,Electronics,Express,PayPal,South,No,94.12
+1119,54.02,5,13.31722778,17,1.81,19.32,15.63,Books,Express,PayPal,East,Yes,140.17
+1120,71.01,0,40.42871406,25,2.63,37.66,17.23,Electronics,Standard,Credit Card,West,Yes,513.29
+1121,72.11,5,23.03842824,22,2.64,47.83,12.29,Electronics,Overnight,UPI,East,No,139.77
+1122,73.74,2,51.11794685,17,2.27,1.17,63.77,Electronics,Express,PayPal,East,No,221.55
+1123,62.77,,38.37904583,19,1.59,26.9,32.69,Sports,Standard,Debit Card,South,No,193.41
+1124,27.14,3,44.10143225,16,1.02,10.9,6.63,Sports,Standard,Credit Card,North,Yes,159.34
+1125,82.67,6,56.16038481,19,4.88,27.89,21.14,Books,Overnight,PayPal,East,No,157.26
+1126,27.07,3,30.35433782,21,4.77,23.32,28.01,Books,Express,UPI,East,No,330.07
+1127,56.05,100,,18,2.93,28.79,3.62,Clothing,Standard,UPI,West,No,182.47
+1128,34.91,2,48.07553878,19,4.98,27.55,10.65,Sports,Standard,Debit Card,South,No,240.35
+1129,48.72,2,42.64270346,,3.69,48.01,56.63,Books,Standard,Debit Card,North,Yes,49.83
+1130,56.58,3,32.19004535,28,1.28,27.61,20.1,Books,Overnight,Credit Card,West,Yes,185.99
+1131,56.43,7,55.8718695,20,1.47,42.31,5.87,Clothing,Express,Credit Card,North,Yes,41.17
+1132,58.44,50,31.81633535,,4.66,15.99,3.14,Electronics,Standard,UPI,North,No,98.04
+1133,82.27,3,35.49160456,28,3.52,21.91,17.53,Home,Standard,UPI,East,No,95.88
+1134,59.07,3,35.31833976,20,4.37,23.52,19.04,Clothing,Standard,PayPal,West,No,137.65
+1135,45.12,4,20.98109158,16,4.59,13.94,9.77,Home,Standard,PayPal,East,Yes,52.48
+1136,69.28,3,36.16378084,18,2.79,18.99,23.89,Clothing,Express,PayPal,Central,No,75.13
+1137,73.79,3,,19,1.19,29.93,1.71,Clothing,Express,Debit Card,North,Yes,170.32
+1138,25.45,3,41.67452473,28,1.75,29.01,3.76,Electronics,Standard,Debit Card,West,No,331.78
+1139,61.95,3,35.4659514,20,1.27,31.82,18.97,Books,Standard,PayPal,South,Yes,39.27
+1140,64.02,7,32.57349078,22,1.75,17.59,1.53,Sports,Standard,UPI,East,Yes,169.16
+1141,44.05,2,39.96300543,13,2.64,15.79,51.07,Clothing,Overnight,Credit Card,Central,No,494.26
+1142,77.51,2,,19,1.47,30.58,3.68,Electronics,Overnight,Debit Card,Central,No,700.67
+1143,47,3,44.13858246,17,1.67,6.64,26.89,Home,Overnight,Debit Card,Central,Yes,1300.65
+1144,52.51,3,30.02202707,27,2.78,12.65,11.91,Books,Standard,PayPal,East,Yes,361.87
+1145,46.54,4,39.87172391,,2.36,2.11,12.25,Clothing,Overnight,Credit Card,South,No,151.42
+1146,50.31,2,42.19909612,14,2.87,3.63,34.74,Home,Express,Debit Card,West,Yes,81.21
+1147,28.07,3,19.89207519,13,2.72,12.17,16.61,Clothing,Overnight,Credit Card,North,No,277.71
+1148,21.2,3,37.52345812,21,3.58,0.98,31.04,Sports,Standard,Debit Card,South,No,88.24
+1149,81.89,3,2.580441705,14,4.75,12.27,16.89,Sports,Express,Credit Card,East,Yes,390.62
+1150,33.06,2,42.23800565,22,1.43,32.75,21.57,Books,Standard,Credit Card,West,Yes,614.87
+1151,518.4,3,44.90514582,21,1.4,3.06,34.32,Home,Express,Debit Card,North,No,413.45
+1152,,1,46.21319189,18,4.41,21.84,22.43,Sports,Overnight,Credit Card,West,Yes,163.94
+1153,37.22,5,,27,3.03,45.66,22.95,Electronics,Overnight,UPI,North,Yes,116.45
+1154,23.54,4,,13,4.07,39.56,37.37,Books,Express,Debit Card,North,No,117.39
+1155,82.84,3,56.35930768,16,1.86,15.27,71.46,Clothing,Express,Debit Card,Central,Yes,380.04
+1156,70.2,4,56.20654472,22,4.32,46.24,11.35,Home,Standard,UPI,East,Yes,90.76
+1157,36.24,3,34.56240951,16,4.7,16.48,20.66,Home,Express,Credit Card,South,Yes,233.43
+1158,95.05,3,37.08979446,18,3.54,3.63,2.17,Electronics,Standard,UPI,Central,Yes,674.97
+1159,69.64,4,51.66366717,24,1.42,49.7,10.67,Sports,Express,Debit Card,Central,No,180.76
+1160,43.5,3,12.48796977,16,4.58,43.5,12.75,BOOKS,Express,UPI,West,Yes,69.98
+1161,5,4,30.15386386,,4.17,23.3,43.28,Electronics,Overnight,Credit Card,North,Yes,188.62
+1162,95.82,2,55.03355683,18,4,33.32,17.29,Electronics,Overnight,UPI,North,Yes,55.18
+1163,22.21,5,49.62800813,14,1.15,33.56,31.52,Clothing,Standard,Debit Card,West,Yes,386.46
+1164,17.09,4,40.53895666,20,4.2,9.72,0.46,Electronics,Standard,Credit Card,East,No,89.57
+1165,70.45,2,12.41251392,21,1.55,10,14.99,Books,Standard,Debit Card,North,No,193.69
+1166,98.8,3,,19,1.89,23.48,55.58,Home,Express,Debit Card,Central,No,219.61
+1167,77.69,4,26.15126906,26,3.31,45.58,6.1,Books,Express,PayPal,Central,Yes,318.53
+1168,61.28,,39.96558354,14,2.06,0.5,0.77,Electronics,Standard,Debit Card,North,No,451.5
+1169,61.9,4,22.85979973,21,3.65,39.13,13.63,Electronics,Express,Debit Card,North,No,485.2
+1170,67.07,5,19.61414908,18,3.43,2.88,29.25,Books,Overnight,Credit Card,East,Yes,250.34
+1171,65.18,2,4.027020835,11,1.43,23.91,14.54,Clothing,Express,Credit Card,North,Yes,246.05
+1172,55.62,3,53.32707027,12,3.62,31.89,14.79,Electronics,Overnight,Credit Card,East,No,160.67
+1173,52.08,3,29.00344233,24,4.7,34.34,26.59,Books,Standard,UPI,Central,No,162.8
+1174,48.75,,37.35718676,12,1.64,2.92,7.05,Books,Express,UPI,East,Yes,182.32
+1175,34.92,2,34.96642825,17,3.39,20.93,33.45,Home,Standard,Credit Card,North,Yes,91.07
+1176,44.39,3,18.98849101,17,2.37,29.19,3.99,Clothing,Overnight,UPI,South,Yes,132.7
+1177,16.14,,16.11402633,23,2.84,3.3,12.09,Sports,Standard,PayPal,North,No,98.99
+1178,48.03,6,19.92027311,,2.15,6.75,25.61,Books,Overnight,UPI,South,Yes,192.56
+1179,30.23,4,24.15247342,24,2.42,33.18,42.3,Home,Overnight,PayPal,Central,No,29.32
+1180,27.93,2,40.49909371,27,1.12,26.08,37.63,Sports,Standard,Credit Card,West,No,430.33
+1181,53.6,1,23.06423505,17,4.93,8.09,30.7,Home,Overnight,Credit Card,Central,No,217.76
+1182,77.84,4,61.19735947,23,3.5,26.76,10.68,Home,Standard,UPI,Central,Yes,207.64
+1183,68.37,4,50.40726554,14,3,45.63,3.13,Clothing,Standard,Credit Card,Central,No,169.73
+1184,18.59,2,47.12539324,15,2.53,0.78,5.87,Electronics,Standard,Credit Card,East,No,20.07
+1185,30.21,6,33.20511646,15,3.16,32.13,48.03,Clothing,Overnight,Debit Card,Central,No,70.94
+1186,68.82,3,57.71421104,16,2.52,3.68,46.73,Sports,Overnight,Credit Card,West,No,179.56
+1187,,0,31.72991553,25,2.44,0.32,72.66,Clothing,Express,Debit Card,North,Yes,130.9
+1188,45.51,3,34.53107879,21,2.86,7.53,1.9,Electronics,Standard,Credit Card,South,No,134.94
+1189,61,1,37.5496181,21,2.1,21.15,18.47,Clothing,Standard,PayPal,Central,Yes,61.68
+1190,30.63,2,45.52734561,26,1.72,40.12,25.11,Clothing,Standard,PayPal,South,Yes,38.64
+1191,52.11,3,44.55362119,18,3.23,14.09,29.76,Clothing,Standard,Credit Card,Central,No,107.48
+1192,23.32,2,,22,4.37,31.28,24.78,Books,Standard,PayPal,East,No,42.34
+1193,37.97,3,27.00509421,19,1.61,20.56,35.27,Books,Standard,PayPal,South,Yes,766.1
+1194,56.4,3,44.59854436,15,1.13,11.72,10.69,Clothing,Standard,PayPal,Central,Yes,305.17
+1195,18.14,2,45.72854876,12,1.99,25.71,4.75,Electronics,Express,UPI,Central,Yes,91.43
+1196,,5,29.09973313,17,4.92,39.87,5.49,Electronics,Express,PayPal,West,Yes,73.36
+1197,49.61,1,11.19217895,23,4.32,41.62,0.29,Electronics,Standard,Debit Card,West,No,133.95
+1198,61.05,3,31.89025856,23,3.38,42.33,10.35,Electronics,Standard,UPI,West,No,360.07
+1199,54.48,3,44.35288698,20,4.72,16.93,2.31,Home,Express,Debit Card,East,No,243.78
+1200,77.28,3,62.0812527,25,2.78,39.67,9.31,Clothing,Express,Debit Card,South,No,191.35
+1201,52.5,4,17.03063056,17,4.93,10.61,23.75,Clothing,Standard,Debit Card,East,Yes,69.17
+1202,41.41,4,28.60143121,22,2.19,36.92,53.97,Home,Standard,UPI,North,Yes,340.81
+1203,52.45,1,29.15894658,9,1.96,47.42,43.92,Electronics,Express,Credit Card,Central,No,619.21
+1204,60.87,4,55.33708009,18,3.55,0.69,6.99,Sports,Express,PayPal,Central,No,314.32
+1205,,2,34.47587749,17,2.51,22.02,3.46,Sports,Standard,PayPal,Central,No,249.69
+1206,50.81,1,21.39010161,15,3.51,32.39,5.15,Home,Express,Credit Card,West,Yes,180.37
+1207,35.96,200,,28,2.22,35.09,84.96,Sports,Standard,Credit Card,Central,No,471.4
+1208,36.74,4,28.9304222,16,3.47,8.8,19.14,Books,Overnight,Debit Card,West,Yes,44.58
+1209,21.95,0,16.6341909,28,2.1,48.61,4.84,Clothing,Standard,UPI,North,Yes,431.31
+1210,84.99,4,21.60840039,24,1.2,30.76,44.09,Sports,Standard,Debit Card,East,Yes,75.38
+1211,25.12,3,61.01062932,25,4.65,8.22,12.07,Books,Standard,PayPal,East,Yes,232.39
+1212,36.14,4,40.76313832,17,4.53,1.03,55.08,Clothing,Express,Credit Card,East,No,392.94
+1213,35.63,0,36.61640083,16,4.88,39.16,7.25,Books,Standard,PayPal,West,Yes,134.63
+1214,67.9,2,31.25159396,15,3.87,3.99,11.99,Clothing,Standard,Credit Card,South,Yes,71.04
+1215,,6,39.38223263,18,3.73,7.05,16.87,Clothing,Express,UPI,South,No,337.41
+1216,74.95,4,39.20353919,9,3.24,28.74,53.55,Sports,Overnight,Debit Card,North,No,141.65
+1217,36.53,4,39.38253242,26,1.5,30.18,48.74,Home,Overnight,PayPal,South,Yes,114.93
+1218,55.58,2,36.72267635,,1.76,34.34,20.5,Sports,Express,UPI,North,No,131.07
+1219,33.29,1,48.03197507,18,2.16,19.68,6.02,Electronics,Standard,PayPal,Central,No,220.55
+1220,92.9,2,35.34656519,19,4.56,38.69,12.39,Books,Overnight,Credit Card,East,Yes,605.34
+1221,26.25,3,20.33091747,21,1.69,48.72,89.15,Electronics,Overnight,PayPal,West,No,378.57
+1222,56.2,2,25.81365664,17,4.69,13.55,22.46,Clothing,Express,UPI,North,Yes,209.81
+1223,,4,5.314719598,16,3.09,35.15,36.46,Sports,Overnight,UPI,West,Yes,109.99
+1224,58.28,3,65.40225674,20,3.86,46.42,14.34,Electronics,Overnight,Debit Card,West,No,120.54
+1225,46.29,3,47.94131888,30,1.44,34.31,18.22,Electronics,Express,PayPal,East,No,100.41
+1226,47.4,1,22.54894257,18,2.08,34.06,13.45,Electronics,Overnight,Credit Card,Central,No,80.39
+1227,50.88,3,30.77232726,15,4.83,11.19,29.13,Clothing,Standard,PayPal,Central,Yes,248.18
+1228,47.06,4,25.44685289,24,2.06,26.76,45.77,Clothing,Express,Debit Card,South,No,85.87
+1229,69.28,3,58.13820817,20,2.19,28.13,16.99,Clothing,Standard,Credit Card,Central,Yes,252.89
+1230,94.21,2,13.70184254,21,1.79,35.01,15.73,Electronics,Standard,Credit Card,East,No,596.13
+1231,38.85,2,36.71714088,21,1.52,49.84,9.98,Books,Express,Debit Card,West,Yes,160.63
+1232,22.6,4,33.37208236,22,1.93,1.68,4.68,Sports,Overnight,Credit Card,North,No,245.65
+1233,48.23,1,47.40257946,21,3.57,3.26,67.22,Sports,Express,UPI,North,Yes,178.21
+1234,101.59,4,33.43986158,18,2.82,3.9,9.12,Clothing,Overnight,UPI,Central,No,140.26
+1235,33.93,1,8.62686685,26,3.22,37.15,38.71,Electronics,Standard,Credit Card,South,No,186.66
+1236,82.78,2,31.23323248,28,1.49,6.82,30.16,Books,Overnight,PayPal,North,No,40.13
+1237,83.55,1,20.41756673,,4.21,31.12,37.56,Home,Standard,Credit Card,South,No,354.09
+1238,38.93,1,36.1936932,15,4.14,16.23,66.26,Clothing,Standard,PayPal,North,No,210.96
+1239,61.38,,56.51265555,22,1.09,22.87,23.44,Home,Standard,Debit Card,South,Yes,168.9
+1240,82.57,4,8.908621337,27,2.53,10.78,54.78,Sports,Express,UPI,South,Yes,163.81
+1241,42.42,3,22.99665897,20,1.28,43.31,4.41,Sports,Overnight,UPI,West,No,138.95
+1242,855.96,4,26.70960569,23,4.17,29.31,23.65,Books,Overnight,Debit Card,East,Yes,96.59
+1243,38.37,2,29.27553357,21,3.95,47.23,35.51,Books,Overnight,Debit Card,North,Yes,84.44
+1244,466.83,3,46.10188496,29,4.61,28.73,7.61,Home,Standard,UPI,Central,No,216.27
+1245,37.01,5,32.39683374,21,1.95,6.2,32.4,Sports,Express,Debit Card,East,No,34.77
+1246,25.52,5,41.23704089,20,2.83,8.54,36.17,Books,Overnight,Credit Card,West,Yes,55.87
+1247,50.68,3,25.61340434,20,1.74,49.45,42.7,Books,Overnight,Credit Card,West,Yes,100.23
+1248,34.6,100,38.44886518,20,2.48,36.28,9.01,Sports,Express,PayPal,West,No,294.27
+1249,54.68,4,46.66696446,16,3.09,2.46,27.47,Sports,Overnight,PayPal,Central,No,561.43
+1250,18.88,3,24.01550675,20,1.21,35.19,8.71,Electronics,Express,PayPal,North,No,28.34
+1251,56.62,2,46.7203718,13,3.86,20.61,32.24,Books,Express,Credit Card,North,Yes,307.48
+1252,66.67,3,35.78559153,25,3.17,15.36,14.92,Home,Overnight,UPI,South,No,70.67
+1253,10.13,3,50.68190361,23,4.32,7.7,21.84,Clothing,Express,PayPal,South,Yes,421.93
+1254,57.48,5,31.9787015,19,2.09,42,12.9,Clothing,Express,Credit Card,South,No,706.79
+1255,74.55,3,40.71866983,26,4.61,3.19,4.24,Sports,Overnight,UPI,Central,No,36.5
+1256,25.81,2,34.39090652,23,4.99,14.49,4.71,Home,Standard,Debit Card,East,Yes,198.51
+1257,83.45,4,33.55681607,18,4.68,15.32,1.94,Electronics,Overnight,Credit Card,North,No,264.73
+1258,58.38,4,,21,4.11,8.05,23.1,Books,Overnight,Debit Card,South,Yes,57.62
+1259,35.9,1,43.05211204,18,4.25,25.41,45.31,Electronics,Standard,PayPal,Central,Yes,59.18
+1260,48.88,5,16.25652632,28,3.29,0.59,0.51,Home,Express,UPI,Central,Yes,184.96
+1261,61.17,,,21,1.76,15.05,1.64,Electronics,Overnight,Credit Card,South,No,206.54
+1262,51.52,1,7.105054392,24,3.71,46.68,14.68,Sports,Standard,PayPal,West,No,226.24
+1263,60.78,2,24.72781835,22,3.85,15.53,32.12,Clothing,Standard,PayPal,West,No,123.81
+1264,31.59,5,33.58596394,25,4.94,18.02,4.12,Sports,Overnight,UPI,West,Yes,204.71
+1265,53.39,4,41.18533954,19,3.17,23.66,7.61,Books,Overnight,Debit Card,South,No,81.15
+1266,21.73,5,58.64258792,,2.09,28.08,6.34,Sports,Standard,PayPal,Central,No,170.3
+1267,47.78,4,7.125627677,14,3.73,40.44,12.22,Home,Overnight,UPI,Central,No,91.73
+1268,31.92,1,27.38458807,12,4.92,9.52,6.12,Home,Standard,UPI,North,No,43.37
+1269,35.29,2,3.097497683,13,1.71,43.59,10.43,Books,Overnight,Credit Card,West,No,112.65
+1270,74.72,1,35.47432961,17,2.3,37.88,31.29,Books,Standard,PayPal,South,Yes,198.86
+1271,71.83,4,39.07525377,,3.17,36.13,22.66,Clothing,Overnight,Debit Card,North,No,456.82
+1272,62.18,2,58.86193613,17,1.68,4.34,2.03,Electronics,Overnight,Debit Card,Central,No,337.1
+1273,,2,36.80952141,24,1.09,1.08,24.37,Clothing,Overnight,PayPal,North,No,90.95
+1274,,3,50.66037694,21,2.35,29.7,15.56,Sports,Express,Debit Card,West,Yes,198.04
+1275,74.26,4,43.75755622,21,4.46,43.16,65.44,Electronics,Overnight,UPI,East,No,114.46
+1276,,2,28.47127704,17,1.17,29.22,8.2,Books,Standard,UPI,West,Yes,16.96
+1277,96.39,3,13.8655888,,2.72,10.66,31.09,Home,Standard,PayPal,West,Yes,185.86
+1278,57.87,4,39.12503447,20,4.05,4.53,31.5,Sports,Express,Debit Card,South,No,321.22
+1279,53.84,2,12.61846974,20,4.81,34.98,6.01,Clothing,Express,UPI,East,Yes,539.98
+1280,43.82,3,54.42810609,22,4.94,36.09,56.05,Books,Express,PayPal,East,Yes,126.59
+1281,52.67,2,32.56906847,20,2.69,8.63,16.22,Electronics,Overnight,UPI,East,Yes,121.72
+1282,,5,52.92766117,24,4.8,1.41,27.26,Electronics,Overnight,PayPal,Central,No,173.15
+1283,64.16,7,27.79678349,20,1.14,20.41,3.78,Home,Standard,Credit Card,North,Yes,85.07
+1284,69.13,4,39.0327618,10,3.98,29.14,7.16,Books,Standard,Credit Card,Central,No,202.1
+1285,34.28,2,38.14023286,19,3.57,35.3,21.17,Books,Overnight,PayPal,East,No,87.78
+1286,23.38,0,34.32433823,29,2,40.5,9.22,Sports,Standard,Credit Card,South,Yes,26.39
+1287,13.28,3,,17,3.03,30.53,16.62,Sports,Overnight,Credit Card,West,Yes,361.65
+1288,60.16,3,40.88684028,25,1.52,5.54,11.24,Electronics,Express,Debit Card,West,Yes,176.56
+1289,27.93,2,21.10755105,16,4.49,34.13,24.56,BOOKS,Overnight,Credit Card,Central,No,112.05
+1290,6.94,1,16.85847007,20,2.43,49.21,16.03,Electronics,Overnight,Debit Card,Central,No,65.26
+1291,57.77,7,53.6424034,,3.5,45.28,0.11,Sports,Overnight,Credit Card,South,Yes,388.23
+1292,99.86,4,45.90751983,27,1.64,43.58,25.17,Sports,Standard,Credit Card,West,Yes,96.79
+1293,49.88,7,35.98837413,27,1.82,15.11,13.16,Sports,Overnight,UPI,Central,No,233.61
+1294,66.77,4,59.97713574,16,4.97,37.54,10.03,Electronics,Overnight,PayPal,North,No,492.92
+1295,51.64,2,30.98351722,19,4.01,42.56,2.37,Books,Overnight,Credit Card,Central,No,207.94
+1296,48.02,2,54.8405483,29,4.85,33.92,5.97,Clothing,Express,PayPal,Central,Yes,240.05
+1297,68.38,4,37.63361127,19,2.18,12.53,6.08,Clothing,Overnight,PayPal,East,Yes,165.67
+1298,44.19,2,19.62873875,20,1.66,47.69,65.74,Sports,Overnight,UPI,North,No,241.47
+1299,55.35,5,62.72060288,24,3.01,22.54,13.6,Home,Overnight,PayPal,North,No,111.51
+1300,56.43,4,49.8606627,18,2.98,6.49,1.03,Electronics,Standard,PayPal,South,Yes,224.85
+1301,36.64,0,33.18468453,21,1.7,5.49,3.59,Books,Express,Credit Card,East,No,92.26
+1302,69.84,0,45.90756889,,3.93,32.38,1.98,Sports,Express,UPI,North,Yes,534.6
+1303,46.5,4,,17,2.45,21.89,21.33,Home,Overnight,PayPal,East,No,229.96
+1304,34.89,2,47.43723553,16,1.75,4.72,4.96,Sports,Overnight,Credit Card,East,No,102.07
+1305,60.73,2,-0.866178479,20,2.33,37.02,16.57,Home,Standard,UPI,West,No,121.56
+1306,32.03,5,19.70297999,21,3.25,39.97,11.09,Clothing,Overnight,Credit Card,North,No,171.91
+1307,50.56,3,49.68889616,19,3.91,36.27,39.1,Home,Standard,UPI,West,Yes,315.06
+1308,,4,31.25516693,19,2.93,10.11,9.27,Clothing,Overnight,UPI,Central,No,103.83
+1309,71.72,50,38.11313442,,3.1,34.49,14.71,Clothing,Standard,Debit Card,Central,No,91.56
+1310,59.49,2,14.79821507,21,1.56,0.54,30.66,Electronics,Express,Debit Card,West,Yes,236.05
+1311,49.5,3,62.71800494,19,4.66,15.26,13.63,Home,Overnight,Debit Card,Central,Yes,221.96
+1312,66.36,3,52.85794466,14,4.71,19.94,37.83,Books,Standard,PayPal,West,Yes,28.63
+1313,77.8,2,31.98972172,22,3.73,41.76,26.01,Books,Standard,Credit Card,South,No,194.48
+1314,984.46,3,28.92956215,21,1.07,19.52,12.68,Home,Overnight,UPI,East,Yes,43.1
+1315,50.21,2,50.44406542,28,3.15,0.56,16.83,Electronics,Standard,Credit Card,South,No,173.34
+1316,23.76,2,64.73705675,23,3.52,17.62,82.02,Books,Overnight,PayPal,North,Yes,167.39
+1317,28.7,4,49.30640384,22,4.98,24.95,26.01,Sports,Overnight,Debit Card,South,No,94.05
+1318,43.9,4,67.57704001,29,4.98,47.45,56.49,Books,Standard,Debit Card,South,Yes,35.98
+1319,37.81,1,21.16473006,,4.43,47.05,4.73,Electronics,Standard,Credit Card,Central,Yes,49.07
+1320,46.26,4,22.70919754,33,1.26,9.04,15.84,Clothing,Standard,Credit Card,West,Yes,290.26
+1321,51.13,,17.16588323,20,4.81,9.26,57.44,Clothing,Express,UPI,North,No,17.99
+1322,60.59,5,41.62640974,18,3.45,8.17,9.35,Clothing,Overnight,Credit Card,Central,No,383.48
+1323,48.59,1,37.63405325,14,4.2,39.45,82.36,Electronics,Overnight,UPI,North,Yes,397.37
+1324,59.73,4,32.72073315,26,2.63,0.3,2.45,Clothing,Express,UPI,East,No,108.37
+1325,51.29,3,47.13887942,,2.28,6.36,55.91,Clothing,Express,Debit Card,West,No,213.27
+1326,10.49,2,53.48492908,15,2.85,26.9,14.14,Electronics,Standard,Credit Card,Central,No,130.48
+1327,31.21,2,12.11506386,23,1.59,12.38,1.84,Sports,Overnight,Debit Card,South,No,222.12
+1328,47.12,1,26.04541958,23,2.43,4.62,50.79,Books,Express,UPI,East,No,48.74
+1329,25.81,2,47.30215391,19,4.43,17.99,6.97,Electronics,Express,Debit Card,South,Yes,63.06
+1330,62,1,27.98391974,20,1.15,13.71,0.54,Electronics,Overnight,Debit Card,North,No,228.15
+1331,80.62,3,23.02690885,17,1.6,25.56,3.5,Home,Overnight,UPI,East,Yes,200.45
+1332,74.38,1,50.27806141,20,1.5,48.96,25.83,Clothing,Overnight,PayPal,Central,Yes,222.94
+1333,45.73,1,15.65749895,18,2.61,6.22,91.4,Sports,Standard,PayPal,South,Yes,26.22
+1334,79.81,2,30.47630288,23,4.99,18.64,2.84,Home,Express,Credit Card,South,No,202.22
+1335,52.97,5,39.92966039,18,1.69,46.6,14.88,Sports,Standard,Debit Card,North,No,72.12
+1336,43.26,6,26.39270129,,1.58,43.84,4.78,Clothing,Overnight,Credit Card,North,Yes,440.04
+1337,37.73,2,46.74733484,23,4.66,19.71,32.8,Clothing,Overnight,Debit Card,West,Yes,120.04
+1338,448.2,3,26.46684537,19,4.53,34.95,3.02,Clothing,Express,Credit Card,West,Yes,127.51
+1339,42.24,5,56.1292924,28,1.13,4.39,6.58,Books,Standard,Credit Card,North,Yes,142.67
+1340,53.41,5,33.11380554,15,4.01,35.63,5.25,Sports,Standard,UPI,West,No,383.72
+1341,53.21,0,45.06905205,31,3.62,48.64,19.3,Sports,Standard,PayPal,South,Yes,97.42
+1342,50.06,3,46.19035929,22,4.07,26.87,49.56,Home,Overnight,PayPal,North,Yes,97.93
+1343,58.74,3,25.58689996,18,2.98,24.92,17.17,Electronics,Express,PayPal,East,No,52.07
+1344,73.81,1,4.19770177,28,4.97,9.37,1.44,Clothing,Standard,UPI,North,Yes,111.3
+1345,68.99,1,40.41133632,24,1.18,31.69,19.89,Clothing,Overnight,PayPal,Central,No,429.34
+1346,20.3,0,36.08432521,16,1.94,29.52,38.33,Home,Overnight,UPI,Central,Yes,176.11
+1347,5,3,43.33739041,15,2.59,32.6,3.4,Sports,Standard,Debit Card,North,No,361.74
+1348,68.69,2,31.60208791,17,2.8,1.3,1.81,Books,Express,UPI,East,No,248.35
+1349,22.66,1,28.54358452,24,4.69,27.44,4.99,Sports,Express,Credit Card,North,No,181.58
+1350,45.5,6,65.12709516,15,3.24,29.75,32.9,Books,Standard,Credit Card,East,Yes,55.14
+1351,26.6,0,12.91468908,8,1.18,10.38,21.5,Books,Overnight,Debit Card,South,No,45.18
+1352,13.96,200,46.00925718,17,2.63,10.42,18.67,Sports,Overnight,Debit Card,South,Yes,117.46
+1353,60.83,,26.38097213,17,2.67,13.81,6.89,Clothing,Standard,Credit Card,East,No,95.08
+1354,65.18,2,29.96332073,20,4.86,35.59,9.69,Books,Overnight,PayPal,West,No,454.01
+1355,38.47,2,30.24345751,19,3.4,30.31,81.07,Home,Overnight,PayPal,South,No,17.71
+1356,5,6,22.94848589,18,3.54,42.29,6.61,Home,Standard,PayPal,Central,Yes,272.18
+1357,39.08,3,43.56836315,22,3.85,14.78,55.66,Books,Overnight,Debit Card,North,No,350.46
+1358,57.84,1,55.85965394,17,4.08,45.6,20.85,Clothing,Standard,Credit Card,West,No,198.58
+1359,20.42,3,42.05020492,18,3.54,37.19,3.16,Books,Standard,UPI,Central,No,120.27
+1360,53.67,4,36.55072994,15,1.95,19.75,15.12,Home,Standard,Debit Card,North,No,246.95
+1361,49.69,0,20.20339251,19,4.5,4.76,71.21,Home,Overnight,Credit Card,Central,Yes,31.48
+1362,61.59,2,42.75237899,16,3.93,12.85,13.01,Sports,Standard,PayPal,West,Yes,258.16
+1363,52.39,1,67.34524448,27,3.97,47.84,47.77,Clothing,Overnight,PayPal,East,No,328.94
+1364,30.54,3,29.28958064,15,4.99,15.52,7.11,Sports,Standard,PayPal,North,No,399.51
+1365,73.93,5,29.36024631,15,4.21,16.5,20.31,Electronics,Express,Credit Card,Central,No,268.24
+1366,46.83,4,26.58366304,18,4.32,9.48,44.57,Books,Overnight,PayPal,Central,No,169.18
+1367,49.45,2,27.65878648,,4.81,40.34,60.82,Sports,Overnight,Credit Card,West,Yes,131.06
+1368,31.33,,-6.179493305,18,1.6,13.78,15.96,Clothing,Overnight,Debit Card,West,No,91.32
+1369,41.13,3,,,2.99,16.51,24.5,Books,Express,UPI,West,No,25.79
+1370,32.3,5,22.31671735,21,3.32,20.72,0.07,Books,Standard,PayPal,East,Yes,257.06
+1371,46.54,1,10.84605322,11,2.32,21.69,7.01,Books,Express,Debit Card,South,No,62.79
+1372,84.23,4,46.29784925,18,4.36,20.57,7.84,Books,Standard,Debit Card,Central,No,153.17
+1373,22.56,0,18.76973322,18,4.05,25.19,2.36,Books,Standard,Credit Card,East,Yes,66.34
+1374,17.73,2,29.91996419,26,3.88,40.73,7.87,Clothing,Standard,Debit Card,Central,No,114.69
+1375,,2,56.99663587,22,4.99,40.96,9.3,Electronics,Standard,Credit Card,East,Yes,173.56
+1376,45.81,1,13.86176303,19,2.04,39.92,83.19,Home,Standard,Credit Card,North,No,861.68
+1377,36.62,4,12.01102648,21,3.94,5.06,26.51,Electronics,Express,Debit Card,South,Yes,520.84
+1378,70.8,5,39.03959284,19,3.21,39.98,13.32,Home,Overnight,Credit Card,Central,Yes,257.34
+1379,37.89,2,52.24231046,13,2.25,6.01,106.26,Sports,Express,Credit Card,West,No,683.36
+1380,86.52,4,200,15,1.64,6.24,3.99,Books,Overnight,Credit Card,South,No,268.46
+1381,63.56,4,41.11534605,12,4.58,47.39,15.51,Sports,Overnight,Debit Card,Central,No,406.41
+1382,996.68,2,43.7149931,20,3.38,40.97,25,Sports,Overnight,UPI,North,No,99.37
+1383,93.15,2,4.112592745,26,4.3,27.62,1.37,Home,Express,Credit Card,Central,Yes,250.1
+1384,37.89,3,46.97752007,18,3.18,43.75,30.3,Clothing,Standard,PayPal,Central,No,243.66
+1385,64.84,,48.1490882,16,1.88,49.47,2.53,Books,Standard,Debit Card,Central,No,416.73
+1386,55.99,3,30.3232164,22,2.35,30.53,3.63,Sports,Overnight,Debit Card,South,No,141.57
+1387,76.03,4,53.78519543,19,2.53,30.64,4.18,Electronics,Standard,Credit Card,Central,Yes,283.62
+1388,81.23,5,52.04683361,21,4.89,37.72,63.44,Books,Standard,Debit Card,West,Yes,262.67
+1389,50.64,4,36.54676889,19,1.02,11.61,27.59,Clothing,Express,PayPal,East,Yes,296.97
+1390,34.93,4,28.22831915,16,4.94,8.36,25.57,Books,Standard,UPI,West,Yes,175.63
+1391,59.2,2,,20,4.92,37.98,19.46,Sports,Standard,Debit Card,North,Yes,162.2
+1392,36.45,2,34.43654736,17,4.98,17.25,8.31,Electronics,Express,Debit Card,South,No,439.89
+1393,90.27,5,43.5463838,23,2.91,6.75,23.28,Sports,Standard,Debit Card,East,No,54.88
+1394,52.73,2,30.13734708,21,4.86,15.74,12.67,Clothing,Overnight,Credit Card,South,No,483.43
+1395,42.69,1,2.037484921,23,2.58,17.93,3.77,Home,Express,PayPal,South,Yes,37.41
+1396,53.69,2,200,22,1.11,48.26,28.08,Electronics,Standard,UPI,Central,No,125.31
+1397,23.06,4,150,16,1.9,34.9,3.33,Clothing,Standard,PayPal,West,Yes,116.89
+1398,30.57,2,29.30563255,20,4.78,26.54,5.08,Clothing,Express,PayPal,East,Yes,209.51
+1399,74.01,4,47.85737583,17,1.06,48.44,40.85,Sports,Overnight,Debit Card,Central,Yes,45.27
+1400,36.86,1,57.86957895,19,3.18,45.16,25.9,Sports,Express,UPI,East,Yes,597.57
+1401,29.06,,-7.028673542,,1.3,25.6,23.93,Sports,Overnight,PayPal,West,Yes,89.46
+1402,60.73,5,41.51395475,24,2.15,45.28,13,Home,Express,UPI,Central,No,99.23
+1403,73.71,,13.60026184,17,1.35,20.22,12.11,Books,Standard,Credit Card,East,No,75.77
+1404,793.23,1,42.4866576,23,4.44,11.52,28.13,Books,Express,Debit Card,Central,No,351.61
+1405,69.92,2,,22,3.36,11.63,32.33,Sports,Express,Credit Card,South,No,154.13
+1406,34.86,2,44.5358979,19,4.61,33.12,17.13,Sports,Overnight,UPI,North,Yes,209.29
+1407,21.56,7,27.51128578,15,3.75,25.05,83.58,Home,Express,Debit Card,East,No,409.29
+1408,80.03,2,6.901398323,27,4.88,32.95,74.8,Books,Overnight,Credit Card,West,No,187.93
+1409,43.55,3,28.24447713,25,3.04,34.3,12.76,Home,Express,Debit Card,East,Yes,129.13
+1410,44.98,3,41.10271453,22,3.55,1.12,41.24,Clothing,Standard,Credit Card,North,Yes,255.45
+1411,76.56,6,,16,3.31,2.7,18.81,Books,Express,PayPal,East,Yes,75.45
+1412,61.12,2,17.42253049,15,2.94,26.63,17.21,Sports,Standard,Debit Card,East,No,122.53
+1413,59.12,2,50.4059064,16,4.38,9.55,1.36,Electronics,Overnight,UPI,East,No,136.89
+1414,93.3,2,25.28191566,20,3.58,31.63,20.48,Clothing,Overnight,Debit Card,West,No,92.73
+1415,580.21,1,40.43674822,23,4.21,27.61,55.4,Electronics,Overnight,UPI,North,Yes,389.91
+1416,68.56,3,150,18,4.15,29.29,36.35,Home,Overnight,Credit Card,North,Yes,18.4
+1417,51.14,5,37.73255942,17,1.76,15.12,37.04,Home,Express,Credit Card,West,Yes,395.29
+1418,55.37,4,48.37816452,25,3.6,31.99,4.18,Home,Express,UPI,East,Yes,60.75
+1419,80.57,4,16.59478884,12,1.8,41.47,10.65,Sports,Express,Credit Card,East,Yes,676.17
+1420,60.16,3,24.80141155,19,3.33,49.9,6.37,Home,Standard,Debit Card,North,Yes,498.15
+1421,60.77,2,37.77443881,18,3.71,41.92,9.11,Electronics,Express,Credit Card,East,No,184.35
+1422,71.45,4,71.02375492,18,4.99,27.87,20.79,Clothing,Standard,UPI,South,Yes,552.47
+1423,42.7,3,22.05215432,32,1.12,9.67,10.89,Sports,Standard,UPI,East,Yes,205.99
+1424,33.22,3,65.60200829,19,1.36,34.07,19.74,Clothing,Express,PayPal,East,Yes,124.3
+1425,29.1,1,65.06634956,13,1.31,46.88,13.85,Home,Standard,UPI,Central,Yes,85.85
+1426,10.67,4,33.54033274,,2.59,10.59,8.11,Books,Overnight,Credit Card,North,Yes,302.37
+1427,91.12,3,30.52771211,17,4.29,12.8,2.41,Sports,Express,UPI,North,Yes,136.42
+1428,27.94,1,24.61902202,17,4.38,7.45,53.38,Home,Express,Credit Card,South,Yes,191.64
+1429,45.57,1,33.97696205,,3.95,36.84,0.27,Sports,Standard,Credit Card,South,Yes,383.33
+1430,44.46,1,13.89920851,16,4.59,20.33,0.04,Books,Express,PayPal,South,Yes,675.14
+1431,56.15,2,33.85641474,21,2.29,3.13,42.08,Electronics,Express,Credit Card,North,No,392.7
+1432,66.31,3,57.45320411,16,1.35,43.75,137.95,Electronics,Standard,UPI,Central,No,373.15
+1433,67.21,3,25.83372406,26,1.23,27.88,31.17,Electronics,Express,UPI,Central,No,373.95
+1434,38.34,3,31.38913544,22,4.41,16.55,0.37,Books,Express,UPI,West,No,219.55
+1435,,1,9.482892886,26,3.92,17.2,6.17,Clothing,Express,Credit Card,North,Yes,5.33
+1436,55.65,3,40.61093132,20,3.79,14.51,85.66,Books,Standard,UPI,West,No,185.22
+1437,45.03,2,38.96722527,23,2.36,22.77,39.68,Books,Express,Debit Card,East,No,164.81
+1438,82.15,1,35.9555354,15,2.52,16.85,20.08,Home,Express,Debit Card,South,Yes,340.75
+1439,59.82,1,31.74759425,25,4.83,27.4,6.49,Electronics,Express,UPI,West,Yes,147.07
+1440,64.7,1,30.60863122,21,1.26,38.68,0.35,Sports,Overnight,Credit Card,West,Yes,107.65
+1441,63.26,4,42.52850351,19,4.09,33.72,0.51,Clothing,Express,UPI,North,Yes,155.64
+1442,73.47,3,34.56775098,23,2.24,14.72,22.72,Sports,Standard,Debit Card,South,No,55.07
+1443,53.62,2,39.72457807,17,1.16,26.44,0.53,Home,Overnight,Credit Card,South,Yes,387.43
+1444,24.06,2,38.22474226,,3.97,42.01,121.35,Home,Standard,UPI,Central,Yes,332.9
+1445,57.99,3,51.85140931,22,2.32,3.41,4.86,Clothing,Express,Credit Card,West,Yes,249.88
+1446,36.97,2,45.15491146,21,3.89,3.91,29.77,Sports,Express,UPI,Central,No,350.51
+1447,39.43,4,37.89292765,24,3.83,27.81,4.04,Clothing,Express,PayPal,West,No,111.6
+1448,61.73,2,57.77633046,22,3.14,31.96,18.64,Clothing,Overnight,Credit Card,North,Yes,77.9
+1449,74.77,3,,20,4.11,10.57,2.02,Electronics,Express,Debit Card,North,No,295.68
+1450,50.43,5,54.57444033,15,3.32,37.26,34.94,Sports,Standard,Debit Card,East,Yes,483.06
+1451,56.18,5,44.10413913,30,2.15,32.31,21.1,Electronics,Overnight,Debit Card,West,No,139.55
+1452,84.04,2,7.371213816,22,3.94,46.16,2.16,Electronics,Standard,Debit Card,West,Yes,169.2
+1453,54.82,,54.57252145,25,3.36,8.45,45.31,Electronics,Standard,UPI,South,No,110.08
+1454,102.03,1,37.02764362,23,1.05,37.57,19.01,Books,Standard,UPI,South,No,130.39
+1455,61.31,4,34.22067844,20,4.61,4.18,61.1,Home,Standard,Credit Card,Central,No,156.89
+1456,14.78,1,39.22022521,18,3.18,28.26,59.63,Home,Standard,PayPal,East,Yes,119.5
+1457,65.07,4,29.82525257,,4.47,27.59,60.77,Books,Express,PayPal,North,No,96.18
+1458,57.62,1,38.40543291,23,4.53,19.42,1.94,Clothing,Standard,Credit Card,West,No,337.14
+1459,75.8,5,26.121859,22,2.78,42.23,3.09,Sports,Standard,Debit Card,Central,No,186.93
+1460,63.46,1,54.11408388,18,3.03,0.22,105.57,Sports,Express,PayPal,East,Yes,205.98
+1461,47.23,1,33.2961783,15,2.66,26.01,16.05,Sports,Overnight,PayPal,South,No,222.53
+1462,25.51,200,29.26124236,18,2.8,10.86,6.53,Electronics,Express,Credit Card,East,Yes,106.16
+1463,45.82,4,21.12611276,22,4.58,37.17,35.24,Sports,Overnight,Debit Card,Central,Yes,143.21
+1464,32.99,0,39.03163684,22,4.15,2.15,7.37,Sports,Standard,UPI,North,Yes,279.65
+1465,38.39,4,37.8066065,15,1.51,41.58,31.18,Sports,Express,UPI,South,Yes,229.66
+1466,61.77,0,40.82636921,22,3.44,41.9,43.58,Home,Overnight,PayPal,South,Yes,343.47
+1467,83.4,1,19.59122169,19,4.98,41.64,36.81,Books,Overnight,UPI,North,No,143.56
+1468,57.89,3,10.98228202,16,3.38,7.63,7.69,Clothing,Express,Credit Card,South,Yes,246.81
+1469,26.08,1,44.38386954,16,4.14,31.52,12.32,Books,Express,PayPal,Central,No,500.36
+1470,58.89,4,57.26962793,18,4.08,0.72,12.8,Sports,Express,PayPal,South,No,336.97
+1471,73.93,3,19.60469566,16,2.4,42.4,16.22,Clothing,Express,Debit Card,West,Yes,37.21
+1472,37.8,,58.84161925,21,2.49,36.15,4.4,Clothing,Express,UPI,East,Yes,71.02
+1473,47.32,4,39.25866588,15,3.9,26.56,14.46,Books,Standard,Debit Card,Central,Yes,466.21
+1474,50.29,7,34.89405643,21,3,36.53,17.16,Books,Standard,PayPal,North,No,54.49
+1475,34.3,4,29.03676955,19,3.28,4.72,18.21,Books,Express,UPI,Central,No,34.16
+1476,919.9,4,14.23222971,20,3.85,26.43,41.14,Books,Express,Debit Card,West,No,196.62
+1477,47.58,3,49.81592774,20,4.11,14.56,17.48,Electronics,Standard,UPI,South,No,571.17
+1478,58.39,3,,21,2.09,48.63,6.3,Home,Overnight,PayPal,South,No,248.1
+1479,32.25,,23.30289986,14,1.59,42.86,26.11,Home,Standard,PayPal,Central,No,244.69
+1480,41.25,2,49.87889465,20,2.17,36.66,38.31,Sports,Express,PayPal,South,No,32.29
+1481,64.45,3,6.7552483,19,3.03,46.69,9.23,Electronics,Overnight,Credit Card,South,No,87.69
+1482,,3,12.14603284,25,2.37,17.34,24.88,Clothing,Express,Debit Card,West,No,452.86
+1483,84.54,2,34.72798635,,3.27,45.04,3.81,Books,Overnight,Debit Card,North,Yes,195.65
+1484,,3,39.39926644,22,1.21,16.26,10.04,Sports,Express,PayPal,East,No,154.01
+1485,54.49,3,42.27101972,25,3.04,36.64,57.58,Clothing,Standard,Debit Card,Central,Yes,235.37
+1486,68.65,3,30.4730226,30,2.47,36.82,58.14,Home,Express,PayPal,North,Yes,485.16
+1487,21.63,4,72.95554503,14,3.14,0.92,20.55,Clothing,Standard,Debit Card,East,No,102.03
+1488,14.78,3,31.58161162,7,2.69,18.05,29.08,Books,Overnight,UPI,North,No,81.45
+1489,19.49,200,31.53820772,19,2.14,0.97,46.18,Books,Standard,Debit Card,Central,No,230.98
+1490,75.25,3,23.04519997,26,4.62,49.85,76.4,Home,Overnight,PayPal,West,No,111.85
+1491,38.96,2,36.85860225,21,1.74,6.11,16.15,Books,Express,Debit Card,West,No,219.29
+1492,101.16,4,44.22441848,16,3.73,27.14,19.79,Electronics,Standard,UPI,West,No,135.18
+1493,949.19,0,53.05367082,24,4.7,39.53,12.89,Sports,Overnight,UPI,North,Yes,39.31
+1494,53.69,4,12.66073603,26,3.15,10.06,1.79,Home,Overnight,UPI,Central,Yes,95.83
+1495,80.84,2,31.31006992,16,4.51,24.25,13.19,Home,Overnight,PayPal,South,No,66.85
+1496,90.12,,41.70055416,23,1.5,30.37,37.53,Clothing,Overnight,Credit Card,South,Yes,173.97
+1497,91.23,2,43.80586302,21,2.98,8.01,39.22,Home,Express,PayPal,West,Yes,47.87
+1498,74.17,1,35.09822987,21,2.83,38.93,53.5,Sports,Express,UPI,North,Yes,191.41
+1499,70.48,1,43.13635954,22,1.03,14.97,1.27,Electronics,Express,Debit Card,South,Yes,155.64
+1500,,4,22.86554161,28,2.77,10.55,17.98,Clothing,Overnight,UPI,North,Yes,96.75
+1501,65.57,3,58.36858148,17,2.48,27.91,2.73,Sports,Express,Credit Card,Central,Yes,147.84
+1502,38.98,2,49.88942154,17,3.68,20.52,5.38,Home,Overnight,Credit Card,West,No,513.38
+1503,33.64,3,14.82608319,21,4.75,46.01,55.31,Books,Overnight,UPI,East,Yes,108.98
+1504,49.93,3,18.87345428,23,1.34,44,16.48,Books,Overnight,PayPal,West,Yes,228.91
+1505,46.6,3,19.29617375,24,2.31,24.17,34.11,Sports,Standard,Credit Card,East,Yes,182.72
+1506,40.94,5,45.16954956,24,2.78,17.96,1.6,Electronics,Express,UPI,South,Yes,270.99
+1507,63.93,4,15.7290835,22,2.82,16.28,12.94,Books,Express,PayPal,East,No,230.42
+1508,69.11,1,30.03463499,,4.1,13.38,26.92,Sports,Standard,Debit Card,North,Yes,199.93
+1509,,2,41.82056595,25,2.77,27.23,3.44,Clothing,Standard,PayPal,East,No,111.86
+1510,79.55,3,34.00751098,14,1.11,40.25,9.46,Home,Standard,Credit Card,South,Yes,183.18
+1511,27.17,3,38.88331274,23,3.84,15.54,1.6,Electronics,Standard,PayPal,South,No,159.4
+1512,46.13,5,19.01295933,21,4.54,9.5,25.29,Electronics,Overnight,PayPal,West,Yes,312.56
+1513,35.66,2,43.9228156,23,3.06,23.77,84.88,Clothing,Express,Debit Card,South,Yes,88.21
+1514,12.67,3,25.80182161,20,3.32,3.45,42.11,Electronics,Express,UPI,North,Yes,212.79
+1515,48.35,4,30.13070488,17,1.65,35.06,88.17,Sports,Express,PayPal,East,No,68.98
+1516,47.57,2,38.56597592,17,1.88,25.92,44.84,Electronics,Overnight,Debit Card,Central,No,199.33
+1517,80.27,2,36.54617332,17,1.94,24.82,46.38,Electronics,Express,Credit Card,South,No,320.96
+1518,62.62,1,35.35970029,22,2.72,15.02,20.66,Electronics,Standard,UPI,East,No,386.1
+1519,29.52,3,23.74059767,23,4.71,45.23,17.53,Sports,Express,Credit Card,West,Yes,110.01
+1520,87.08,4,30.50675883,7,3.09,4.52,12.51,Home,Express,UPI,Central,Yes,113.82
+1521,74.42,,35.03275386,24,1.77,43.49,40.9,Books,Overnight,PayPal,West,No,252.09
+1522,651.89,2,14.3737215,21,2.06,18.84,4.82,Electronics,Standard,PayPal,North,Yes,19.74
+1523,45.47,5,28.06200551,16,2.54,44.03,1.39,Clothing,Standard,UPI,West,Yes,113.56
+1524,30.81,4,40.81519819,20,3.49,36.44,70.91,Clothing,Standard,Credit Card,East,Yes,228.75
+1525,42.56,7,15.83845094,25,2.76,5.21,0.09,Sports,Express,Credit Card,Central,No,469.38
+1526,71.77,4,52.34872477,20,2.57,41.58,90.36,Home,Standard,Credit Card,West,No,102.21
+1527,87.69,3,54.04419894,16,3.26,34.11,31.32,Electronics,Standard,PayPal,West,Yes,65.6
+1528,80.86,2,16.32274136,25,1.97,1.62,9.56,Sports,Express,UPI,North,No,248.97
+1529,40.22,5,55.3642945,24,1.32,6.69,28.72,Books,Overnight,UPI,East,No,285.03
+1530,27.61,6,32.84627617,24,1.1,31.78,40.87,Home,Express,Credit Card,West,No,261.37
+1531,52.82,2,41.27771839,15,2.01,33.13,6.76,Home,Overnight,PayPal,East,No,122.23
+1532,14.63,2,27.55023422,22,1.37,37.33,35.37,Sports,Overnight,UPI,South,Yes,500.97
+1533,56.46,2,,19,2.35,36.01,39.16,Clothing,Standard,UPI,North,No,207.87
+1534,47.05,1,41.09141028,20,4.09,32.98,6.88,Home,Standard,Credit Card,North,No,181.33
+1535,,4,22.78770115,15,3.87,38.31,1.03,Clothing,Express,Credit Card,North,Yes,224.3
+1536,406.4,5,17.52197,24,3.44,28.75,5.48,Home,Overnight,UPI,East,No,112.22
+1537,60.27,5,13.09546347,20,4.41,13.04,5.37,Home,Express,PayPal,West,Yes,192.27
+1538,39.35,5,37.81912665,24,2.13,45.62,1.62,Home,Standard,Debit Card,West,Yes,269.06
+1539,26.6,3,43.58707118,22,4.54,0.91,31.07,Books,Overnight,UPI,East,No,142.02
+1540,5,5,44.76448518,21,2.6,18.33,11.47,Clothing,Standard,UPI,East,Yes,74.39
+1541,,3,33.23028358,19,2.6,36.44,51.78,Books,Standard,PayPal,South,Yes,505.71
+1542,85.45,0,17.64505317,18,2.62,21.36,6.97,Clothing,Standard,UPI,Central,No,124.53
+1543,83.23,2,24.76887803,12,1.39,1.24,14.49,Books,Overnight,Debit Card,Central,No,48.55
+1544,40.86,2,52.28522958,20,4.9,3.3,24.45,Books,Overnight,PayPal,North,No,89.66
+1545,37.96,3,27.73057153,18,1.55,32.43,50.38,Books,Standard,Debit Card,West,Yes,219.41
+1546,59.38,,37.15126446,21,2.36,48.24,17.85,Sports,Overnight,Debit Card,North,Yes,290.82
+1547,30.03,4,18.86524275,18,2.28,27.59,11.22,Books,Standard,UPI,West,Yes,222.62
+1548,,4,40.04874568,14,1.3,25.34,48.42,Home,Standard,Debit Card,West,Yes,531.2
+1549,65.32,3,28.13473157,20,1.61,15.92,8.91,Electronics,Standard,UPI,South,Yes,217.86
+1550,74.54,2,50.70069071,19,1.18,12.83,1.99,Books,Overnight,UPI,East,Yes,541.32
+1551,48,2,46.60336559,23,2.17,1.05,14.13,Electronics,Express,PayPal,East,No,258.74
+1552,45.93,4,27.5644108,22,4.47,13.65,36.9,Electronics,Express,PayPal,East,Yes,75.12
+1553,,3,33.10003959,27,2.36,22.46,0.75,Home,Overnight,PayPal,Central,Yes,164.28
+1554,33.46,0,26.7332564,21,1.49,9.9,21.16,Electronics,Overnight,UPI,East,No,79.61
+1555,45.47,4,13.70850205,18,3.58,4.37,21.66,Electronics,Standard,Debit Card,Central,Yes,296.29
+1556,57.35,3,22.13836356,20,4.99,35.89,63.33,Electronics,Standard,Debit Card,North,Yes,172
+1557,68.27,2,150,16,1.93,44.73,8.1,Clothing,Express,PayPal,Central,Yes,435.11
+1558,33.94,1,39.87889247,16,2.12,46.84,7.85,Books,Standard,PayPal,West,No,308.52
+1559,79.85,3,37.22821855,20,4.89,30.9,13.94,Books,Express,UPI,South,No,41.89
+1560,44.58,3,30.47400419,21,1.72,2.64,10.6,Electronics,Express,Credit Card,South,No,110.16
+1561,49.57,50,48.99599909,13,3.04,37.04,31.99,Home,Overnight,Credit Card,West,No,228.38
+1562,35.06,1,35.95312857,21,1.96,5.5,24.64,Clothing,Overnight,UPI,North,Yes,79.37
+1563,5,3,45.54880742,21,4.73,33.49,34.14,Home,Overnight,Credit Card,South,Yes,387.75
+1564,67.68,5,8.393373017,,4.93,38.97,41.16,Home,Express,Credit Card,West,No,258.33
+1565,64.74,4,-23.83600377,21,4.26,36.29,61.53,Electronics,Overnight,Credit Card,South,Yes,115
+1566,44.37,3,39.25682042,22,2.26,47.59,13.53,Sports,Express,PayPal,Central,Yes,104.1
+1567,51.34,4,13.62851519,24,2.61,36.91,100.31,Electronics,Overnight,Debit Card,South,Yes,135.65
+1568,60.32,,31.81322446,18,1.97,34.66,5.83,Sports,Express,Debit Card,Central,No,23.3
+1569,18.75,4,200,27,4.56,13.09,30.07,Clothing,Standard,PayPal,Central,Yes,219.02
+1570,39.42,2,58.81100904,23,4.66,46.24,18.33,Sports,Standard,PayPal,South,No,161.82
+1571,65.89,2,40.99994829,25,2.68,8.98,40.75,Electronics,Express,PayPal,South,Yes,184.92
+1572,24.91,2,37.4878854,19,3.63,45.24,15.55,Electronics,Express,Credit Card,Central,Yes,69.43
+1573,55.87,,47.55486732,17,1.66,15.63,36.77,Home,Standard,UPI,South,No,135.55
+1574,22.87,,40.5274638,18,2.74,6.51,63.88,Electronics,Express,UPI,North,No,222.77
+1575,59.33,2,28.13484511,25,3.53,41.33,31.63,Electronics,Express,Credit Card,East,Yes,399.33
+1576,49.29,2,51.07213895,16,2.54,0.12,35.92,Books,Standard,Credit Card,East,No,110.75
+1577,17.7,1,18.35374808,20,2.43,41.6,1.67,Books,Express,PayPal,West,No,184.03
+1578,,2,39.84870781,13,1,13.12,5.5,Home,Overnight,PayPal,East,Yes,94.9
+1579,35.31,1,11.78645309,16,4.22,44.24,87.87,Sports,Standard,Debit Card,North,No,247.08
+1580,33.79,4,38.05915786,20,4.56,34.57,28.36,Sports,Overnight,PayPal,East,No,47.79
+1581,54.01,1,37.89484463,23,4.88,33.31,19.78,Books,Express,Credit Card,East,No,237.95
+1582,72.97,4,60.14682443,20,3.88,18.27,10.97,Clothing,Express,Debit Card,North,No,112.16
+1583,29.68,2,11.5253916,16,3.2,2.97,1.09,Books,Overnight,PayPal,Central,No,183.69
+1584,51.23,1,25.98669236,21,2.08,41.5,11.06,Clothing,Express,Debit Card,East,No,99.12
+1585,58.58,4,47.3402364,23,5,8.55,16.58,Sports,Express,Debit Card,West,Yes,98.27
+1586,63.86,,40.02975885,12,3.36,18.61,5.7,Books,Overnight,PayPal,East,No,75.24
+1587,53.53,4,37.70457577,17,3.72,30.02,4.56,Electronics,Express,UPI,East,No,59.9
+1588,42.66,,20.65796446,19,3.73,24.11,17.04,Clothing,Standard,Credit Card,North,Yes,167.37
+1589,33.45,2,200,18,4.38,9.93,21.16,Clothing,Overnight,Credit Card,North,No,84.78
+1590,51.72,2,53.67561512,27,1.04,7.03,6.58,Clothing,Overnight,Debit Card,West,No,349.98
+1591,,2,34.22736209,30,1.88,6.16,21.25,Sports,Overnight,UPI,South,Yes,122.16
+1592,5,2,40.63039544,29,3.66,43.15,55.34,Home,Overnight,UPI,North,Yes,312.51
+1593,58.73,,33.27217507,19,4.58,1.58,15.38,Electronics,Standard,PayPal,South,No,115.79
+1594,68.08,1,17.25371727,22,3.74,48.85,46.74,Books,Overnight,PayPal,West,No,121.01
+1595,5,1,49.00715639,23,2.65,9.93,62.9,Clothing,Overnight,Credit Card,East,Yes,167.42
+1596,29.81,5,42.54848577,19,2.45,5.52,2.33,Sports,Express,PayPal,East,No,566.07
+1597,62.38,3,69.58455256,15,3.95,28.85,2.42,Clothing,Overnight,PayPal,South,No,140.28
+1598,91.15,2,19.76627931,22,3.96,4,15.51,Books,Express,Debit Card,West,Yes,91.89
+1599,50.42,4,47.33859382,,3.43,30.12,21.29,Electronics,Overnight,UPI,West,Yes,99.28
+1600,617.6,2,15.32684051,15,2.17,42.53,13.32,Clothing,Overnight,UPI,North,Yes,159.15
+1601,46.34,3,37.36019852,16,4.7,2.39,9.48,Sports,Standard,PayPal,South,No,277.08
+1602,77.5,3,49.64759884,26,3.21,39.99,24.59,Sports,Express,PayPal,North,Yes,98.08
+1603,37.08,4,3.917973259,23,4.16,19.72,0.05,Home,Standard,PayPal,South,No,360.09
+1604,34.02,4,31.92601289,18,1.86,7.97,82.66,Sports,Express,Credit Card,North,Yes,26.5
+1605,40.35,2,26.55185399,15,2.38,8.8,6.34,Home,Overnight,Credit Card,North,Yes,97.74
+1606,30.93,2,24.47064053,12,4.5,45.94,59.76,Electronics,Standard,Debit Card,West,No,94.46
+1607,52.45,1,40.77818978,31,1.2,5.53,2.77,Books,Express,Credit Card,West,Yes,170.46
+1608,82.49,6,51.8102856,15,3.05,43.34,6.53,Home,Express,UPI,East,No,105.25
+1609,56.46,4,33.00081927,21,2.93,27.21,6.43,Clothing,Standard,Credit Card,East,No,164.03
+1610,44.95,3,38.08229641,23,4,1.95,133.45,Clothing,Express,UPI,West,No,57.66
+1611,44.16,2,36.7146313,25,2.13,23.22,0.11,Books,Overnight,Credit Card,West,No,39.34
+1612,18.74,2,35.0270526,20,1.88,40.87,24.5,Sports,Express,Credit Card,North,No,158.97
+1613,67.66,2,18.65986043,23,4.7,36.31,48.91,Clothing,Overnight,Debit Card,East,Yes,44.6
+1614,48.44,5,51.62666903,17,3.29,24.44,26.77,Home,Express,PayPal,West,Yes,375.92
+1615,46.39,,39.42793052,15,1.42,43,10.81,Books,Standard,PayPal,South,No,20.55
+1616,113.86,3,40.92322235,13,1.77,6.02,76.26,Clothing,Overnight,PayPal,South,No,22.19
+1617,55.98,1,22.90235556,24,5,45.5,53.76,Sports,Express,Debit Card,East,No,141.04
+1618,34.96,1,28.11169403,30,1.78,42.32,13.66,Sports,Overnight,UPI,South,No,1014.69
+1619,41.47,7,32.35798703,17,3.44,35.41,20.44,Clothing,Standard,Credit Card,North,Yes,110.74
+1620,72.97,6,11.9881296,17,2.68,40.89,82.25,Books,Express,Debit Card,East,Yes,335.42
+1621,52.27,,9.679485122,12,4.54,27.19,97.18,Electronics,Express,UPI,West,Yes,136.5
+1622,21.23,5,25.98878104,21,4.02,33.76,14.34,Clothing,Overnight,Debit Card,South,Yes,76.25
+1623,68.38,3,42.8378115,18,3.39,28.03,45.11,Sports,Standard,Debit Card,North,Yes,220.93
+1624,36.64,2,25.20293915,20,1.04,17.77,8.63,Electronics,Standard,UPI,West,Yes,95.63
+1625,87.47,3,19.71792204,23,4.52,28.44,11.16,Books,Express,PayPal,Central,No,116.55
+1626,71.6,3,22.7797152,25,2.78,12.87,4.32,Sports,Overnight,Credit Card,North,Yes,241.93
+1627,41.05,4,28.16986365,26,4.73,22.01,5.63,Books,Express,PayPal,South,Yes,100.97
+1628,75.62,6,29.69211556,19,2.98,14.04,25.67,Clothing,Express,Debit Card,North,No,19.83
+1629,51.36,3,67.48282178,28,3.78,6.14,17.16,Books,Overnight,UPI,Central,No,69.1
+1630,67.06,3,50.81930943,28,1.28,16.09,6.31,Sports,Standard,Debit Card,Central,No,303.73
+1631,59.69,5,50.37161168,21,3.98,42.6,12.38,Clothing,Express,PayPal,North,No,196.62
+1632,33.07,0,52.52870546,17,2.35,19.05,11.21,Sports,Express,PayPal,West,No,71.96
+1633,37.13,5,20.01768696,23,2.41,37.4,104.9,Sports,Overnight,PayPal,West,Yes,424.82
+1634,70.6,2,16.66453078,17,1.47,8.76,46.11,Electronics,Overnight,Credit Card,Central,No,100.07
+1635,43.3,1,18.39694563,20,1.59,21.22,11.78,Home,Express,PayPal,East,No,299.26
+1636,41.93,4,55.017592,24,1.74,5.74,58.86,Books,Standard,Credit Card,East,No,732.83
+1637,30.9,4,26.79212317,25,2.31,6.93,10.07,Books,Overnight,Credit Card,West,Yes,226.67
+1638,58.47,5,16.22965727,22,4.57,30.87,26.46,Electronics,Express,PayPal,East,No,391.78
+1639,91.25,2,28.535057,20,2.47,30.37,81.62,Books,Standard,UPI,West,No,803.95
+1640,28.65,2,31.42091702,18,3.9,10.67,11.87,Electronics,Overnight,Debit Card,South,Yes,201.79
+1641,50.48,4,39.02619911,20,1.33,23.72,27.34,Books,Overnight,Debit Card,West,No,468.57
+1642,78.24,,38.76426531,13,3.36,43.17,8.42,Books,Express,Credit Card,South,Yes,146.25
+1643,48.41,3,22.57729154,20,2.93,8.71,7.43,Sports,Overnight,Credit Card,Central,Yes,50.35
+1644,59.05,1,45.28484589,16,4.91,0.96,20.49,Electronics,Express,Credit Card,East,No,70.04
+1645,28.75,1,25.41209699,12,4.38,32.6,93.02,Books,Overnight,Debit Card,Central,Yes,199.06
+1646,58.57,1,32.65585495,21,2.82,2.67,14.49,Home,Standard,Credit Card,North,No,50.16
+1647,46.26,1,45.30161106,20,4.1,49,66.59,Electronics,Standard,UPI,North,No,216.88
+1648,69.71,4,25.37267894,21,1.77,30.48,58.98,Electronics,Overnight,UPI,Central,No,101.6
+1649,73.75,3,26.45972865,16,3.25,23.52,7.03,Electronics,Express,Credit Card,West,Yes,40.99
+1650,101.79,4,43.87502075,20,1.3,21.5,12.33,Sports,Overnight,Debit Card,West,Yes,255.65
+1651,61.59,3,22.13400235,20,2.39,28.65,24.74,Electronics,Express,PayPal,East,Yes,38.94
+1652,,3,29.22811965,23,1.9,4.53,17.52,Sports,Overnight,Debit Card,Central,Yes,629.59
+1653,53.89,3,43.33613267,16,3.88,46.5,2.42,Home,Standard,PayPal,North,Yes,489.13
+1654,42.94,0,65.81138662,,2.96,31.28,121.61,Clothing,Express,PayPal,Central,No,55.58
+1655,56.77,6,44.08106757,25,4,9.2,33.53,Sports,Standard,Credit Card,Central,No,106.73
+1656,44.09,4,42.08959644,23,3.06,28.13,13.82,Books,Standard,UPI,East,No,82.7
+1657,53.37,1,42.96202376,,1.35,6.66,23.11,Electronics,Standard,Credit Card,West,Yes,629.69
+1658,76.35,6,,21,3.94,0.88,2.2,Clothing,Overnight,PayPal,North,Yes,189.28
+1659,29.87,1,,21,4.33,31.53,16.41,Sports,Express,Credit Card,East,Yes,100.7
+1660,72.8,3,34.55350267,14,4.61,32.42,64.11,Books,Standard,PayPal,North,No,324.26
+1661,998.75,6,39.82376811,19,3.29,29.18,54.46,Clothing,Express,Credit Card,North,No,80.72
+1662,47.64,3,36.74762079,21,4.01,9.17,9.88,Home,Express,UPI,West,Yes,144.95
+1663,7.56,1,40.69549516,24,4.01,30.17,18.19,Sports,Standard,UPI,West,No,400.02
+1664,37.84,4,30.32799208,13,1.62,2.83,28.69,Sports,Overnight,Debit Card,East,Yes,184.7
+1665,75.94,1,35.87913376,32,1.66,30.46,9.97,Home,Standard,PayPal,South,No,226.88
+1666,,4,16.58257151,23,1.28,27.7,1.61,Sports,Standard,PayPal,East,Yes,45.82
+1667,30.01,200,30.20139083,,2.28,32.76,16.9,Electronics,Express,Credit Card,East,Yes,26.55
+1668,39.9,1,55.86250322,22,2.89,44.77,22.09,Sports,Overnight,Debit Card,South,No,107.94
+1669,66.81,2,,12,4.99,42.52,0.14,Electronics,Express,UPI,North,No,98.67
+1670,60.93,5,34.68618444,23,2.72,49.03,2.41,electronics,Overnight,Credit Card,Central,Yes,71.24
+1671,45.22,9,63.44184914,23,3.9,48.81,5.58,Books,Standard,Debit Card,South,No,308.37
+1672,42.66,5,14.58747533,19,3.77,38.62,10.27,Books,Overnight,UPI,Central,No,228.75
+1673,42.16,4,18.35816667,22,1.82,47.82,18.69,Clothing,Express,Credit Card,North,No,289.74
+1674,31.55,4,60.69067117,12,1.23,43.36,8.35,Books,Standard,UPI,South,Yes,233.7
+1675,82.31,4,35.68941404,,3.18,36.38,7.76,Home,Overnight,PayPal,West,No,296.96
+1676,43.55,3,31.36125446,16,3.8,3.77,48.85,Clothing,Overnight,Debit Card,East,No,341.88
+1677,74.34,2,17.01193512,15,4.99,2.45,3.76,Books,Express,UPI,South,No,122.91
+1678,80.43,2,41.715444,20,2.43,41.88,16.42,Electronics,Overnight,Debit Card,South,No,159.92
+1679,69.97,7,43.16689804,14,4.59,24.48,73.29,Sports,Standard,Credit Card,North,Yes,246.09
+1680,41.37,4,18.58258459,19,2.53,40.73,23.54,Books,Overnight,Debit Card,West,Yes,114.85
+1681,58.07,3,32.89586622,24,3.76,15.65,30.31,Electronics,Express,Credit Card,South,Yes,210.55
+1682,,1,,22,3.39,19.88,13.54,Clothing,Overnight,Debit Card,West,No,29.25
+1683,31.93,1,38.8396572,21,1.21,35.01,0.48,Sports,Standard,Credit Card,Central,Yes,309.24
+1684,56.49,2,18.21124637,24,1.31,45.77,24.93,Books,Standard,Credit Card,South,No,378.26
+1685,26.42,2,53.77921182,21,1.08,4.39,23.99,Clothing,Overnight,Credit Card,West,Yes,375.08
+1686,73.75,4,48.73735672,25,2.48,43.07,2.81,Books,Overnight,UPI,East,Yes,280.41
+1687,40.71,3,29.55236662,23,3.98,39.65,14.88,Clothing,Standard,PayPal,North,No,284.23
+1688,54.02,4,31.75371933,18,1.69,15.78,59.26,Books,Express,Debit Card,West,No,115.27
+1689,55.67,6,32.95366775,20,3.42,17.76,5.51,Electronics,Standard,PayPal,North,No,47.65
+1690,44.82,,,24,2.16,2.32,14.84,Home,Overnight,PayPal,South,Yes,242.17
+1691,61.73,5,28.34855873,25,4.19,0.79,14.84,Electronics,Overnight,PayPal,South,No,153.39
+1692,40.5,1,30.94594448,23,4.19,23.85,39.95,Sports,Express,PayPal,Central,No,37.28
+1693,,,59.19302556,,4.1,4.78,41.77,Books,Standard,Debit Card,North,No,111.67
+1694,23.08,2,49.19927462,21,3.1,9.7,34.18,Home,Standard,Debit Card,East,Yes,111.31
+1695,52.53,5,49.01982061,,2.14,42.34,10.92,Home,Express,PayPal,East,No,137.87
+1696,88.78,2,40.5488842,19,4.24,28.55,1.79,Sports,Standard,Debit Card,West,Yes,223.21
+1697,29.99,4,18.24009487,19,1.74,31.68,10.32,Sports,Express,Debit Card,East,Yes,86.63
+1698,36.45,2,34.37763343,19,2.16,9.37,27.33,Home,Standard,Credit Card,North,No,141.99
+1699,60.28,6,49.55732689,,1.74,41.43,29.12,Sports,Express,Debit Card,South,No,130.19
+1700,53.59,2,16.12603056,15,3.7,43.4,80.46,Sports,Express,UPI,North,No,214.34
+1701,57.01,0,44.5482981,18,3.74,26.17,14.51,Books,standard ,PayPal,North,No,70.47
+1702,59.78,2,69.83913838,,3.61,45.63,24.02,Electronics,Overnight,Debit Card,South,Yes,188.02
+1703,62.69,200,50.92724969,13,2.66,42.24,18.59,Clothing,Overnight,PayPal,North,No,185.39
+1704,72.19,2,56.21043703,13,1.4,36.57,3.92,Home,Overnight,Debit Card,East,No,137.01
+1705,58.2,4,38.27508126,21,4.64,36.7,14.84,Clothing,Standard,PayPal,West,Yes,234.2
+1706,45.17,2,49.51897923,19,3.03,5.27,18.89,Home,Express,UPI,West,Yes,133.2
+1707,845.04,2,24.23220178,13,2.63,13.54,72.26,Home,Standard,Debit Card,North,No,26.99
+1708,88,,46.93795719,20,3.36,3.34,10.96,Electronics,Standard,Debit Card,South,No,246.59
+1709,47.35,1,44.81582201,23,1.77,0.43,94.01,Home,Express,UPI,Central,No,254.29
+1710,30.51,1,39.34866761,,1.53,7.92,18.76,Home,Overnight,Debit Card,North,No,192.88
+1711,72.14,4,54.7401113,22,2.62,44.02,6.66,Electronics,Standard,PayPal,North,No,145.4
+1712,47.59,3,26.91822743,,1.91,11.99,5.11,Sports,Standard,UPI,Central,Yes,144.18
+1713,6.55,8,32.19413725,,1.98,48.51,3.67,Clothing,Standard,Credit Card,West,Yes,63.38
+1714,66.95,1,36.43193062,28,4.57,29.86,14.48,Home,Overnight,PayPal,West,Yes,81.24
+1715,39.29,4,19.55583543,34,3.12,11.86,0.53,Electronics,Express,Debit Card,Central,No,197.23
+1716,48.19,2,38.40397916,21,2.93,24.86,14.13,Home,Express,PayPal,South,No,218.98
+1717,56.64,2,9.216043806,,3.76,10.95,106.97,Electronics,Standard,UPI,North,No,120.09
+1718,53.81,3,50.70431802,21,4.81,49.2,26.62,Clothing,Express,Debit Card,East,No,187.17
+1719,64.19,4,35.6995605,23,1.45,42.36,34.23,Books,Overnight,Debit Card,West,Yes,269.68
+1720,41.29,3,27.18660644,24,4.33,1.31,3.04,Sports,Express,UPI,West,Yes,109.39
+1721,60.26,4,22.48439582,16,3.34,47.39,15.38,Books,Standard,Credit Card,West,No,58.13
+1722,44.81,5,31.48131456,12,1.58,36.05,8.09,Electronics,Standard,Debit Card,South,No,99.74
+1723,64.78,5,45.32389566,,2.19,4.12,53.89,Home,Express,Debit Card,Central,No,158.51
+1724,62.31,2,43.21608468,20,2.93,33.53,4.8,Sports,Standard,Debit Card,South,Yes,186.78
+1725,685.38,5,24.41693079,15,3.76,32.35,14.73,Clothing,Overnight,Credit Card,West,Yes,140.92
+1726,71.72,3,22.30940491,19,1.97,10.94,21.28,Sports,Overnight,PayPal,North,No,189.93
+1727,39.28,5,44.85348059,21,3.14,37.92,17.32,Home,Overnight,Credit Card,West,No,928.14
+1728,66.16,3,24.16478893,24,3.74,4.35,42.56,Books, EXPRESS,PayPal,North,Yes,48.83
+1729,57.35,6,35.89864661,24,2.79,24.47,6.32,Electronics,Standard,Debit Card,North,No,172.8
+1730,86.76,1,36.85631964,27,4.45,0.5,11.37,Books,Standard,PayPal,West,Yes,262.23
+1731,45.53,1,39.68093198,17,4.48,48.44,37.69,Sports,Express,PayPal,West,No,99.64
+1732,43.01,4,47.87405645,17,2.88,37.58,18.02,Home,Standard,PayPal,North,Yes,340.89
+1733,49.61,3,16.05555595,,4.89,7.94,12.34,Electronics,Express,PayPal,South,No,496.57
+1734,43.94,7,6.332610121,20,1.3,17.08,0.72,Home,Standard,Debit Card,South,Yes,195.1
+1735,66,100,26.48829078,16,1.01,8.03,33.6,Home,Express,UPI,South,Yes,196.73
+1736,17.67,0,62.02292612,20,2.52,38.33,85.97,Sports, EXPRESS,Credit Card,East,No,151.86
+1737,28.93,2,65.3326115,14,3.4,2.94,23.24,Books,Overnight,PayPal,North,Yes,233.71
+1738,28.64,3,62.46765703,18,3.52,42.02,46.6,Home,Express,Debit Card,East,No,421.47
+1739,69.01,2,32.10527948,18,2.91,47.11,17.46,Home,Express,Debit Card,East,Yes,163.59
+1740,84.21,3,200,18,1.5,33.83,6.33,Home,Express,Debit Card,North,No,44.7
+1741,47.91,3,-0.145586525,22,1.68,10.65,0.35,Electronics,Express,Debit Card,East,No,95.82
+1742,46.62,1,25.78942758,23,4.41,18,25.43,Home,Express,PayPal,North,Yes,200.31
+1743,51.4,4,32.02889555,19,4.47,23.86,16.31,Home,Overnight,Credit Card,Central,No,191.79
+1744,73.24,4,54.50938102,21,3.7,30.23,36.57,Sports,Express,Debit Card,Central,No,175.79
+1745,31.45,4,48.01708189,21,3.66,33.43,28.47,Home,Express,Credit Card,North,No,41.45
+1746,54.77,3,38.41107618,19,3.39,27.71,106.05,Home,Express,Credit Card,North,No,115.66
+1747,69.5,2,21.65232844,11,1.81,17.57,17.14,Sports,Standard,Credit Card,North,Yes,123.21
+1748,60.02,2,20.58830663,25,2.71,44.55,13.37,Electronics,Standard,UPI,South,Yes,46.08
+1749,53.79,2,38.81191531,15,3.78,4.07,8.11,Books,Overnight,Debit Card,North,No,142.13
+1750,70.02,0,45.45576468,21,3.15,23.31,15.55,Sports,Express,Debit Card,West,Yes,107.39
+1751,5,4,40.87821893,24,1.07,38.78,49.5,Electronics,Express,Debit Card,Central,No,64.36
+1752,63.56,2,19.48103061,20,4.81,3.04,1.04,Books,Standard,Credit Card,Central,No,198.53
+1753,36.92,4,44.76001443,20,4.38,35.27,91.49,Home,Express,Debit Card,North,No,146.54
+1754,,2,41.38866451,27,2.04,40.99,120.16,Sports,Overnight,Debit Card,Central,Yes,41.74
+1755,786.52,7,18.94000391,18,3.47,33.04,21.86,Home,Express,Credit Card,North,No,67.12
+1756,77.47,5,23.23518545,21,4.69,0.65,9.67,Sports,Overnight,Debit Card,North,No,470.92
+1757,47.25,3,45.32743962,20,1.38,9.01,6.06,Books,Standard,PayPal,Central,Yes,89.47
+1758,69.06,1,31.48238697,21,3.01,17.11,7.77,Electronics,Overnight,UPI,Central,No,44.31
+1759,,4,58.83720952,24,2.82,11.68,1.23,Sports,Overnight,PayPal,West,Yes,335.92
+1760,76.3,1,42.51693914,23,2.64,48.13,15.47,Electronics,Overnight,PayPal,East,Yes,199.4
+1761,82.8,2,27.70053218,16,4.34,32.58,1.42,Home,Overnight,PayPal,West,Yes,591.23
+1762,64.84,2,34.84691599,23,2.52,14.85,30.42,Home,Overnight,Credit Card,West,No,266.32
+1763,51.51,4,35.95075089,24,1.25,46.48,11.16,Books,Overnight,Debit Card,Central,No,77.7
+1764,17.96,5,24.0741453,19,1.26,37.03,5.34,Books,Overnight,PayPal,West,No,107.74
+1765,45.08,2,21.31117703,19,1.17,14.23,18.89,Clothing,Overnight,PayPal,Central,No,285.8
+1766,33.14,,45.52084841,22,2.64,18.94,87.37,Clothing,Overnight,Debit Card,South,No,76.19
+1767,93.42,2,120,24,3.87,9.97,28.51,Books,Standard,Credit Card,North,No,197.77
+1768,46.48,3,44.05672204,22,1.81,48.55,16.24,Home,Overnight,PayPal,East,No,174.6
+1769,52.46,4,57.72977141,17,3.59,25.86,36,Electronics,Overnight,Debit Card,South,No,393.51
+1770,61.03,1,26.87340146,17,3.75,44.8,32.1,Books,Express,Debit Card,North,No,38.09
+1771,50.87,4,60.11406149,,2.02,17.32,53.36,Electronics,Express,UPI,North,No,71.19
+1772,,5,21.48618322,21,3.4,43.04,5.5,Clothing,Express,PayPal,East,No,623.16
+1773,37.55,1,,28,3.74,2.69,47,Electronics,Overnight,PayPal,West,No,323.03
+1774,53.89,2,8.600616768,22,2.87,49.1,8.6,Books,Standard,UPI,North,Yes,110.75
+1775,35.15,3,28.31307029,16,2.35,45.6,67.92,Home,Standard,Debit Card,East,Yes,391.31
+1776,23.6,1,27.44416495,17,3.48,18.16,7.92,Books,Express,Debit Card,Central,No,12.23
+1777,37.76,3,42.8890592,18,4.91,38.74,62.77,Sports,Express,PayPal,North,No,141.23
+1778,49.26,4,38.65836412,32,2.71,37.61,79.64,Sports,Overnight,PayPal,North,Yes,47.09
+1779,41.41,4,17.10539943,23,2.57,45.06,3.77,Sports,Standard,UPI,West,Yes,92.4
+1780,36.15,3,29.10910642,16,2.86,15.36,88.06,Home,Standard,PayPal,West,No,276.81
+1781,21.87,5,29.42806968,18,1.3,23.28,2.15,Books,Express,PayPal,Central,No,78.32
+1782,,1,8.360266296,,3.21,43.25,5.92,Sports,Standard,Credit Card,North,No,331.21
+1783,19.91,4,20.28579909,24,2.31,38.93,14.09,Books,Express,UPI,West,No,641.64
+1784,65.2,2,23.43779554,26,1.49,19.67,121.23,Clothing,Express,Debit Card,East,No,36.08
+1785,51.65,1,56.5043753,18,2.87,42.29,16.09,Sports,Overnight,PayPal,North,Yes,106.82
+1786,20.85,,37.87176074,23,1.01,2.35,19.19,Sports,Express,Debit Card,East,No,255.33
+1787,43.82,200,44.93253131,24,2.61,39.1,28.45,Home,Overnight,PayPal,South,Yes,168.64
+1788,34.96,2,12.52046754,17,1.42,10.34,82.83,Books,Standard,Credit Card,Central,Yes,45.65
+1789,56.38,2,52.91321725,13,1.1,14.31,36.71,Home,Standard,UPI,West,No,88.24
+1790,76.81,1,,16,4.3,24.66,6.09,Home,Express,UPI,South,No,539.35
+1791,12.5,2,5.024825493,15,4.66,22.49,8.66,Books,Express,Debit Card,West,Yes,236.28
+1792,52.3,4,24.42024914,20,1.83,26.03,2.47,Clothing,Overnight,Credit Card,South,No,120.71
+1793,46.8,4,42.4364836,20,3.16,27.24,24.82,Books,Overnight,Debit Card,West,Yes,57.24
+1794,966.31,6,44.6658268,28,2.11,16.58,4.78,Clothing,Standard,Credit Card,Central,Yes,401.53
+1795,54.26,1,24.82257904,18,2.97,8.76,7.14,Home,Standard,PayPal,North,No,297.75
+1796,34.96,200,30.41750805,14,2.75,38.42,52.57,Clothing,Express,PayPal,East,No,279.59
+1797,43.62,0,26.03928408,21,2.08,20,9.5,Clothing,Express,Credit Card,South,No,313.21
+1798,,2,36.6562707,12,3.8,25.29,20.07,Clothing,Overnight,PayPal,East,Yes,145.41
+1799,71.52,2,,19,1.51,32.23,12.16,Sports,Express,UPI,East,Yes,403.66
+1800,50.43,2,23.43436764,19,1.21,45.48,1.85,Sports,Overnight,Credit Card,West,Yes,239.57
+1801,88.02,1,,20,4.07,35.38,10.82,Home,Standard,Credit Card,North,No,192.04
+1802,48.79,200,23.27491891,,3.66,2.27,12.58,Books,Standard,Debit Card,West,Yes,262.39
+1803,35.83,5,22.28559181,16,2.99,41.93,54.25,Clothing,Express,Credit Card,East,No,321.63
+1804,19.73,1,47.27891928,14,2.87,49.47,9.41,Sports,Overnight,Debit Card,Central,No,176.26
+1805,13.94,2,48.82904567,17,2.99,23.62,11.44,Books,Express,Credit Card,North,Yes,226.44
+1806,18.32,5,47.77114905,20,2.75,48.48,36.66,Clothing,Express,UPI,North,No,717.42
+1807,55.34,2,15.26303888,17,2.57,27.37,34.15,Books,Overnight,UPI,East,Yes,36.13
+1808,60.17,2,28.01073533,,3,22.98,38.42,Electronics,Express,UPI,West,No,89.25
+1809,18.38,,47.34482888,11,3.11,16.57,73.78,Clothing,Overnight,Debit Card,Central,No,43.79
+1810,67.9,2,35.62312761,14,3.77,32.88,38.1,Books,Overnight,Debit Card,South,Yes,253.31
+1811,40.34,2,120,22,3.84,11.49,12.57,Clothing,Express,PayPal,West,No,6.4
+1812,52.94,3,41.87476909,19,2.51,5.25,41.36,Clothing,Overnight,Debit Card,North,Yes,389.41
+1813,82.24,4,,19,2.65,1.36,17.06,Electronics,Standard,Debit Card,West,No,211.71
+1814,67.94,,61.91787273,24,2.49,14.62,7.81,Books,Standard,UPI,South,Yes,387.1
+1815,44.63,4,58.17262194,20,3.15,19.79,8.66,Home,Standard,Credit Card,Central,Yes,171.29
+1816,32.18,5,44.0614614,18,2.81,27.6,6.08,Sports,Standard,Debit Card,Central,No,221.13
+1817,6.96,,55.41510057,18,4.56,14.64,3.76,Clothing,Express,PayPal,South,No,381.37
+1818,35.62,0,,23,3.79,49.2,4.89,Clothing,Standard,Credit Card,South,Yes,77.08
+1819,45.78,3,46.48156242,21,4.59,14.59,1.57,Clothing,Standard,Debit Card,East,Yes,36.41
+1820,30.26,3,57.16580443,23,3.84,22.05,52.64,Clothing,Standard,Credit Card,North,Yes,218.06
+1821,47.37,2,38.68248023,26,4.88,5.16,64.17,Sports,Standard,Credit Card,East,Yes,179.02
+1822,51.54,,31.17219243,19,3.54,13.03,21.21,Home,Express,Credit Card,West,No,143.23
+1823,45.5,5,9.430670627,28,4.85,2.42,44.06,Electronics,Standard,Credit Card,South,No,423.01
+1824,37,1,33.75299711,,1.63,27.98,4.87,Home,Overnight,Credit Card,East,No,235.1
+1825,53.37,2,47.35134777,17,1.21,37.55,55.67,Sports,Overnight,Debit Card,North,No,22.43
+1826,58.84,4,,20,3.32,9.79,16.94,Books,Express,Credit Card,North,No,293.28
+1827,28.19,2,42.56547599,20,4.93,18.4,1.67,Electronics,Express,Credit Card,South,Yes,308.17
+1828,,0,26.88051358,16,2.67,0.83,3.66,Electronics,Express,PayPal,East,Yes,77.9
+1829,48.03,5,5.347676466,28,1.85,41.98,8.87,Books,Standard,PayPal,Central,No,73.73
+1830,50.38,0,27.57177353,21,3.09,39,1.07,Clothing,Express,Credit Card,South,No,83.64
+1831,64.16,2,30.43482693,20,3.6,3.16,8.88,Sports,Standard,Debit Card,West,Yes,198.36
+1832,54.66,3,30.30606549,14,2.26,18.24,1.48,Books,Express,PayPal,East,No,431.64
+1833,69.06,2,44.27834535,12,3.86,47.76,6.46,Home,Overnight,PayPal,East,No,97.34
+1834,55.74,50,64.78514617,23,4.9,19.6,7.41,Home,Overnight,Credit Card,South,Yes,490.15
+1835,37.75,5,36.85293803,28,4.59,26.31,124.31,Books,Standard,Debit Card,East,No,83.93
+1836,57.23,3,31.74902316,21,2.17,17.76,6.45,Sports,Express,UPI,East,No,313.14
+1837,27.13,4,31.1116728,19,2.31,29.81,6.56,Electronics,Overnight,Debit Card,West,No,64.12
+1838,52.17,5,36.8657715,15,2.49,48.91,27.86,Electronics,Standard,PayPal,West,No,84.7
+1839,49.34,2,22.57559359,26,2.58,49.88,47.08,Clothing,Overnight,PayPal,Central,Yes,112.12
+1840,45.84,2,36.80297838,22,1.4,38.74,11.75,Sports,Express,PayPal,West,No,46.37
+1841,47.43,4,41.76218504,20,4.05,20.22,50.03,Home,Standard,PayPal,Central,No,89.42
+1842,12.36,4,38.14529095,28,2.46,24.72,9.98,Home,Overnight,PayPal,West,Yes,78.67
+1843,39.03,7,41.86312901,30,4.52,17.84,5.27,Clothing,Express,Credit Card,Central,Yes,144.06
+1844,51.86,6,41.50621414,20,4.71,49.28,9.6,Home,Standard,Credit Card,West,Yes,315.57
+1845,53.2,,8.421549766,19,1.1,35.39,22.56,Clothing,Overnight,Credit Card,West,No,58.21
+1846,29.45,3,44.55305238,24,4.95,22.45,10.98,Clothing,Overnight,PayPal,South,Yes,146.6
+1847,75.31,5,24.93477732,26,3.84,0.61,26.82,Books,Standard,Credit Card,West,Yes,71.41
+1848,32.68,2,18.56241255,19,3.08,26.02,6.49,Electronics,Express,PayPal,Central,No,574.82
+1849,69.39,6,18.43322258,18,2.56,49.2,28.97,Sports,Standard,Debit Card,South,Yes,122.44
+1850,58.54,2,41.50312416,28,3.07,26.15,10.24,Sports,Overnight,UPI,Central,No,193.53
+1851,37.08,6,31.66137609,18,2.3,9.12,14.61,Electronics,Overnight,Debit Card,West,No,98.18
+1852,85.51,3,9.77046824,22,3.49,1.1,19.58,Sports,Overnight,UPI,West,No,236.87
+1853,26.13,2,,21,1.37,17.74,27.82,Home,Express,Credit Card,Central,Yes,255.3
+1854,68.38,5,13.40587804,23,3.48,45.91,6.55,Home,Overnight,UPI,East,No,187.17
+1855,70.01,3,37.09732038,21,2.1,49.83,43.38,Sports,Overnight,Debit Card,South,Yes,137.36
+1856,36.59,2,38.57748389,19,1.07,47.27,30.71,Books,Standard,Debit Card,South,Yes,166.95
+1857,77.85,2,48.28365623,20,3.21,36.47,6.4,Sports,Overnight,UPI,West,No,612.21
+1858,45,1,61.7252718,13,3.31,27.91,88.51,Clothing,Standard,Debit Card,South,No,486.97
+1859,55.77,4,14.52985511,17,2.71,29.53,26.23,Clothing,Overnight,Credit Card,Central,Yes,163.95
+1860,55.21,,34.21289216,22,1.29,26.95,14.45,Electronics,Standard,Debit Card,West,No,241.99
+1861,47.31,3,30.85497057,18,4.57,35.35,4.11,Home,Standard,UPI,South,Yes,183.59
+1862,66.22,2,41.50624529,17,3.45,20.94,18.29,Books,Standard,Credit Card,North,Yes,610.36
+1863,65.87,3,38.23503156,16,1.46,33.46,4.32,Sports,Standard,UPI,South,Yes,95.8
+1864,15.03,,29.71180636,24,3.04,6.08,13.47,Clothing,Express,PayPal,Central,Yes,129.17
+1865,76.09,0,28.38646717,15,2.99,13.28,12.61,Home,Overnight,PayPal,South,Yes,49.49
+1866,16.75,,18.25323717,18,1.24,41.8,30.55,Home,Express,Credit Card,East,Yes,127.72
+1867,70.65,3,49.81792374,14,3.43,45.19,5.13,Books,Overnight,Credit Card,East,No,132.03
+1868,72.53,1,41.88806272,12,4.23,26.95,41.41,Books,Standard,Debit Card,West,Yes,368.95
+1869,28.18,2,48.76652297,19,4,1.58,9.47,Books,Overnight,UPI,East,Yes,236.89
+1870,41.78,3,30.34405795,24,1.81,46.35,14.09,Books,Standard,PayPal,Central,No,137.14
+1871,27.89,1,25.14746797,23,4.45,35.1,35.52,Clothing,Overnight,Debit Card,North,No,115.04
+1872,45.7,4,18.825274,19,2.37,20.7,23.57,Books,Standard,PayPal,North,Yes,257.15
+1873,43.84,1,40.38376376,30,4.79,29.92,8.84,Home,Overnight,Debit Card,West,Yes,96.76
+1874,65.59,5,19.40310163,20,1.29,21.49,11.71,Home,Overnight,Debit Card,West,Yes,171.36
+1875,76.21,1,62.72994603,22,2.94,23.27,8.76,Sports,Overnight,PayPal,East,No,166.81
+1876,77.91,1,15.38536128,23,3.39,44.34,21.68,Home,Standard,Debit Card,Central,Yes,233.22
+1877,38.76,5,39.10490179,19,1.99,8.05,9.71,Home,Overnight,PayPal,East,Yes,95.13
+1878,45.82,0,58.50282061,19,4.09,5.18,31.04,Clothing,Standard,Credit Card,Central,No,99.07
+1879,,2,43.98634639,20,3.51,0.14,20.81,Home,Express,UPI,Central,No,73.57
+1880,33.88,2,,17,1.07,15.7,3.78,Electronics,Overnight,Debit Card,North,No,15.97
+1881,69.3,,20.4727453,18,3.43,7.37,8.91,Home,Standard,PayPal,Central,Yes,104.95
+1882,82.31,2,14.27346217,12,2.97,11,6.01,Sports,Standard,PayPal,South,No,92.99
+1883,25.31,4,46.55075163,17,1.78,0.56,11.88,Sports,Standard,UPI,Central,Yes,544.7
+1884,38.15,5,57.59220861,21,4.98,11.36,17.42,Books,Express,UPI,North,No,178.99
+1885,49.47,2,28.41725014,15,4.59,16.64,16.96,Clothing,Standard,UPI,East,No,50.65
+1886,546.08,,17.91407739,20,2.17,1.58,33.71,Sports,Express,Debit Card,Central,Yes,54.6
+1887,,4,,22,3.16,30.4,5.03,Electronics,Express,PayPal,South,Yes,257.14
+1888,58.48,5,20.28852735,20,2.27,28.44,70.26,Electronics,Standard,Debit Card,West,No,400.7
+1889,40.52,2,33.29514736,20,4.1,4.85,10.08,Books,Overnight,Debit Card,East,Yes,26.47
+1890,49.71,4,58.98684861,23,4.72,29.75,8.57,Clothing,Express,Credit Card,West,Yes,152
+1891,60.93,4,45.09700538,21,2.44,49.93,27.74,Clothing,Standard,UPI,South,No,56.21
+1892,50.13,2,39.57628107,22,4.22,47.22,39.3,Home,Express,Credit Card,North,Yes,50.41
+1893,41.27,3,28.99820508,22,2.99,0.13,11.41,Electronics,Standard,Credit Card,North,Yes,262.05
+1894,47.81,0,26.25251424,20,2.59,39.77,32.97,Electronics,Standard,Debit Card,East,No,160.28
+1895,48.23,7,56.08471396,23,4.75,17.68,51.65,Electronics,Express,Debit Card,Central,Yes,77.87
+1896,42.6,0,38.01107811,15,3.04,3.18,34.94,Electronics,Standard,PayPal,Central,Yes,21.76
+1897,44.82,0,3.460989621,23,2.87,14.8,0.84,Sports,Express,Credit Card,West,Yes,130.84
+1898,81.97,1,24.89690528,17,3.69,16.09,42.16,Clothing,Standard,UPI,North,No,234.31
+1899,61.22,1,22.12675952,27,2.04,26.16,35.74,Home,Overnight,Credit Card,Central,Yes,190.83
+1900,44.09,0,26.80603986,11,2.3,33.05,26.56,Sports,Overnight,PayPal,Central,Yes,31.77
+1901,63.94,1,43.4436599,14,4.73,37.45,34.25,Clothing,Express,Credit Card,North,Yes,239.83
+1902,43.32,5,33.38832677,24,3.71,12.3,93.21,Books,Express,Credit Card,North,Yes,301.77
+1903,73.46,0,33.84701889,18,4.31,16.09,13.54,Electronics,Express,Credit Card,South,Yes,235.35
+1904,57.39,6,54.70209742,23,2.08,15.42,1.67,Home,Express,PayPal,West,No,111.4
+1905,47.85,3,24.55308365,26,3.18,18.14,14.83,Clothing,Overnight,Credit Card,North,Yes,415.91
+1906,58.95,4,62.96299289,14,4.89,49.98,1.14,Books,Express,Debit Card,South,No,299.7
+1907,18.58,0,24.93038613,26,2.27,38.9,8.36,Electronics,Standard,Credit Card,North,Yes,76.5
+1908,27.46,7,36.33797295,17,1.64,48.75,21.22,Books,Standard,Debit Card,East,No,27.27
+1909,26.12,4,30.78194607,18,3.04,34.66,8.89,Books,Express,Credit Card,East,Yes,159.91
+1910,52.86,0,36.851287,16,2.55,20.31,27.75,Sports,Standard,Debit Card,East,No,132.07
+1911,84.65,2,41.66887993,,1.64,19.49,41.42,Books,Express,Credit Card,North,Yes,134.4
+1912,94.63,8,41.5075286,15,4.55,24.43,13.09,Sports,Standard,UPI,Central,Yes,328.58
+1913,62.76,3,23.70324004,20,4.96,20.84,55.3,Sports,standard ,Debit Card,Central,Yes,120.37
+1914,60.02,,18.15627984,20,3.27,41.42,2,Books,Express,UPI,East,Yes,102.38
+1915,13.98,3,72.54757686,15,4.1,23.25,44,Clothing,Express,Debit Card,West,No,282.83
+1916,39.15,4,27.74023491,22,4.44,14.78,42.33,Books,Overnight,Credit Card,South,Yes,126.32
+1917,726.86,1,45.48818658,22,3.8,38.74,9.33,Books,Express,PayPal,East,Yes,12.23
+1918,416.09,5,10.88538034,18,1.18,42.72,8.52,Clothing,Overnight,Credit Card,South,Yes,64.53
+1919,46.64,1,30.8058092,19,1.63,21.02,8.74,Electronics,Express,PayPal,South,Yes,71.95
+1920,40.56,5,33.09200924,22,1.28,33.39,40.03,Home,Standard,UPI,East,No,440.46
+1921,10.41,2,42.09222605,18,1.04,2.94,42.76,Electronics,Overnight,PayPal,Central,Yes,186.36
+1922,64.96,1,-5.836812115,,2.22,26.47,9.6,Books,Standard,PayPal,West,Yes,134.92
+1923,,0,37.4921092,23,2.57,2.25,21.55,Electronics,Express,PayPal,East,Yes,71.23
+1924,54.78,2,17.75387817,21,1.96,1.46,3.59,Home,Express,PayPal,South,Yes,73.24
+1925,91.48,1,39.86518567,,1.26,30.65,15.18,Electronics,Express,UPI,North,No,267.87
+1926,31.61,2,19.45506205,23,3.12,15.17,161.27,Home,Express,PayPal,North,Yes,384.71
+1927,5,0,22.16775956,14,2.09,37.13,4.15,Electronics,Overnight,Credit Card,South,No,165
+1928,44.28,3,30.89558584,,4.18,44.8,70.76,Sports,Overnight,Debit Card,East,Yes,106.91
+1929,72.02,6,19.21505796,18,1.03,6.97,41.73,Books,Express,Debit Card,Central,No,582.24
+1930,89.17,2,27.8669833,15,4.37,36.23,86,Home,Standard,Credit Card,East,No,228.9
+1931,25.41,0,17.09936347,19,4.82,25.73,4.75,Books,Overnight,UPI,West,Yes,341.68
+1932,59.93,2,,,3.86,5.61,5.76,Sports,Standard,Credit Card,North,Yes,245.9
+1933,40.69,,50.26935579,25,3.93,32.58,0.41,Electronics,Express,Credit Card,South,Yes,614.63
+1934,47.88,6,15.55926961,18,4.73,30.47,30.96,Books,Overnight,PayPal,Central,Yes,142.52
+1935,102.89,4,32.31978669,12,1.84,25.78,24.79,Electronics,Overnight,PayPal,East,No,161.64
+1936,19.94,1,46.29336622,19,4.98,46.32,4.71,Electronics,Overnight,UPI,West,No,145.13
+1937,55.07,2,25.77583846,16,4.09,26.05,37.59,Books,Standard,UPI,East,No,346.91
+1938,59.35,5,22.6225115,13,3.91,49.53,8.53,Home,Express,Debit Card,West,No,262.77
+1939,71.72,2,,16,2.44,25.46,3.48,Home,Express,UPI,East,Yes,126.58
+1940,51.96,3,51.76900734,27,3.18,5.79,13.18,Books,Overnight,Credit Card,Central,Yes,308.84
+1941,,2,17.46027102,18,3.62,23.52,2.29,Home,Overnight,Debit Card,Central,No,114.79
+1942,42.17,1,32.74778252,,3.48,9.12,7.33,Clothing,Express,Debit Card,South,Yes,13.77
+1943,55.38,5,9.012581075,19,3.82,29.86,11.14,Electronics,Standard,PayPal,Central,No,126.89
+1944,43.14,3,29.10198494,17,1.33,34.66,45.83,Books,Overnight,PayPal,West,No,134.24
+1945,62.43,3,35.51307027,17,2.42,23.42,37.75,Sports,Standard,Debit Card,South,No,127.08
+1946,42.61,2,22.18063037,31,2.74,4.89,14.03,Books,Standard,PayPal,Central,Yes,528.41
+1947,57.54,5,28.14512249,16,2.04,23.43,30.95,Books,Express,PayPal,North,No,249.28
+1948,49.41,2,,17,1.69,4.07,20.18,Electronics,Express,PayPal,West,No,75.78
+1949,72.52,,36.15617917,26,1.56,34.11,10,Sports,Standard,Debit Card,South,No,236.6
+1950,48.97,2,50.83541373,11,2.47,39.52,31.06,Electronics,Standard,Debit Card,West,Yes,51.07
+1951,14.54,0,120,21,2.97,48.12,27.61,Home,Express,Debit Card,South,Yes,75
+1952,75.24,3,25.6599235,20,1.25,7.44,23.16,Books,Overnight,Credit Card,West,No,118.58
+1953,31.89,5,42.5381937,25,4.79,26.62,23.09,Electronics,Standard,Debit Card,North,Yes,509.65
+1954,36.92,2,53.18136079,25,4.06,28.38,27.57,Clothing,Overnight,PayPal,Central,Yes,123.39
+1955,38.09,2,12.60215282,22,3.92,46.12,11.65,Books,Standard,Debit Card,East,Yes,85.14
+1956,77.49,4,32.46822894,14,1.69,31.36,48.8,Home,Express,Credit Card,East,Yes,60.01
+1957,7.29,5,39.24696233,16,3.42,7.28,4.25,Electronics,Overnight,PayPal,East,No,93.66
+1958,112.75,4,33.46915414,18,3.12,21.82,51.68,Electronics,Express,UPI,South,No,67.62
+1959,71.12,2,-2.151881003,16,4.93,32.74,10.06,Clothing,Standard,Debit Card,Central,No,241.92
+1960,54.46,2,42.51635014,19,3.99,35.01,3.21,Home,Express,Debit Card,South,No,223.04
+1961,48.9,2,,10,3.3,43.15,21.99,Clothing,Overnight,UPI,South,Yes,103.25
+1962,55.71,2,36.74992627,24,4.4,9.03,11.32,Books,Express,PayPal,South,No,124.92
+1963,60.42,2,19.5334092,26,1.62,47.58,40.56,Sports,Overnight,Debit Card,South,Yes,101.01
+1964,62.9,3,27.3030913,32,1.06,2.96,13.52,Electronics,Express,Credit Card,Central,No,32.76
+1965,829.85,,,20,3.76,49.19,26.5,Clothing,Express,PayPal,East,No,129.16
+1966,51.79,3,48.64943811,18,1.39,42.89,8.85,Electronics,Overnight,Debit Card,West,Yes,115.33
+1967,46.05,3,44.60039928,21,1.46,33.01,5.64,Electronics,Overnight,PayPal,South,No,177.72
+1968,46.97,5,40.34618875,21,3.98,36.75,11.79,Clothing,Overnight,Debit Card,Central,Yes,46.23
+1969,46.1,4,25.08294332,19,2.08,3.63,22.4,Electronics,Standard,UPI,North,No,67.45
+1970,72.68,1,31.99143229,29,3.51,2.07,25.68,Home,Express,Debit Card,West,No,148.4
+1971,61.87,2,33.83115896,17,4.67,5.09,20.72,Home,Overnight,PayPal,South,Yes,411.97
+1972,5,1,43.24361474,,2.27,4.37,106.26,Sports,Standard,Debit Card,South,No,11.75
+1973,63.12,5,57.63378341,12,1.87,27.37,28.19,Home,Standard,Debit Card,West,Yes,146.12
+1974,53.89,0,51.77507205,20,1.43,10.77,64.35,Clothing,Overnight,PayPal,West,Yes,93.23
+1975,49.63,5,13.70923466,30,1.52,43.01,3.01,Home,Overnight,Debit Card,South,No,229.35
+1976,42.23,4,38.35992453,23,1.25,22.29,1.52,Sports,Overnight,Debit Card,Central,No,139.21
+1977,72.48,3,46.05145018,16,1.35,34.78,8.94,Books,Standard,PayPal,North,Yes,37.34
+1978,68.95,50,44.28290495,20,2.73,32.64,3.52,Books,Standard,UPI,Central,No,58.74
+1979,34.54,200,25.56149355,17,2.28,15.99,17.91,Clothing,Express,Credit Card,East,No,99.31
+1980,58.14,1,78.71163824,20,3.83,12.16,17.56,Sports,Standard,Credit Card,East,Yes,421.53
+1981,30.57,1,15.84373157,15,4.48,17.12,20.54,Home,Overnight,Credit Card,East,Yes,51.36
+1982,22.41,2,18.7521733,17,4.14,39.83,32.82,Sports,Express,Credit Card,South,No,285.29
+1983,648,3,38.50392622,24,3.12,29.31,85.25,Electronics,Express,Credit Card,North,Yes,121.05
+1984,67.25,3,66.75204582,18,1.41,12.68,50.54,Sports,Express,Credit Card,North,No,71.16
+1985,69.06,3,22.45707724,29,3.84,40.89,3.02,Home,Express,PayPal,South,No,68.84
+1986,60.26,4,,14,2.45,2.74,9.92,Clothing,Overnight,PayPal,South,No,33.52
+1987,64.5,5,51.1594051,20,1.34,34.96,7.09,Electronics,Express,PayPal,South,Yes,398.73
+1988,60.32,2,34.73206768,11,4.37,21.96,4.67,Sports,Overnight,Debit Card,North,Yes,52.27
+1989,803.06,2,29.98094218,27,2.35,36.56,18.88,Books,Standard,UPI,South,No,130.14
+1990,,3,43.48449353,20,1.87,46.37,19.34,Home,Overnight,UPI,West,Yes,137.91
+1991,66.01,2,39.08776985,19,4.49,37.5,6.19,Clothing,Express,Credit Card,West,Yes,184.61
+1992,65.09,4,50.45658178,21,4.61,22.1,29.87,Home,Standard,Credit Card,West,Yes,74.44
+1993,73.78,5,54.37203334,15,2.36,7.55,31.68,Sports,Standard,PayPal,South,Yes,63.25
+1994,64.17,4,39.6050459,21,2.42,40.32,0.51,Clothing,Standard,UPI,West,Yes,96.14
+1995,57.03,4,39.37599088,13,3.32,23.04,12.09,Books,Express,Debit Card,South,No,315.2
+1996,71.4,5,38.21166473,18,3.93,3.77,53.01,Electronics,Overnight,Debit Card,West,Yes,632.68
+1997,49.47,2,42.33695835,17,1.25,35.95,17.63,Sports,Overnight,PayPal,South,Yes,401.62
+1998,32.36,5,35.82755957,21,3.37,14.59,10.25,Clothing,Express,Credit Card,Central,Yes,316.87
+1999,46.74,1,34.99087277,18,4.81,2.44,7.02,Electronics,Express,UPI,East,No,174.95
+2000,35.1,2,52.94940681,15,2.05,45.14,6.69,Clothing,Standard,Debit Card,Central,No,311.41
+1,839.68,1,44.18404715,18,2.58,45.44,15.84,Clothing,Express,PayPal,Central,Yes,212.17
+2,47.23,1,11.60846331,11,4.41,47.51,7.92,Sports,Standard,Debit Card,Central,Yes,96.08
+3,62.95,4,18.83418881,26,4.02,13.46,30.24,Home,Express,Debit Card,North,No,115.24
+4,80.46,1,40.14737831,,3.07,37.71,52.1,Clothing,Overnight,UPI,North,Yes,136.18
+5,45.32,3,44.34416046,19,3.29,11.94,0.01,Sports,Express,PayPal,Central,Yes,17.15
+6,45.32,1,44.62312467,19,1.52,36.88,27.94,Electronics,Standard,Credit Card,East,Yes,142.69
+7,81.58,2,23.19445582,22,4.36,39.87,34.96,Clothing,Express,Credit Card,North,Yes,51.85
+8,65.35,5,20.32601526,19,4.15,12.36,5.66,Sports,Standard,Credit Card,Central,No,124.08
+9,40.61,4,27.40047749,20,3.63,35.79,16.14,Sports,Standard,PayPal,South,No,109.82
+10,,3,38.59809128,22,2.86,40.61,2.24,Books,Overnight,Debit Card,West,Yes,270.85
