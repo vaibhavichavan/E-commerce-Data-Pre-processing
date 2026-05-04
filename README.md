@@ -110,6 +110,6 @@ Export cleaned dataset to Excel. Generate full numeric and categorical summary r
 
 ## 📸 Notebook Screenshot
 
-![pdf Preview](https://github.com/vaibhavichavan/E-commerce-Data-Pre-processing/blob/main/Ecommerce-Pdf.pdf)
+![Ecommerce_Dataset_Project](https://github.com/vaibhavichavan/E-commerce-Data-Pre-processing/blob/main/Ecommerce-Pdf.pdf)
 
 
